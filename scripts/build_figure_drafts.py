@@ -52,6 +52,103 @@ def format_axis(ax, grid_axis="x") -> None:
     ax.set_axisbelow(True)
 
 
+def figure_conceptual_framework() -> None:
+    fig, ax = plt.subplots(figsize=(7.2, 4.8))
+    ax.set_axis_off()
+    ax.set_xlim(0, 1)
+    ax.set_ylim(0, 1)
+
+    left = [
+        "Hierarchy\npreference",
+        "Methane\nopportunity",
+        "Robustness",
+        "Readiness",
+    ]
+    y_positions = [0.78, 0.58, 0.38, 0.18]
+    colors = ["#2C7FB8", "#D95F02", "#666666", "#1A9850"]
+
+    for title, y, color in zip(left, y_positions, colors):
+        ax.add_patch(
+            plt.Rectangle(
+                (0.04, y - 0.075),
+                0.34,
+                0.13,
+                facecolor=color,
+                alpha=0.14,
+                edgecolor=color,
+                linewidth=1.2,
+            )
+        )
+        ax.text(
+            0.21,
+            y,
+            title,
+            fontsize=12,
+            weight="bold",
+            color="#222222",
+            va="center",
+            ha="center",
+        )
+        ax.annotate(
+            "",
+            xy=(0.55, y),
+            xytext=(0.39, y),
+            arrowprops=dict(arrowstyle="->", lw=1.2, color="#555555"),
+        )
+
+    ax.add_patch(
+        plt.Rectangle(
+            (0.56, 0.11),
+            0.38,
+            0.74,
+            facecolor="#F7F7F7",
+            edgecolor="#333333",
+            linewidth=1.2,
+        )
+    )
+    ax.text(
+        0.75,
+        0.77,
+        "Deployment priority",
+        fontsize=13,
+        weight="bold",
+        ha="center",
+        color="#222222",
+    )
+    priorities = [
+        ("Immediate priority", "#1A9850"),
+        ("Strategic build-out", "#FEE08B"),
+        ("No-regret / complementary", "#91BFDB"),
+        ("Longer-term / local fit", "#D73027"),
+    ]
+    for i, (label, color) in enumerate(priorities):
+        y = 0.64 - i * 0.13
+        ax.add_patch(
+            plt.Rectangle(
+                (0.62, y - 0.045),
+                0.26,
+                0.075,
+                facecolor=color,
+                alpha=0.85,
+                edgecolor="white",
+                linewidth=0.8,
+            )
+        )
+        ax.text(0.75, y - 0.008, label, ha="center", va="center", fontsize=9, color="#222222")
+    ax.text(
+        0.75,
+        0.17,
+        "Policy sequencing,\nnot universal ranking",
+        ha="center",
+        va="center",
+        fontsize=9,
+        color="#333333",
+    )
+    fig.tight_layout()
+    fig.savefig(FIGURES / "fig_conceptual_framework.png", dpi=350)
+    plt.close(fig)
+
+
 def figure_global_pathways(global_metrics: pd.DataFrame) -> None:
     row = global_metrics.iloc[0]
     totals = pd.DataFrame(
@@ -536,6 +633,7 @@ def main() -> None:
     weighting = pd.read_csv(READINESS_WEIGHTING_FILE)
 
     figure_global_pathways(global_metrics)
+    figure_conceptual_framework()
     figure_region_pathways(region)
     figure_best_counts(counts)
     figure_robust_counts(sensitivity_counts)

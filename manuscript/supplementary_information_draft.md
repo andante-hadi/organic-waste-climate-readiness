@@ -2,7 +2,7 @@
 
 ## Analysis
 
-Operationalizing the waste hierarchy for climate-ready organic waste transitions
+A global mitigation-readiness framework for organic waste transitions
 
 ## Supplementary Note 1. Data Sources
 

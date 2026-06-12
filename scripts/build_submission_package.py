@@ -15,7 +15,7 @@ FIGURES = MANUSCRIPT / "figures"
 PACKAGE = ROOT / "submission_package"
 PACKAGE_FIGURES = PACKAGE / "figures"
 
-TITLE = "Operationalizing the waste hierarchy for climate-ready organic waste transitions"
+TITLE = "A global mitigation-readiness framework for organic waste transitions"
 
 
 def _font(size: int, bold: bool = False) -> ImageFont.ImageFont:
@@ -47,9 +47,9 @@ def compose_figures() -> None:
 
     specs = {
         "Figure_1.png": [
-            ("a", "map_ofmsw_generation.png", (60, 40, 1640, 880)),
-            ("b", "map_first_pass_methane.png", (1740, 40, 1640, 880)),
-            ("c", "fig_region_pathway_totals.png", (260, 1000, 2860, 860)),
+            ("a", "fig_conceptual_framework.png", (80, 60, 1120, 760)),
+            ("b", "map_ofmsw_generation.png", (1280, 40, 2040, 860)),
+            ("c", "map_first_pass_methane.png", (360, 1000, 2760, 860)),
         ],
         "Figure_2.png": [
             ("a", "fig_global_pathway_totals.png", (80, 40, 1120, 640)),
