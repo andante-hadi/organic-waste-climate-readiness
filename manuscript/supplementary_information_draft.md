@@ -382,6 +382,18 @@ The central readiness typology uses mitigation-potential and readiness threshold
 | 0.77 | 0.60 | +15% | central | 31 | 16 | 83 | 22 | 65 |
 | 0.77 | 0.69 | +15% | +15% | 24 | 23 | 64 | 41 | 65 |
 
+We also tested whether the readiness typology is sensitive to the equal-weight assumption used in the central pathway-specific readiness scores. Alternative weighting schemes doubled the weight of collection coverage, economic capacity, existing infrastructure or data completeness while keeping the central mitigation and readiness thresholds fixed. The immediate-priority class remains stable under these alternatives: 41-54 countries/economies are classified as immediate priorities, and 89.1-100.0% of the central immediate-priority countries/economies remain in that class.
+
+### Supplementary Table 23. Readiness class counts under alternative weighting schemes
+
+| Scenario | Immediate priority | Strategic build-out | No-regret / complementary | Longer-term / local fit | Missing/insufficient | Countries changing class from central | Central immediate priorities retained |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Central equal weights | 46 | 24 | 68 | 14 | 65 | 0 | 46 (100.0%) |
+| Collection-heavy | 46 | 24 | 69 | 13 | 65 | 1 | 46 (100.0%) |
+| Economic-capacity-heavy | 41 | 29 | 64 | 18 | 65 | 9 | 41 (89.1%) |
+| Infrastructure-heavy | 45 | 25 | 68 | 14 | 65 | 1 | 45 (97.8%) |
+| Data-completeness-heavy | 54 | 16 | 71 | 11 | 65 | 11 | 46 (100.0%) |
+
 ## Supplementary Note 18. Limitations
 
 The analysis is a screening framework rather than a final inventory or site-specific LCA. Main limitations include:
@@ -401,11 +413,13 @@ The analysis is a screening framework rather than a final inventory or site-spec
 - `data/processed/country_ofmsw_four_pathway_comparison.csv`
 - `data/processed/country_ofmsw_four_pathway_sensitivity.csv`
 - `data/processed/country_ofmsw_readiness_index.csv`
+- `data/processed/country_ofmsw_readiness_weighting_robustness.csv`
 - `outputs/summary_four_pathway_global_metrics.csv`
 - `outputs/sensitivity_global_pathway_summary.csv`
 - `outputs/sensitivity_robust_winner_counts.csv`
 - `outputs/summary_readiness_opportunity_classes.csv`
 - `outputs/summary_readiness_threshold_robustness.csv`
 - `outputs/summary_readiness_threshold_robustness_grid.csv`
+- `outputs/summary_readiness_weighting_robustness.csv`
 
 Licensed ecoinvent source files and raw exchange-level inventory tables should not be archived publicly.
