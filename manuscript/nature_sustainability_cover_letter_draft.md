@@ -2,7 +2,7 @@
 
 Dear Editors,
 
-We are pleased to submit our manuscript, "Climate-ready pathways for municipal organic waste management worldwide," for consideration as an Analysis in *Nature Sustainability*.
+We are pleased to submit our manuscript, "Operationalizing the waste hierarchy for climate-ready organic waste transitions," for consideration as an Analysis in *Nature Sustainability*.
 
 Organic municipal waste is a major source of avoidable methane, but countries lack a global decision framework for translating the waste hierarchy into climate investment priorities. Prevention is rightly placed at the top of the waste hierarchy, especially for food waste, yet countries also face large quantities of unavoidable or already-generated organic waste that are landfilled, dumped, uncollected or otherwise unmanaged. In these contexts, climate-prioritized action depends not only on hierarchy principles, but also on methane baselines, energy substitution, uncertainty and implementation readiness.
 

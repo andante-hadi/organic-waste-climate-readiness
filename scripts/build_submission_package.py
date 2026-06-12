@@ -15,7 +15,7 @@ FIGURES = MANUSCRIPT / "figures"
 PACKAGE = ROOT / "submission_package"
 PACKAGE_FIGURES = PACKAGE / "figures"
 
-TITLE = "Climate-ready pathways for municipal organic waste management worldwide"
+TITLE = "Operationalizing the waste hierarchy for climate-ready organic waste transitions"
 
 
 def _font(size: int, bold: bool = False) -> ImageFont.ImageFont:
@@ -58,16 +58,16 @@ def compose_figures() -> None:
             ("d", "fig_top20_country_hotspots.png", (420, 1340, 2600, 720)),
         ],
         "Figure_3.png": [
-            ("a", "fig_uncertainty_intervals.png", (80, 40, 1260, 650)),
-            ("b", "map_robust_winning_pathway.png", (1420, 40, 1940, 900)),
-            ("c", "fig_robust_winner_counts.png", (80, 800, 1120, 520)),
-            ("d", "fig_uncertainty_confidence.png", (1320, 1060, 1800, 760)),
+            ("a", "fig_uncertainty_intervals.png", (80, 40, 1500, 720)),
+            ("b", "fig_win_probability_by_winner.png", (1740, 40, 1500, 720)),
+            ("c", "fig_robust_winner_counts.png", (120, 920, 1100, 620)),
+            ("d", "fig_robust_recovery_opportunities.png", (1420, 880, 1720, 820)),
         ],
         "Figure_4.png": [
             ("a", "map_readiness_typology.png", (80, 40, 1980, 900)),
             ("b", "fig_readiness_scatter.png", (2140, 80, 1240, 860)),
             ("c", "fig_top_readiness_countries.png", (80, 1080, 1640, 900)),
-            ("d", "fig_city_readiness_alignment.png", (1860, 1180, 1420, 700)),
+            ("d", "fig_readiness_weighting_robustness.png", (1880, 1180, 1360, 700)),
         ],
     }
 

@@ -19,6 +19,7 @@ SENSITIVITY_GLOBAL_FILE = OUTPUTS / "sensitivity_global_pathway_summary.csv"
 SENSITIVITY_COUNTS_FILE = OUTPUTS / "sensitivity_robust_winner_counts.csv"
 SENSITIVITY_COUNTRY_FILE = PROCESSED / "country_ofmsw_four_pathway_sensitivity.csv"
 CITY_READINESS_FILE = OUTPUTS / "summary_city_by_country_readiness_class.csv"
+READINESS_WEIGHTING_FILE = OUTPUTS / "summary_readiness_weighting_robustness.csv"
 
 COLORS = {
     "Prevention": "#2C7FB8",
@@ -304,6 +305,162 @@ def figure_uncertainty_confidence(sensitivity_country: pd.DataFrame) -> None:
     plt.close(fig)
 
 
+def figure_win_probability_by_winner(sensitivity_country: pd.DataFrame) -> None:
+    data = sensitivity_country.copy()
+    data = data[
+        data["robust_winning_pathway"].notna()
+        & (data["robust_winning_pathway"] != "Missing/insufficient data")
+    ].copy()
+    order = ["Prevention", "AD-bio-CNG", "AD-electricity", "No robust winner"]
+    data = data[data["robust_winning_pathway"].isin(order)]
+    positions = {label: i for i, label in enumerate(order)}
+
+    fig, ax = plt.subplots(figsize=(6.6, 4.2))
+    for label in order:
+        subset = data[data["robust_winning_pathway"] == label]
+        if subset.empty:
+            continue
+        x = [positions[label]] * len(subset)
+        ax.scatter(
+            x,
+            subset["max_win_probability"],
+            s=24,
+            alpha=0.55,
+            color=COLORS.get(label, "#777777"),
+            edgecolor="white",
+            linewidth=0.25,
+        )
+        median = subset["max_win_probability"].median()
+        ax.plot(
+            [positions[label] - 0.28, positions[label] + 0.28],
+            [median, median],
+            color="#222222",
+            linewidth=1.5,
+        )
+    ax.axhline(0.50, color="#333333", linestyle="--", linewidth=0.9)
+    ax.set_xticks(range(len(order)))
+    ax.set_xticklabels(order, rotation=20, ha="right")
+    ax.set_ylim(0.45, 1.02)
+    ax.set_ylabel("Maximum pathway win probability")
+    ax.set_xlabel("")
+    format_axis(ax, grid_axis="y")
+    fig.tight_layout()
+    fig.savefig(FIGURES / "fig_win_probability_by_winner.png", dpi=350)
+    plt.close(fig)
+
+
+def figure_robust_recovery_opportunities(
+    sensitivity_country: pd.DataFrame, pathways: pd.DataFrame
+) -> None:
+    data = sensitivity_country.drop(columns=["country"], errors="ignore").merge(
+        pathways[
+            [
+                "iso3",
+                "country",
+                "best_four_pathway_screen",
+                "best_four_pathway_benefit_tco2e",
+            ]
+        ],
+        on="iso3",
+        how="left",
+        validate="1:1",
+    )
+    data = data[
+        data["robust_winning_pathway"].isin(["AD-bio-CNG", "AD-electricity"])
+    ].dropna(subset=["best_four_pathway_benefit_tco2e"])
+    data["best_benefit_mtco2e"] = data["best_four_pathway_benefit_tco2e"] / 1e6
+    data = data.sort_values("best_benefit_mtco2e", ascending=False).head(12)
+    save_table(
+        data[
+            [
+                "country",
+                "robust_winning_pathway",
+                "max_win_probability",
+                "best_benefit_mtco2e",
+            ]
+        ],
+        "figure_robust_recovery_opportunities.csv",
+    )
+
+    fig, ax = plt.subplots(figsize=(7.2, 4.8))
+    draw = data.sort_values("best_benefit_mtco2e")
+    bars = ax.barh(
+        draw["country"],
+        draw["best_benefit_mtco2e"],
+        color=[COLORS.get(p, "#777777") for p in draw["robust_winning_pathway"]],
+    )
+    for bar, prob in zip(bars, draw["max_win_probability"]):
+        ax.text(
+            bar.get_width() + 0.15,
+            bar.get_y() + bar.get_height() / 2,
+            f"{prob:.2f}",
+            va="center",
+            ha="left",
+            fontsize=8,
+            color="#333333",
+        )
+    ax.set_xlabel("Best screened pathway benefit (Mt CO2e yr$^{-1}$)")
+    ax.set_ylabel("")
+    ax.set_title("Robust AD recovery opportunities", loc="left", fontsize=11)
+    ax.text(
+        0.99,
+        0.02,
+        "Labels show win probability",
+        transform=ax.transAxes,
+        ha="right",
+        va="bottom",
+        fontsize=8,
+        color="#555555",
+    )
+    format_axis(ax)
+    fig.tight_layout()
+    fig.savefig(FIGURES / "fig_robust_recovery_opportunities.png", dpi=350)
+    plt.close(fig)
+
+
+def figure_readiness_weighting_robustness(weighting: pd.DataFrame) -> None:
+    data = weighting.copy()
+    data["Scenario"] = data["Scenario"].replace(
+        {
+            "Central equal weights": "Central",
+            "Economic-capacity-heavy": "Economic\ncapacity",
+            "Data-completeness-heavy": "Data\ncompleteness",
+            "Infrastructure-heavy": "Infrastructure",
+            "Collection-heavy": "Collection",
+        }
+    )
+    order = ["Central", "Collection", "Economic\ncapacity", "Infrastructure", "Data\ncompleteness"]
+    data["order"] = data["Scenario"].apply(lambda x: order.index(x) if x in order else 99)
+    data = data.sort_values("order")
+
+    fig, ax = plt.subplots(figsize=(6.8, 4.2))
+    bars = ax.bar(
+        data["Scenario"],
+        data["Immediate priority"],
+        color="#1A9850",
+        alpha=0.85,
+    )
+    ax.axhline(46, color="#333333", linestyle="--", linewidth=0.9)
+    for bar, pct in zip(bars, data["Central immediate priorities retained (%)"]):
+        ax.text(
+            bar.get_x() + bar.get_width() / 2,
+            bar.get_height() + 1.0,
+            f"{pct:.0f}% retained",
+            ha="center",
+            va="bottom",
+            fontsize=8,
+            color="#333333",
+        )
+    ax.set_ylim(0, max(data["Immediate priority"]) + 10)
+    ax.set_ylabel("Immediate-priority countries/economies")
+    ax.set_xlabel("")
+    ax.set_title("Readiness classes under alternative weights", loc="left", fontsize=11)
+    format_axis(ax, grid_axis="y")
+    fig.tight_layout()
+    fig.savefig(FIGURES / "fig_readiness_weighting_robustness.png", dpi=350)
+    plt.close(fig)
+
+
 def figure_top_readiness_countries(readiness: pd.DataFrame) -> None:
     keep_classes = ["Immediate priority", "Strategic build-out"]
     plot_data = readiness[
@@ -376,6 +533,7 @@ def main() -> None:
     sensitivity_counts = pd.read_csv(SENSITIVITY_COUNTS_FILE)
     sensitivity_country = pd.read_csv(SENSITIVITY_COUNTRY_FILE)
     city_readiness = pd.read_csv(CITY_READINESS_FILE)
+    weighting = pd.read_csv(READINESS_WEIGHTING_FILE)
 
     figure_global_pathways(global_metrics)
     figure_region_pathways(region)
@@ -385,8 +543,11 @@ def main() -> None:
     figure_hotspots(pathways, methane)
     figure_readiness_scatter(readiness)
     figure_uncertainty_confidence(sensitivity_country)
+    figure_win_probability_by_winner(sensitivity_country)
+    figure_robust_recovery_opportunities(sensitivity_country, pathways)
     figure_top_readiness_countries(readiness)
     figure_city_readiness_alignment(city_readiness)
+    figure_readiness_weighting_robustness(weighting)
 
 
 if __name__ == "__main__":

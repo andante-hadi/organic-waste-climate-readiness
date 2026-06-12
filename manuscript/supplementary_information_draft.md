@@ -2,7 +2,7 @@
 
 ## Analysis
 
-Climate-ready pathways for municipal organic waste management worldwide
+Operationalizing the waste hierarchy for climate-ready organic waste transitions
 
 ## Supplementary Note 1. Data Sources
 

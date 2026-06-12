@@ -1,0 +1,13 @@
+country,robust_winning_pathway,max_win_probability,best_benefit_mtco2e
+United States,AD-bio-CNG,0.941,28.961833058450043
+Mexico,AD-bio-CNG,0.593,9.400086068717005
+Argentina,AD-bio-CNG,0.526,3.99426858769639
+Australia,AD-bio-CNG,0.601,3.9515731061273938
+Spain,AD-bio-CNG,1.0,3.123352872795896
+Myanmar,AD-bio-CNG,0.65,1.6808343331866007
+France,AD-bio-CNG,0.633,1.3897960552406055
+Uzbekistan,AD-electricity,0.688,1.0563083610052995
+Poland,AD-electricity,0.555,1.0500195820810516
+Ecuador,AD-bio-CNG,0.78,0.8743319714666697
+Portugal,AD-bio-CNG,0.517,0.7363391064275283
+United Kingdom,AD-bio-CNG,0.881,0.44933509955743295
