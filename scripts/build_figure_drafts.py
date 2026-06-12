@@ -2,6 +2,7 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 import pandas as pd
+from matplotlib.patches import FancyBboxPatch
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -67,18 +68,38 @@ def figure_conceptual_framework() -> None:
     y_positions = [0.78, 0.58, 0.38, 0.18]
     colors = ["#2C7FB8", "#D95F02", "#666666", "#1A9850"]
 
+    ax.text(
+        0.04,
+        0.94,
+        "Mitigation-readiness screen",
+        fontsize=13,
+        weight="bold",
+        color="#222222",
+        ha="left",
+        va="center",
+    )
+    ax.text(
+        0.04,
+        0.89,
+        "Four decision layers convert hierarchy principles into deployment priorities",
+        fontsize=8.8,
+        color="#555555",
+        ha="left",
+        va="center",
+    )
+
     for title, y, color in zip(left, y_positions, colors):
-        ax.add_patch(
-            plt.Rectangle(
-                (0.04, y - 0.075),
-                0.34,
-                0.13,
-                facecolor=color,
-                alpha=0.14,
-                edgecolor=color,
-                linewidth=1.2,
-            )
+        box = FancyBboxPatch(
+            (0.04, y - 0.07),
+            0.34,
+            0.12,
+            boxstyle="round,pad=0.012,rounding_size=0.012",
+            facecolor=color,
+            alpha=0.13,
+            edgecolor=color,
+            linewidth=1.1,
         )
+        ax.add_patch(box)
         ax.text(
             0.21,
             y,
@@ -93,19 +114,19 @@ def figure_conceptual_framework() -> None:
             "",
             xy=(0.55, y),
             xytext=(0.39, y),
-            arrowprops=dict(arrowstyle="->", lw=1.2, color="#555555"),
+            arrowprops=dict(arrowstyle="->", lw=1.2, color="#555555", shrinkA=0, shrinkB=0),
         )
 
-    ax.add_patch(
-        plt.Rectangle(
-            (0.56, 0.11),
-            0.38,
-            0.74,
-            facecolor="#F7F7F7",
-            edgecolor="#333333",
-            linewidth=1.2,
-        )
+    output = FancyBboxPatch(
+        (0.56, 0.11),
+        0.38,
+        0.74,
+        boxstyle="round,pad=0.016,rounding_size=0.015",
+        facecolor="#F7F7F7",
+        edgecolor="#333333",
+        linewidth=1.1,
     )
+    ax.add_patch(output)
     ax.text(
         0.75,
         0.77,
@@ -123,17 +144,17 @@ def figure_conceptual_framework() -> None:
     ]
     for i, (label, color) in enumerate(priorities):
         y = 0.64 - i * 0.13
-        ax.add_patch(
-            plt.Rectangle(
-                (0.62, y - 0.045),
-                0.26,
-                0.075,
-                facecolor=color,
-                alpha=0.85,
-                edgecolor="white",
-                linewidth=0.8,
-            )
+        priority_box = FancyBboxPatch(
+            (0.62, y - 0.045),
+            0.26,
+            0.075,
+            boxstyle="round,pad=0.008,rounding_size=0.01",
+            facecolor=color,
+            alpha=0.9,
+            edgecolor="white",
+            linewidth=0.8,
         )
+        ax.add_patch(priority_box)
         ax.text(0.75, y - 0.008, label, ha="center", va="center", fontsize=9, color="#222222")
     ax.text(
         0.75,
