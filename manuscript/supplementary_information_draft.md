@@ -366,15 +366,21 @@ Missingness is therefore unevenly distributed and highest in low-income countrie
 
 ## Supplementary Note 17. Readiness Threshold Robustness
 
-The central readiness typology uses mitigation-potential and readiness thresholds of 0.67 and 0.60, respectively. Because these thresholds are screening choices rather than empirically estimated breakpoints, we tested whether the class structure is sensitive to simultaneous threshold changes of plus or minus 15%. Lower thresholds move more countries into the immediate-priority class, whereas higher thresholds move more countries into longer-term/local-fit contexts. The central interpretation is unchanged: the typology should be used to distinguish likely near-term deployment contexts from strategic build-out and lower-complexity no-regret contexts, not as a fixed national ranking.
+The central readiness typology uses mitigation-potential and readiness thresholds of 0.67 and 0.60, respectively. Because these thresholds are screening choices rather than empirically estimated breakpoints, we tested whether the class structure is sensitive to threshold changes of plus or minus 15% in a 3 x 3 grid. Lower thresholds move more countries into the immediate-priority class, whereas higher thresholds move more countries into longer-term/local-fit contexts. The central interpretation is unchanged: the typology should be used to distinguish likely near-term deployment contexts from strategic build-out and lower-complexity no-regret contexts, not as a fixed national ranking.
 
 ### Supplementary Table 22. Readiness class counts under threshold variation
 
-| Scenario | Mitigation threshold | Readiness threshold | Immediate priority | Strategic build-out | No-regret / complementary | Longer-term / local fit | Missing/insufficient |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Lower thresholds (-15%) | 0.57 | 0.51 | 79 | 13 | 54 | 6 | 65 |
-| Central thresholds | 0.67 | 0.60 | 46 | 24 | 68 | 14 | 65 |
-| Higher thresholds (+15%) | 0.77 | 0.69 | 24 | 23 | 64 | 41 | 65 |
+| Mitigation threshold | Readiness threshold | Mitigation change | Readiness change | Immediate priority | Strategic build-out | No-regret / complementary | Longer-term / local fit | Missing/insufficient |
+|---:|---:|---|---|---:|---:|---:|---:|---:|
+| 0.57 | 0.51 | -15% | -15% | 79 | 13 | 54 | 6 | 65 |
+| 0.57 | 0.60 | -15% | central | 64 | 28 | 50 | 10 | 65 |
+| 0.57 | 0.69 | -15% | +15% | 49 | 43 | 39 | 21 | 65 |
+| 0.67 | 0.51 | central | -15% | 60 | 10 | 73 | 9 | 65 |
+| 0.67 | 0.60 | central | central | 46 | 24 | 68 | 14 | 65 |
+| 0.67 | 0.69 | central | +15% | 34 | 36 | 54 | 28 | 65 |
+| 0.77 | 0.51 | +15% | -15% | 39 | 8 | 94 | 11 | 65 |
+| 0.77 | 0.60 | +15% | central | 31 | 16 | 83 | 22 | 65 |
+| 0.77 | 0.69 | +15% | +15% | 24 | 23 | 64 | 41 | 65 |
 
 ## Supplementary Note 18. Limitations
 
@@ -400,5 +406,6 @@ The analysis is a screening framework rather than a final inventory or site-spec
 - `outputs/sensitivity_robust_winner_counts.csv`
 - `outputs/summary_readiness_opportunity_classes.csv`
 - `outputs/summary_readiness_threshold_robustness.csv`
+- `outputs/summary_readiness_threshold_robustness_grid.csv`
 
 Licensed ecoinvent source files and raw exchange-level inventory tables should not be archived publicly.
