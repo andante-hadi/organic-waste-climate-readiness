@@ -1,0 +1,4 @@
+Scenario,Mitigation threshold,Readiness threshold,Immediate priority,Strategic build-out,No-regret / complementary,Longer-term / local fit,Missing/insufficient
+Lower thresholds (-15%),0.57,0.51,79,13,54,6,65
+Central thresholds,0.67,0.6,46,24,68,14,65
+Higher thresholds (+15%),0.77,0.69,24,23,64,41,65

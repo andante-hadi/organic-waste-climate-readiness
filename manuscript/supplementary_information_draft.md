@@ -364,6 +364,20 @@ Missingness is therefore unevenly distributed and highest in low-income countrie
 
 ## Supplementary Note 17. Limitations
 
+## Supplementary Note 17. Readiness Threshold Robustness
+
+The central readiness typology uses mitigation-potential and readiness thresholds of 0.67 and 0.60, respectively. Because these thresholds are screening choices rather than empirically estimated breakpoints, we tested whether the class structure is sensitive to simultaneous threshold changes of plus or minus 15%. Lower thresholds move more countries into the immediate-priority class, whereas higher thresholds move more countries into longer-term/local-fit contexts. The central interpretation is unchanged: the typology should be used to distinguish likely near-term deployment contexts from strategic build-out and lower-complexity no-regret contexts, not as a fixed national ranking.
+
+### Supplementary Table 22. Readiness class counts under threshold variation
+
+| Scenario | Mitigation threshold | Readiness threshold | Immediate priority | Strategic build-out | No-regret / complementary | Longer-term / local fit | Missing/insufficient |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Lower thresholds (-15%) | 0.57 | 0.51 | 79 | 13 | 54 | 6 | 65 |
+| Central thresholds | 0.67 | 0.60 | 46 | 24 | 68 | 14 | 65 |
+| Higher thresholds (+15%) | 0.77 | 0.69 | 24 | 23 | 64 | 41 | 65 |
+
+## Supplementary Note 18. Limitations
+
 The analysis is a screening framework rather than a final inventory or site-specific LCA. Main limitations include:
 
 - Missing and heterogeneous treatment-share reporting in What a Waste 3.0.
@@ -385,5 +399,6 @@ The analysis is a screening framework rather than a final inventory or site-spec
 - `outputs/sensitivity_global_pathway_summary.csv`
 - `outputs/sensitivity_robust_winner_counts.csv`
 - `outputs/summary_readiness_opportunity_classes.csv`
+- `outputs/summary_readiness_threshold_robustness.csv`
 
 Licensed ecoinvent source files and raw exchange-level inventory tables should not be archived publicly.
