@@ -392,9 +392,9 @@ We also tested whether the readiness typology is sensitive to the equal-weight a
 | Infrastructure-heavy | 45 | 25 | 68 | 14 | 65 | 1 | 45 (97.8%) |
 | Data-completeness-heavy | 54 | 16 | 71 | 11 | 65 | 11 | 46 (100.0%) |
 
-## Supplementary Note 18. Limitations
+## Supplementary Note 18. Scope and Interpretation
 
-The analysis is a screening framework rather than a final inventory or site-specific LCA. Main limitations include:
+The analysis is a country-level screening framework that supports prioritization and policy sequencing. Interpretation should account for:
 
 - Missing and heterogeneous treatment-share reporting in What a Waste 3.0.
 - Use of a first-pass methane model rather than a full first-order decay model.
