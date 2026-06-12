@@ -122,6 +122,10 @@ Mitigation potential was calculated from the log-transformed deterministic best-
 
 Monte Carlo sensitivity analysis was used to propagate uncertainty in pathway parameters and identify robust country-level winners. We ran 1,000 iterations with a fixed random seed. Parameters varied were AD process emissions, composting process emissions, biogas yield, methane-equivalent share, electricity-conversion efficiency, methane recovery, upgrading/compression electricity, diesel substitution, prevention rate and avoided upstream food emissions. AD process emissions were drawn from a triangular distribution of 40, 74.289 and 130 kg CO2e per tonne. Composting process emissions were drawn from a triangular distribution of 20, 34.025 and 90 kg CO2e per tonne. Biogas yield was drawn from 70, 100 and 150 m3 per tonne; methane-equivalent share from a uniform 0.55-0.70; electricity efficiency from a uniform 0.25-0.40; methane recovery from a uniform 0.90-0.99; upgrading/compression electricity from a triangular 0.25, 0.45 and 0.80 kWh per m3 raw biogas; diesel substitution from a uniform 0.055-0.090 kg CO2e per MJ; prevention rate from a uniform 0.10-0.30; and avoided upstream food emissions from a triangular 800, 1,500 and 2,800 kg CO2e per tonne. For each country and iteration, the pathway with the largest net GWP100 benefit was identified. Countries were classified by robust winning pathway where one pathway had the highest benefit in at least 50% of iterations; otherwise, they were classified as having no robust winner. Global pathway intervals were calculated from the distribution of summed country-level pathway benefits.
 
+### Use of AI-assisted Tools
+
+During manuscript preparation, the authors used AI-assisted tools to support language editing, structural revision, code checking and document preparation. The authors reviewed and edited all AI-assisted outputs and take full responsibility for the scientific content, data analysis, source verification, interpretations and conclusions. No generative AI tools were used to create or alter submitted research figures or images.
+
 ## Figure Captions
 
 **Fig. 1 | Country-level burden of food and green organic municipal waste.** Food and green organic municipal waste generation and first-pass methane burden were estimated for 217 countries and economies using What a Waste 3.0 and IPCC-style screening factors. The screen estimates 1.064 billion tonnes per year of food and green organic municipal waste in 2022, of which 516 million tonnes were landfilled, dumped, uncollected or unaccounted in countries with treatment data, corresponding to 18.9 Mt CH4 yr-1 or 514 Mt CO2e yr-1. Values are intended for prioritization, not as final national inventories.
@@ -158,4 +162,4 @@ The authors declare no competing interests.
 
 ## Generative AI Statement
 
-During manuscript preparation, the authors used AI-assisted tools to support language editing, structural revision, code checking and document preparation. The authors reviewed and edited all AI-assisted outputs and take full responsibility for the scientific content, data analysis, source verification, interpretations and conclusions. No generative AI tools were used to create or alter submitted research figures or images.
+The use of AI-assisted tools is documented in the Methods section.
