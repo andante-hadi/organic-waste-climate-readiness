@@ -134,11 +134,11 @@ Monte Carlo sensitivity analysis was used to propagate uncertainty in pathway pa
 
 ## Data Availability
 
-The analysis uses public data from World Bank What a Waste 3.0, World Development Indicators, Ember electricity data and Natural Earth boundaries, together with derived parameters from licensed ecoinvent 3.12 data. Public input data, processed country-level screening outputs, uncertainty results, readiness classifications and figure source data will be deposited in a public repository before publication. Proprietary ecoinvent source files and licensed exchange-level data cannot be redistributed; the derived screening parameters used in this study are reported in the Methods and Supplementary Information in accordance with licence terms.
+The analysis uses public data from World Bank What a Waste 3.0, World Development Indicators, Ember electricity data and Natural Earth boundaries, together with derived parameters from licensed ecoinvent 3.12 data. Public input data, processed country-level screening outputs, uncertainty results, readiness classifications and figure source data are available at https://github.com/andante-hadi/organic-waste-climate-readiness. Proprietary ecoinvent source files and licensed exchange-level data cannot be redistributed; the derived screening parameters used in this study are reported in the Methods and Supplementary Information in accordance with licence terms.
 
 ## Code Availability
 
-Analysis scripts used to harmonize datasets, estimate methane burden, screen pathways, run sensitivity analysis, construct readiness classes and generate figures will be archived in the same public repository before publication.
+Analysis scripts used to harmonize datasets, estimate methane burden, screen pathways, run sensitivity analysis, construct readiness classes and generate figures are available at https://github.com/andante-hadi/organic-waste-climate-readiness.
 
 ## Acknowledgements
 
