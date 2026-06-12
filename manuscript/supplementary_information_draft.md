@@ -6,7 +6,7 @@ Climate-ready pathways for municipal organic waste management worldwide
 
 ## Supplementary Note 1. Data Sources
 
-The analysis combines country-level waste, development, electricity, life-cycle inventory and boundary datasets. The main public datasets are World Bank What a Waste 3.0, World Development Indicators, Ember yearly electricity data and Natural Earth Admin 0 country boundaries. The life-cycle process parameters are derived from licensed ecoinvent 3.12 Cutoff unit-process exports, documentation and limited proxy calculations; proprietary ecoinvent exchange-level inventory data are not redistributed.
+The analysis combines country-level waste, development, electricity, life-cycle inventory and boundary datasets. The main public datasets are World Bank What a Waste 3.0, World Development Indicators, Ember yearly electricity data and Natural Earth Admin 0 country boundaries. The life-cycle process parameters are derived from licensed ecoinvent 3.12 Cutoff unit-process exports and documentation; proprietary ecoinvent exchange-level inventory data are not redistributed.
 
 ### Supplementary Table 1. Primary datasets
 
@@ -18,7 +18,6 @@ The analysis combines country-level waste, development, electricity, life-cycle 
 | Ember yearly electricity data | Country-specific electricity carbon intensity | `data/raw/ember_yearly_electricity_long.csv` | Public |
 | Natural Earth Admin 0 | Country boundaries for mapping | `data/raw/natural_earth/` | Public |
 | ecoinvent 3.12 cutoff | Process-emission, biogas-yield and nutrient parameters | openLCA export from ecoinvent 3.12 Cutoff Unit with EN15804 and ecoQuery documentation | Licensed |
-| ecoinvent 3.1 cutoff | Methane-share proxy where 3.12 export did not report biogas composition | User-provided licensed ecoSpold2 archive | Licensed |
 
 ## Supplementary Note 2. Organic Municipal Waste Definition
 
