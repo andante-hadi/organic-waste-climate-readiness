@@ -1,4 +1,4 @@
-# Cover Letter Draft: Nature Sustainability Analysis
+# Cover Letter: Nature Sustainability Analysis
 
 Dear Editors,
 

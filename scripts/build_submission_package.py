@@ -162,7 +162,7 @@ Use these files for the submission system:
 
 1. `NatureSustainability_Analysis_Main_Manuscript_with_Figures.docx`
    - File type: Manuscript
-   - Contains main text, references, figure captions, and draft embedded figures.
+   - Contains main text, references, figure captions, and embedded figures.
 
 2. `NatureSustainability_Analysis_Supplementary_Information.docx`
    - File type: Supplementary Information
@@ -172,7 +172,7 @@ Use these files for the submission system:
 
 The figure composites in `figures/` were regenerated from the updated ecoinvent 3.12 pathway outputs.
 
-Do not upload raw ecoinvent archives, ecoSpold files, or licensed screenshots/tables as source data.
+Raw ecoinvent archives, ecoSpold files, and licensed screenshots/tables are excluded from the upload package and public source data.
 """
     (PACKAGE / "UPLOAD_README.md").write_text(text)
 

@@ -1,4 +1,4 @@
-# Supplementary Information Draft
+# Supplementary Information
 
 ## Analysis
 
@@ -23,7 +23,7 @@ The analysis combines country-level waste, development, electricity, life-cycle 
 
 Organic municipal solid waste is defined in the central analysis as the sum of food waste and green waste fractions reported in What a Waste 3.0. Wood, paper, sewage sludge and industrial organic residues are excluded from the central definition to avoid mixing materially different waste streams and treatment logics.
 
-The ecoinvent biowaste documentation defines biowaste as biodegradable garden and park waste, food and kitchen waste from households and comparable sources, as well as comparable residues. This definition is close to the food plus green waste scope used in the screening model, but not identical. The manuscript should therefore describe the modelled flow as food and green organic municipal waste rather than all biowaste.
+The ecoinvent biowaste documentation defines biowaste as biodegradable garden and park waste, food and kitchen waste from households and comparable sources, as well as comparable residues. This definition is close to the food plus green waste scope used in the screening model, but not identical. The modelled flow is therefore described as food and green organic municipal waste rather than all biowaste.
 
 ## Supplementary Note 3. First-Pass Methane Screening
 
@@ -72,7 +72,7 @@ The four pathways are:
 
 ## Supplementary Note 5. ecoinvent-Derived Parameters
 
-The study uses derived factors from ecoinvent documentation and licensed data, not redistributed exchange-level inventory tables. The main article should cite ecoinvent and report the selected version, system model, process names, reference products and geographies.
+The study uses derived factors from ecoinvent documentation and licensed data, not redistributed exchange-level inventory tables. The selected ecoinvent version, system model, process names, reference products and geographies are reported to support interpretation and reproducibility.
 
 ### Supplementary Table 3. Central ecoinvent-derived and screening parameters
 
@@ -222,7 +222,7 @@ The screening factors are 5.0 kg CO2e/kg N, 1.0 kg CO2e/kg phosphate and 0.5 kg 
 | Composting | 1 |
 | Missing/insufficient data | 66 |
 
-Under conservative assumptions, nutrient credits modestly increase AD and composting benefits but do not overturn the central GWP100 interpretation. Final fertilizer substitution should harmonize phosphate/P/P2O5 units and account for agronomic availability, nutrient losses, soil-carbon effects, compost quality and market displacement limits.
+Under conservative assumptions, nutrient credits modestly increase AD and composting benefits but do not overturn the central GWP100 interpretation. Full fertilizer-substitution accounting requires harmonized phosphate/P/P2O5 units and context-specific treatment of agronomic availability, nutrient losses, soil-carbon effects, compost quality and market displacement limits.
 
 ## Supplementary Note 11. Soil Carbon And Humus Effects
 
@@ -404,7 +404,7 @@ The analysis is a screening framework rather than a final inventory or site-spec
 - Limited representation of soil carbon, fertilizer substitution, agronomic performance, cost, public health and behavioural feasibility.
 - Prevention rates and avoided upstream food-system emissions are uncertain and context-specific.
 
-## Supplementary Data Files To Archive
+## Supplementary Data Files in the Public Archive
 
 - `data/processed/country_ofmsw_analysis_dataset.csv`
 - `data/processed/country_ofmsw_first_pass_methane.csv`
@@ -420,4 +420,4 @@ The analysis is a screening framework rather than a final inventory or site-spec
 - `outputs/summary_readiness_threshold_robustness_grid.csv`
 - `outputs/summary_readiness_weighting_robustness.csv`
 
-Licensed ecoinvent source files and raw exchange-level inventory tables should not be archived publicly.
+Licensed ecoinvent source files and raw exchange-level inventory tables are not included in the public archive because they are subject to licence restrictions.
