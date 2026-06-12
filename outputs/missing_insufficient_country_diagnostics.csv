@@ -1,0 +1,66 @@
+iso3,country,region,income_2022,msw_2022_tpy,food_frac,green_frac,landfill_dump_uncollected_frac,electricity_carbon_intensity_2022_gco2_kwh,has_msw_generation,has_food_green_composition,has_disposal_treatment_shares,has_collection_coverage,has_wdi_development_covariates,has_electricity_carbon_intensity
+ASM,American Samoa,E. Asia & Pacific,HIC,16894.23087107575,0.197,,,611.11,True,True,False,True,True,True
+GUM,Guam,E. Asia & Pacific,HIC,145823.88199396516,0.273,,,611.11,True,True,False,True,True,True
+LAO,Lao PDR,E. Asia & Pacific,LMIC,455560.94062532345,,,1.0,237.27,True,False,True,True,True,True
+MAC,"Macao SAR, China",E. Asia & Pacific,HIC,443038.96,0.38,,,448.98,True,True,False,True,True,True
+NCL,New Caledonia,E. Asia & Pacific,HIC,111072.4302725195,,,,566.34,True,False,False,True,True,True
+AUT,Austria,Eur. & Cent. Asia,HIC,7261356.999999999,,,0.0167511571523033,140.84,True,False,True,False,True,True
+BLR,Belarus,Eur. & Cent. Asia,UMIC,3994300.0,,,0.6609,439.22,True,False,True,True,True,True
+BIH,Bosnia and Herzegovina,Eur. & Cent. Asia,UMIC,1184448.9999999998,,,1.0,683.18,True,False,True,True,True,True
+CHI,Channel Islands,Eur. & Cent. Asia,HIC,60949.15999999999,,,0.401371457419335,,True,False,True,False,True,False
+FRO,Faroe Islands,Eur. & Cent. Asia,HIC,64156.59871353472,,,0.0678518943331302,354.17,True,False,True,False,True,True
+GIB,Gibraltar,Eur. & Cent. Asia,HIC,16877.53212905299,0.2753,,,571.43,True,True,False,False,True,True
+GRL,Greenland,Eur. & Cent. Asia,HIC,41958.231,,,0.126835781041389,111.11,True,False,True,False,True,True
+ISL,Iceland,Eur. & Cent. Asia,HIC,227000.0000000001,,,0.612334801762114,27.68,True,False,True,True,True,True
+IMN,Isle of Man,Eur. & Cent. Asia,HIC,49452.56838740958,,,0.0231682125642999,,True,False,True,False,True,False
+LIE,Liechtenstein,Eur. & Cent. Asia,HIC,32423.999999999996,0.3239,,,,True,True,False,True,True,False
+LUX,Luxembourg,Eur. & Cent. Asia,HIC,465501.393,0.315933821444853,,,140.5,True,True,False,True,True,True
+MCO,Monaco,Eur. & Cent. Asia,HIC,45612.95781895706,,,,,True,False,False,True,True,False
+SMR,San Marino,Eur. & Cent. Asia,HIC,17584.811013077677,,,,,True,False,False,False,True,False
+CHE,Switzerland,Eur. & Cent. Asia,HIC,5940000.0,0.403352160978299,0.0071754140985403,,37.27,True,True,False,False,True,True
+TJK,Tajikistan,Eur. & Cent. Asia,LMIC,1692923.0457810825,,,1.0,86.55,True,False,True,True,True,True
+ABW,Aruba,L. Amer. & the Caribbean,HIC,70121.64718426853,,,0.849432237133166,550.0,True,False,True,True,True,True
+BHS,"Bahamas, The",L. Amer. & the Caribbean,HIC,519298.1618511185,,,1.0,653.66,True,False,True,True,True,True
+CYM,Cayman Islands,L. Amer. & the Caribbean,HIC,83590.0,,,0.9791,642.86,True,False,True,False,True,True
+DMA,Dominica,L. Amer. & the Caribbean,UMIC,13000.0,,,,600.0,True,False,False,True,True,True
+NIC,Nicaragua,L. Amer. & the Caribbean,LMIC,1563208.7738412532,,,1.0,289.35,True,False,True,True,True,True
+PRY,Paraguay,L. Amer. & the Caribbean,UMIC,2943098.0759999994,,,1.0,24.71,True,False,True,True,True,True
+KNA,St. Kitts and Nevis,L. Amer. & the Caribbean,HIC,33000.0,0.272,,,636.36,True,True,False,True,True,True
+LCA,St. Lucia,L. Amer. & the Caribbean,UMIC,81705.25,0.53,,,650.0,True,True,False,False,True,True
+MAF,St. Martin (French),L. Amer. & the Caribbean,HIC,13318.936980974891,0.314,,,,True,True,False,False,True,False
+TTO,Trinidad and Tobago,L. Amer. & the Caribbean,HIC,788197.8236842811,0.206,0.1181,,682.11,True,True,False,True,True,True
+TCA,Turks and Caicos Islands,L. Amer. & the Caribbean,HIC,17804.204031711382,0.2177,,,653.85,True,True,False,False,True,True
+VIR,Virgin Islands (US),L. Amer. & the Caribbean,HIC,109731.5585354352,0.089,0.063,,632.35,True,True,False,False,True,True
+DJI,Djibouti,Mid. East & N. Africa,LMIC,189509.53905395063,,,1.0,450.0,True,False,True,True,True,True
+PAK,Pakistan,S. Asia,LMIC,48500000.0,0.5696,,,,True,True,False,False,True,False
+AGO,Angola,Sub-Saharan Africa,LMIC,8090354.530519696,0.5181,,,172.16,True,True,False,True,True,True
+BDI,Burundi,Sub-Saharan Africa,LIC,374734.8747499087,0.57,,,230.77,True,True,False,False,True,True
+CMR,Cameroon,Sub-Saharan Africa,LMIC,6000000.000000001,0.834,,,280.98,True,True,False,True,True,True
+CAF,Central African Republic,Sub-Saharan Africa,LIC,1364646.8381652108,,,,0.0,True,False,False,False,True,True
+TCD,Chad,Sub-Saharan Africa,LIC,1022677.4096455644,0.7,,,615.39,True,True,False,False,True,True
+COM,Comoros,Sub-Saharan Africa,LMIC,107778.90027839836,0.5,,,642.86,True,True,False,False,True,True
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,LIC,22832036.81942417,,,0.951,26.78,True,False,True,False,True,True
+COG,"Congo, Rep.",Sub-Saharan Africa,LMIC,853424.198709035,,,0.738032038834951,707.07,True,False,True,True,True,True
+CIV,Côte d’Ivoire,Sub-Saharan Africa,LMIC,5269506.363073749,,,,413.16,True,False,False,False,True,True
+GNQ,Equatorial Guinea,Sub-Saharan Africa,UMIC,198323.67178298993,,,,602.65,True,False,False,False,True,True
+ERI,Eritrea,Sub-Saharan Africa,LIC,219099.42547514275,,,,590.91,True,False,False,False,True,True
+GAB,Gabon,Sub-Saharan Africa,UMIC,427477.0847503969,,,1.0,429.47,True,False,True,False,True,True
+GMB,"Gambia, The",Sub-Saharan Africa,LIC,387304.66041818354,,,0.164,666.67,True,False,True,False,True,True
+GHA,Ghana,Sub-Saharan Africa,LMIC,3976073.983041056,,,,469.42,True,False,False,False,True,True
+GNB,Guinea-Bissau,Sub-Saharan Africa,LIC,151577.41564586436,,,,625.0,True,False,False,False,True,True
+LSO,Lesotho,Sub-Saharan Africa,LMIC,178344.18942672267,,,,20.83,True,False,False,False,True,True
+LBR,Liberia,Sub-Saharan Africa,LIC,274346.7194212418,,,1.0,435.9,True,False,True,False,True,True
+MDG,Madagascar,Sub-Saharan Africa,LIC,3652904.054992768,0.4537,,,477.27,True,True,False,True,True,True
+MLI,Mali,Sub-Saharan Africa,LIC,1709132.772233153,0.175,,,391.71,True,True,False,True,True,True
+MRT,Mauritania,Sub-Saharan Africa,LMIC,562643.6061211217,,,0.92,481.71,True,False,True,False,True,True
+NAM,Namibia,Sub-Saharan Africa,UMIC,740296.8232342073,,,,45.46,True,False,False,False,True,True
+NER,Niger,Sub-Saharan Africa,LIC,1856516.9794370865,0.65,,,683.54,True,True,False,False,True,True
+NGA,Nigeria,Sub-Saharan Africa,LMIC,45737275.0330208,0.4978,,,497.37,True,True,False,True,True,True
+RWA,Rwanda,Sub-Saharan Africa,LIC,1186144.6411368144,,,,288.46,True,False,False,False,True,True
+SLE,Sierra Leone,Sub-Saharan Africa,LIC,433435.1094259653,,,,50.0,True,False,False,False,True,True
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,LIC,828483.6260641322,,,,523.81,True,False,False,False,True,True
+SSD,South Sudan,Sub-Saharan Africa,LIC,383353.5441103168,,,,647.06,True,False,False,False,True,True
+STP,São Tomé and Príncipe,Sub-Saharan Africa,LMIC,29105.073784211658,0.5,,,555.56,True,True,False,True,True,True
+TGO,Togo,Sub-Saharan Africa,LIC,350134.51166737685,0.38,,,477.78,True,True,False,False,True,True
+UGA,Uganda,Sub-Saharan Africa,LIC,10554334.368789528,0.73,0.08,,57.39,True,True,False,False,True,True
+ZWE,Zimbabwe,Sub-Saharan Africa,LMIC,2665433.7290080967,0.44688,,,297.54,True,True,False,True,True,True

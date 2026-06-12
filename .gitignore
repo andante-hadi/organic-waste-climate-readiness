@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+env/
+
+# Local manuscript submission builds
+submission_package/
+*.docx
+*.pdf
+
+# Licensed or proprietary LCI data must not be redistributed
+data/raw/ecoinvent*/
+*ecoinvent*.zolca
+*.spold
+*.7z
+notes/ecoinvent_3_1_biogas_proxy.md
+
+# Temporary render and cache outputs
+render*/
+tmp/
+temp/

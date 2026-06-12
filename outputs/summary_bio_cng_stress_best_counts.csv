@@ -1,0 +1,14 @@
+scenario,best_pathway_under_bio_cng_stress,countries
+central,AD-bio-CNG,28
+central,AD-electricity,3
+central,Prevention,121
+central,,66
+high_stress,AD-bio-CNG,1
+high_stress,AD-electricity,20
+high_stress,Composting,4
+high_stress,Prevention,127
+high_stress,,66
+moderate_stress,AD-bio-CNG,15
+moderate_stress,AD-electricity,12
+moderate_stress,Prevention,125
+moderate_stress,,66

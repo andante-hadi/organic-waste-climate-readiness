@@ -1,0 +1,161 @@
+# Climate-ready pathways for municipal organic waste management worldwide
+
+Andante Hadi Pandyaswargo1*, Hanifrahmawan Sudibyo2, Wiratni Budhijanto2 and Hiroshi Onoda3
+
+1 Environmental Research Institute, Waseda University, Tokyo, Japan.
+2 Department of Chemical Engineering, Universitas Gadjah Mada, Yogyakarta, Indonesia.
+3 Graduate School of Environment and Energy Engineering, Waseda University, Tokyo, Japan.
+
+*Correspondence: Andante Hadi Pandyaswargo. Email: andante.hadi@aoni.waseda.jp.
+
+## Abstract
+
+The waste hierarchy prioritizes prevention, but countries also face large organic waste flows that already create methane. We combine What a Waste 3.0, World Development Indicators, electricity carbon intensity, ecoinvent-derived process parameters and spatial data to compare prevention, composting, anaerobic digestion with electricity recovery and anaerobic digestion with biomethane/bio-CNG across 217 countries and economies. Countries generated an estimated 1.064 billion tonnes of food and green municipal waste in 2022; 516 million tonnes were landfilled, dumped, uncollected or unaccounted in countries with treatment data, creating a first-pass methane burden of 514 Mt CO2e yr-1. Prevention gives the largest deterministic global GWP100 benefit and is the most robust country-level winner in Monte Carlo analysis. A readiness typology identifies 46 immediate-priority countries/economies and 24 strategic build-out cases. The results do not overturn the waste hierarchy; they operationalize it for uneven methane, energy and infrastructure conditions.
+
+Food waste begins as a food-system failure, but it often becomes a methane problem. Food systems account for roughly one-third of anthropogenic greenhouse-gas emissions, and food loss and waste contributes about 8-10% of global emissions through the land, energy, water, fertilizer, processing, transport and retail systems used to produce food that is never consumed [3,17-21]. Discard does not end that climate burden. When food and green waste enter landfills, dumps or uncollected waste streams, anaerobic decomposition can release methane, turning a food-system inefficiency into a near-term climate, sanitation and circular-economy challenge [4,5,16].
+
+Policy has a clear first answer: prevent waste. The waste hierarchy places prevention above reuse, recycling, recovery and disposal, and for food waste that order is compelling because prevention avoids both upstream production burdens and downstream methane risks [15,25,26,32]. But countries do not plan from a blank slate. Many already manage large organic waste flows with incomplete collection, limited source separation, uncontrolled disposal and uneven energy systems. In those settings, the hierarchy gives direction but not a full investment rule. It does not say where prevention should be paired with composting, where anaerobic digestion should displace landfill methane, or where biomethane infrastructure is realistic.
+
+The treatment pathways create value in different ways. Composting can avoid disposal methane and return organic matter and nutrients to soils, but its climate balance depends on process emissions, compost quality, soil response and avoided fertilizer production [22-24,34-36]. Anaerobic digestion can avoid disposal methane and produce biogas, but its benefit changes with grid carbon intensity, heat or fuel displacement, methane leakage and digestate management [22-24,29,30,33,37]. Upgraded biomethane or bio-CNG can connect waste systems to transport-fuel substitution, but only where compression, storage, distribution, vehicles and institutions exist or can be built [29,30]. Prevention acts further upstream than any treatment pathway, but its achievable rate and avoided production burden vary across food systems, incomes, supply chains and behaviours.
+
+Existing evidence leaves a decision gap. Facility-scale LCAs show that organic waste outcomes depend on system boundaries, feedstocks and local substitutions, but they rarely guide global country prioritization [22-24,28,33]. Global food-waste studies show the scale of the problem, but usually stop before comparing municipal treatment pathways across countries [17-21]. Waste databases report generation, composition and treatment shares, but they seldom connect those flows to energy substitution, uncertainty and readiness in one framework. This separation encourages a false debate: either the hierarchy alone decides, or a single technology wins. Countries need a third option: a way to keep prevention first while still prioritizing unavoidable or already-generated waste.
+
+Here we build that decision framework as a global Analysis of existing datasets. We combine World Bank What a Waste 3.0 data on waste generation, composition, collection, treatment and projections with World Development Indicators, Ember electricity carbon intensity, ecoinvent-derived process parameters and Natural Earth country boundaries for 217 countries and economies [1,2,7-14]. We compare four pathways for food and green organic municipal waste: prevention, composting, anaerobic digestion with electricity recovery and anaerobic digestion with biomethane/bio-CNG production. We then ask which results survive parameter uncertainty, and which countries have enough readiness to move from theoretical mitigation toward deployment.
+
+The study does not test whether the waste hierarchy is wrong. It tests what the hierarchy needs in order to become actionable across uneven national conditions. We separate three questions that are often conflated: what should be preferred in principle, what offers the largest marginal climate benefit under current conditions, and what is feasible enough to justify near-term investment. The answer is a spatial decision logic that links hierarchy, methane opportunity, uncertainty and readiness.
+
+## Results
+
+### Organic waste creates a large methane opportunity
+
+Countries generate enough food and green waste for downstream management to matter. The What a Waste 3.0 country dataset indicates that 217 countries and economies generated approximately 1.064 billion tonnes of food and green organic municipal solid waste in 2022 [1,2]. In countries with treatment-share data, 516 million tonnes entered landfill, open dumping, uncollected waste or unaccounted treatment flows.
+
+That unmanaged or disposal-associated fraction creates a large first-pass methane opportunity. Using IPCC-style screening factors, we estimate 18.9 Mt CH4 yr-1, equivalent to 514.1 Mt CO2e yr-1 using a 100-year methane GWP (Fig. 1) [4-6]. These values are not final national inventories. They are the first layer of a prioritization framework: where does organic municipal waste create enough methane risk to justify comparing interventions?
+
+### Pathway rankings vary across countries
+
+The four pathways change the climate balance through different mechanisms, so their global totals tell only part of the story. In the deterministic GWP100 screen, prevention provides 232.8 Mt CO2e yr-1 of net benefit, followed by AD-bio-CNG at 219.5 Mt CO2e yr-1, AD-electricity at 209.1 Mt CO2e yr-1 and composting at 198.6 Mt CO2e yr-1 (Fig. 2a).
+
+This ranking should not be read as a universal technology order. Prevention leads globally because it avoids both upstream food-system emissions and downstream waste burdens. AD-bio-CNG remains the largest recovery pathway because it combines avoided disposal methane with transport-fuel substitution. Composting remains climate-positive, but this GWP100-only screen captures only part of its value; soil carbon, nutrient cycling, cost, simplicity and deployability are treated conservatively or outside the central metric.
+
+Country rankings reveal why a single global order is misleading. Among countries and economies with sufficient pathway data, prevention leads in 121 cases, AD-bio-CNG in 28 and AD-electricity in 3; 65 countries and economies lack sufficient data for pathway assignment (Fig. 2b,c). The same hierarchy principle therefore meets different methane baselines, grid intensities, fuel-substitution opportunities and data constraints.
+
+### Prevention is the robust country-level winner
+
+Uncertainty changes the interpretation from "which pathway is largest?" to "which pathway is robust?" At the global level, median net GWP100 benefits are 244.4 Mt CO2e yr-1 for prevention, 216.8 Mt CO2e yr-1 for AD-bio-CNG, 210.0 Mt CO2e yr-1 for AD-electricity and 195.9 Mt CO2e yr-1 for composting (Fig. 3a). Prevention has the widest range because achievable prevention rates and avoided upstream food-production burdens vary substantially. AD-bio-CNG remains high-potential, but its benefit moves with biogas yield, methane recovery, upgrading/compression electricity and displaced transport fuel.
+
+The country-level robustness results reinforce the deterministic result. Prevention is the robust winner in 125 countries/economies, AD-bio-CNG in 20 and AD-electricity in 5. Two countries have no robust winner, and 65 remain missing or insufficiently characterized (Fig. 3b,c). Thus, the central deterministic and uncertainty screens both identify prevention as the broadest priority, while AD-bio-CNG remains a spatially specific recovery opportunity. Additional stress tests show why this distinction matters: when methane recovery, upgrading electricity and displaced fuel are made less favourable, AD-bio-CNG wins in fewer countries. The result is therefore not a claim that biomethane universally outranks prevention; it is a map of where a recovery pathway may deserve closer local assessment.
+
+### Readiness defines where mitigation is deployable
+
+Mitigation potential does not equal deployability. The readiness screen separates countries into four decision spaces: immediate priority, strategic build-out, no-regret/complementary and longer-term/local fit. It identifies 46 countries/economies as immediate priorities, 24 as strategic build-out cases, 68 as no-regret or complementary contexts, 14 as longer-term/local-fit contexts and 65 as missing or insufficiently characterized (Fig. 4).
+
+This layer changes what a pathway ranking means. A high-potential country with stronger collection coverage, urbanization, income, data completeness and biological treatment signals is a plausible near-term investment candidate. A high-potential country with weaker readiness is still important, but the action shifts from deployment to collection, source separation, institutional capacity, offtake markets and infrastructure build-out. Lower-potential but higher-readiness countries remain useful no-regret contexts, especially for prevention, composting and incremental biological treatment expansion.
+
+## Discussion
+
+### The hierarchy needs spatial operationalization
+
+The results sharpen the waste hierarchy rather than reject it. The hierarchy answers a normative question: what should be preferred? The climate-readiness screen answers an investment question: where can marginal mitigation be delivered under existing waste baselines, energy systems, uncertainty and readiness constraints? Those questions overlap, but they are not the same.
+
+The distinction matters because organic waste policy often compresses several decisions into one ranking. Prevention, composting, AD-electricity and AD-bio-CNG intervene at different points, require different capacities and create different forms of climate value. Prevention avoids waste before it enters the municipal system. Composting can return organic matter and nutrients to soils, but a climate-only screen cannot fully value those benefits. We avoid applying a single global soil-carbon credit because soil organic carbon responses depend on climate, soil type, crop system, baseline organic carbon, application practice and permanence. AD-electricity depends on biogas yield and grid substitution. AD-bio-CNG adds the further requirements of upgrading infrastructure and credible transport-fuel displacement. A readiness lens is therefore not an add-on; it is what makes the pathway comparison interpretable.
+
+The framework also explains why recovery pathways still matter when prevention leads globally. AD-bio-CNG can be a large mitigation opportunity where methane avoidance, biomethane yield, fuel substitution and infrastructure align. Prevention remains the most defensible first principle across a wider range of uncertain conditions. The biomethane result is therefore treated as a screening opportunity that must pass sensitivity and readiness tests before it becomes a deployment recommendation. The policy implication is not to replace prevention with recovery. It is to sequence prevention, methane avoidance and resource recovery according to national readiness.
+
+### Readiness turns potential into policy sequencing
+
+For climate finance and national methane strategies, the readiness typology matters as much as the pathway ranking. Immediate-priority countries combine high mitigation opportunity with stronger implementation conditions. Strategic build-out countries may offer large long-term benefits, but they first need collection, source separation, biological treatment capacity, gas upgrading, vehicle or fuel offtake and monitoring. No-regret or complementary countries can still justify lower-complexity interventions, including prevention programs and composting, even where the climate-only mitigation total is smaller. Longer-term or local-fit countries should not be ignored, but high theoretical potential should not be mistaken for near-term feasibility.
+
+### Limits define the next evidence layer
+
+The framework also has limits, and those limits define how the results should be used. The analysis is a screening framework, not a final national greenhouse-gas inventory or a replacement for facility-level LCA. What a Waste 3.0 treatment shares contain missingness and reporting heterogeneity. Process emissions, biogas yield, biogas net calorific value and nutrient values come from ecoinvent 3.12 Cutoff unit-process exports and documentation. We therefore do not use the AD-bio-CNG result as a stand-alone conclusion. We propagate biogas-yield, methane-share, methane-recovery, upgrading-electricity and fuel-displacement uncertainty, and we report stress tests that show how rankings change when biomethane assumptions weaken. Composting and digestate benefits remain conservative because soil carbon, nutrient substitution, public health, cost, agronomic performance and local acceptance are not fully quantified. Prevention also carries wide uncertainty because achievable reductions are difficult to observe directly.
+
+These limitations do not erase the central result; they define the next layer of evidence needed. Better country and city data on organic waste composition, disposal conditions, methane management, source separation, treatment capacity, compost and digestate use and transport-fuel substitution would sharpen pathway rankings. Yet the current analysis already shows why a universal ranking is the wrong tool. Countries need a spatial decision logic that protects prevention while routing unavoidable or already-generated waste toward treatment and recovery pathways that fit their methane baselines and readiness.
+
+In short, the waste hierarchy remains necessary, but it is not sufficient for climate-prioritizing organic municipal waste transitions. Prevention should stay first. The next decisions should depend on where methane avoidance, energy substitution, uncertainty and readiness make composting, AD-electricity or AD-bio-CNG credible near-term climate actions.
+
+## Methods
+
+### Study Scope
+
+The analysis covers 217 countries and economies represented in the World Bank What a Waste 3.0 country dataset. Organic municipal waste is defined as the sum of reported food and green waste fractions in municipal solid waste. Results are reported at the country/economy level and are intended as a screening framework for prioritization rather than as a replacement for national greenhouse-gas inventories or facility-specific life-cycle assessment.
+
+### Waste Generation, Composition And Treatment Data
+
+Municipal waste generation, composition, treatment and collection variables were taken from What a Waste 3.0 [1,2]. Country records were harmonized by ISO3 code. Food and green waste were combined to estimate food and green organic municipal solid waste in 2022. Treatment-share data were used to identify waste associated with landfill, open dumping, uncollected waste and unaccounted treatment flows.
+
+### First-Pass Methane Burden
+
+The first-pass methane burden was estimated using IPCC-style screening parameters for degradable organic carbon, methane correction and methane fraction [4,5]. For each country and disposal condition, methane generation was estimated as CH4 = W x DOC x DOCf x MCF x F x 16/12.
+
+where `W` is the mass of food and green organic municipal waste sent to the disposal pathway, `DOC` is the weighted degradable organic carbon content, `DOCf` is the fraction of degradable organic carbon that decomposes, `MCF` is the methane correction factor, `F` is the methane fraction in landfill gas, and `16/12` converts carbon to methane. The screening used DOC values of 0.15 for food waste and 0.20 for green waste, `DOCf = 0.50`, and `F = 0.50`. Methane correction factors were set to 0.40 for open dumping and uncollected waste, 0.80 for controlled landfill, 1.00 for sanitary landfill, 0.60 for unspecified landfill and 0.60 for unaccounted treatment. Methane was converted to CO2-equivalent emissions using a 100-year GWP of 27.2 for biogenic methane [6]. These estimates are used to rank mitigation opportunities and are not intended to reproduce formal country inventory submissions.
+
+### Pathway Scenarios
+
+Four pathways were screened: prevention, composting, anaerobic digestion with electricity recovery, and anaerobic digestion with biomethane/bio-CNG production. Each pathway was evaluated as a marginal intervention applied to currently unmanaged or disposal-associated food and green organic municipal waste. The pathways include avoided methane, process emissions and substitution credits where applicable.
+
+The deterministic treatment scenarios target 50% of currently unmanaged or disposal-associated food and green organic municipal waste and apply 80% source-separation or capture efficiency, resulting in diversion of 40% of the eligible waste flow. Prevention represents avoided generation of 20% of unmanaged food waste and includes avoided upstream food-system emissions. Composting represents diversion of organic waste to managed aerobic treatment with ecoinvent-derived process emissions. AD-electricity represents diversion to anaerobic digestion, biogas production and electricity substitution using country-specific grid carbon intensity. AD-bio-CNG represents anaerobic digestion followed by biogas upgrading/compression and displacement of diesel-equivalent transport fuel, with country-specific electricity burdens for upgrading/compression.
+
+For each treatment pathway, net climate benefit was calculated as avoided disposal methane plus substitution credits minus process and energy burdens. Prevention benefits were calculated as avoided disposal methane plus avoided upstream food-system emissions for the prevented waste fraction, using 1,500 kg CO2e per tonne of prevented food waste in the deterministic case. Composting and anaerobic digestion benefits include avoided disposal methane for diverted waste, while AD-electricity and AD-bio-CNG add energy-substitution credits.
+
+### Process Parameters
+
+Process emissions for composting and anaerobic digestion were derived from ecoinvent 3.12 Cutoff unit-process exports for Rest-of-World biowaste treatment [9,10]. Direct biogenic CO2 was excluded, while biogenic CH4 and N2O were converted using AR6 GWP100 values. The resulting direct process-emission factors are 34.025 kg CO2e per tonne of fresh-mass organic waste for industrial composting and 74.289 kg CO2e per tonne for anaerobic digestion.
+
+Biogas yield was derived from the ecoinvent 3.12 Cutoff unit process for anaerobic digestion of biowaste, which reports an average yield of 100 litres of biogas per kilogram of biowaste, or 100 m3 per tonne. Methane-equivalent share was inferred from the ecoinvent 3.12 biogas product net calorific value of 22.73 MJ per m3 divided by a methane lower heating value of 35.8 MJ per m3, giving 0.6349 m3 CH4-equivalent per m3 biogas. For AD-electricity, this was converted to 189.9 kWh per tonne of organic waste using methane lower heating value and a conservative 30% electricity-conversion efficiency. For AD-bio-CNG, the deterministic screen assumes 97% methane recovery during upgrading, 0.45 kWh electricity per m3 raw biogas for upgrading and compression, and 0.074 kg CO2e per MJ biomethane as the displaced diesel-equivalent transport-fuel factor. We therefore treat AD-bio-CNG as a screening opportunity rather than a deployment recommendation; parameter uncertainty was propagated through the Monte Carlo analysis.
+
+Compost and digestate nutrient contents were documented for later sensitivity and supplementary analysis but are not yet fully credited in the central GWP100 screen. The composting documentation reports 3.59 kg N, 1.67 kg phosphate and 3.16 kg K per tonne of fresh-mass biogenic waste. The anaerobic-digestion documentation reports summed solid and liquid digestate contents of 11.4 kg N, 2.3 kg phosphate and 7.9 kg K per tonne of fresh-mass biogenic waste. These values require conversion and agronomic assumptions before mineral-fertilizer substitution can be credited.
+
+### Electricity Carbon Intensity And Development Covariates
+
+Country-specific electricity carbon intensity was derived from Ember yearly electricity data [8]. Development and readiness covariates, including population, income, GDP per capita and urbanization, were derived from World Development Indicators [7]. Natural Earth country boundaries were used for mapping and spatial joins [13,14].
+
+### Readiness Index
+
+The readiness screen combines general implementation indicators and pathway-specific indicators. General indicators include collection coverage, income class, GDP per capita, urbanization and data completeness. Income classes were scored as 1.00 for high-income countries, 0.75 for upper-middle-income countries, 0.45 for lower-middle-income countries and 0.25 for low-income countries. These ordinal weights were used as transparent screening scores for broad institutional and financial capacity rather than as precise economic coefficients; continuous GDP per capita was included separately to retain within-class variation. GDP per capita was log-transformed and min-max scaled using the 5th and 95th percentiles. Urbanization was scaled between 20% and 95%. Existing biological treatment was calculated from reported anaerobic digestion plus composting shares and capped at 20%. Existing recovery infrastructure was calculated from recycling, mechanical-biological treatment, refuse-derived fuel and incineration shares and capped at 60%. Data completeness was the share of required waste, disposal, composition, development and electricity fields available for each country.
+
+Pathway-specific readiness scores were then calculated as component means. Prevention readiness combined general readiness, income and data completeness. Composting readiness combined collection, existing biological treatment, urbanization and data completeness. AD-electricity readiness combined collection, existing biological treatment, existing recovery infrastructure, GDP per capita and data completeness. AD-bio-CNG readiness combined collection, GDP per capita, urbanization, existing recovery infrastructure and data completeness. Each country was assigned the readiness score corresponding to its deterministic best pathway.
+
+Mitigation potential was calculated from the log-transformed deterministic best-pathway benefit and scaled using the 5th and 95th percentiles among countries with pathway results. Countries with mitigation-potential score >=0.67 and readiness score >=0.60 were classified as immediate priorities. Countries with mitigation score >=0.67 and readiness score <0.60 were classified as strategic build-out cases. Countries with mitigation score <0.67 and readiness score >=0.60 were classified as no-regret/complementary contexts. Countries with mitigation score <0.67 and readiness score <0.60 were classified as longer-term/local-fit contexts. Countries lacking sufficient pathway or readiness data were classified as missing/insufficient data.
+
+### Sensitivity Analysis
+
+Monte Carlo sensitivity analysis was used to propagate uncertainty in pathway parameters and identify robust country-level winners. We ran 1,000 iterations with a fixed random seed. Parameters varied were AD process emissions, composting process emissions, biogas yield, methane-equivalent share, electricity-conversion efficiency, methane recovery, upgrading/compression electricity, diesel substitution, prevention rate and avoided upstream food emissions. AD process emissions were drawn from a triangular distribution of 40, 74.289 and 130 kg CO2e per tonne. Composting process emissions were drawn from a triangular distribution of 20, 34.025 and 90 kg CO2e per tonne. Biogas yield was drawn from 70, 100 and 150 m3 per tonne; methane-equivalent share from a uniform 0.55-0.70; electricity efficiency from a uniform 0.25-0.40; methane recovery from a uniform 0.90-0.99; upgrading/compression electricity from a triangular 0.25, 0.45 and 0.80 kWh per m3 raw biogas; diesel substitution from a uniform 0.055-0.090 kg CO2e per MJ; prevention rate from a uniform 0.10-0.30; and avoided upstream food emissions from a triangular 800, 1,500 and 2,800 kg CO2e per tonne. For each country and iteration, the pathway with the largest net GWP100 benefit was identified. Countries were classified by robust winning pathway where one pathway had the highest benefit in at least 50% of iterations; otherwise, they were classified as having no robust winner. Global pathway intervals were calculated from the distribution of summed country-level pathway benefits.
+
+## Figure Captions
+
+**Fig. 1 | Country-level burden of food and green organic municipal waste.** Food and green organic municipal waste generation and first-pass methane burden were estimated for 217 countries and economies using What a Waste 3.0 and IPCC-style screening factors. The screen estimates 1.064 billion tonnes per year of food and green organic municipal waste in 2022, of which 516 million tonnes were landfilled, dumped, uncollected or unaccounted in countries with treatment data, corresponding to 18.9 Mt CH4 yr-1 or 514 Mt CO2e yr-1. Values are intended for prioritization, not as final national inventories.
+
+**Fig. 2 | Deterministic climate benefits of prevention, composting, AD-electricity and AD-bio-CNG.** The central parameterization estimates net GWP100 benefits of 232.8 Mt CO2e yr-1 for prevention, 219.5 Mt CO2e yr-1 for AD-bio-CNG, 209.1 Mt CO2e yr-1 for AD-electricity and 198.6 Mt CO2e yr-1 for composting. At the country level, prevention is the leading deterministic pathway in 121 countries/economies, AD-bio-CNG in 28 and AD-electricity in 3; 65 countries/economies have missing or insufficient pathway data. The global ranking should not be interpreted as a universal technology ranking because pathway benefits depend on methane baselines, energy substitution and implementation context.
+
+**Fig. 3 | Pathway uncertainty and robust country-level winners.** Monte Carlo analysis propagates uncertainty in prevention rates, avoided upstream food emissions, process emissions, biogas yield, methane share, electricity conversion, methane recovery, upgrading electricity and displaced transport fuel. Median global net benefits are 244.4 Mt CO2e yr-1 for prevention, 216.8 Mt CO2e yr-1 for AD-bio-CNG, 210.0 Mt CO2e yr-1 for AD-electricity and 195.9 Mt CO2e yr-1 for composting. Prevention is the robust winner in 125 countries/economies, AD-bio-CNG in 20 and AD-electricity in 5; two countries/economies have no robust winner and 65 have missing or insufficient data.
+
+**Fig. 4 | Climate-readiness typology for organic municipal waste transitions.** Countries/economies are classified by mitigation potential and implementation readiness into immediate priority, strategic build-out, no-regret/complementary, longer-term/local fit, or missing/insufficient data classes. The first readiness screen identifies 46 immediate-priority countries/economies, 24 strategic build-out cases, 68 no-regret/complementary contexts, 14 longer-term/local-fit contexts and 65 missing or insufficiently characterized cases. The typology separates where climate action may be deployable now from where large mitigation potential requires institutional and infrastructure build-out.
+
+## Data Availability
+
+The analysis uses public data from World Bank What a Waste 3.0, World Development Indicators, Ember electricity data and Natural Earth boundaries, together with derived parameters from licensed ecoinvent 3.12 data. Public input data, processed country-level screening outputs, uncertainty results, readiness classifications and figure source data will be deposited in a public repository before publication. Proprietary ecoinvent source files and licensed exchange-level data cannot be redistributed; the derived screening parameters used in this study are reported in the Methods and Supplementary Information in accordance with licence terms.
+
+## Code Availability
+
+Analysis scripts used to harmonize datasets, estimate methane burden, screen pathways, run sensitivity analysis, construct readiness classes and generate figures will be archived in the same public repository before publication.
+
+## Acknowledgements
+
+This work was funded by the Japan Science and Technology Agency SICORP (grant number JPMJSC24E1) and the Japan Society for the Promotion of Science (JSPS) (grant number JP26K15287). The work was also supported by RIIM BRIN and LPDP grants (grant numbers 69/IV/KS/04/2025 and 1867/UN1/DITLIT/Dit-Lit/PT.01.03/2025).
+
+## Funding
+
+The Japan Science and Technology Agency SICORP (JPMJSC24E1), the Japan Society for the Promotion of Science (JSPS) (JP26K15287), and RIIM BRIN and LPDP (69/IV/KS/04/2025 and 1867/UN1/DITLIT/Dit-Lit/PT.01.03/2025) provided financial support for this study.
+
+## Author Contributions
+
+A.H.P. contributed to conceptualization, data curation, formal analysis, funding acquisition, investigation, methodology, project administration, resources, software, supervision, validation, visualization, writing - original draft, and writing - review and editing. H.S. contributed to data curation, funding acquisition, project administration and validation. W.B. contributed to supervision and validation. H.O. contributed to supervision and validation.
+
+## Competing Interests
+
+The authors declare no competing interests.
+
+## Generative AI Statement
+
+During manuscript preparation, the authors used AI-assisted tools to support language editing, structural revision, code checking and document preparation. The authors reviewed and edited all AI-assisted outputs and take full responsibility for the scientific content, data analysis, source verification, interpretations and conclusions. No generative AI tools were used to create or alter submitted research figures or images.

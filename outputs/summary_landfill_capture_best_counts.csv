@@ -1,0 +1,13 @@
+scenario,best_pathway_landfill_capture_sensitivity,countries
+high_capture,AD-bio-CNG,9
+high_capture,AD-electricity,1
+high_capture,Prevention,142
+high_capture,,66
+low_capture,AD-bio-CNG,20
+low_capture,AD-electricity,3
+low_capture,Prevention,129
+low_capture,,66
+moderate_capture,AD-bio-CNG,14
+moderate_capture,AD-electricity,1
+moderate_capture,Prevention,137
+moderate_capture,,66
