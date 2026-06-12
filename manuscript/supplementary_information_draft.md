@@ -321,7 +321,7 @@ Most sampled city unmanaged/disposal OFMSW lies in countries classified as immed
 
 ## Supplementary Note 15. Mapping And Boundary Data
 
-Country maps use Natural Earth Admin 0 boundaries at 1:50m resolution. Model ISO3 codes were joined to Natural Earth `ADM0_A3`. The current join matches 212 of 217 model ISO3 entries. Unmatched codes are `CHI`, `GIB`, `PSE`, `SSD` and `XKX`. Final submission maps should include standard boundary-disclaimer language required by the journal.
+Country maps use Natural Earth Admin 0 boundaries at 1:50m resolution. Model ISO3 codes were joined to Natural Earth `ADM0_A3`. The current join matches 212 of 217 model ISO3 entries. Unmatched codes are `CHI`, `GIB`, `PSE`, `SSD` and `XKX`. Map boundaries are used for visualization only and do not imply any position regarding jurisdictional claims, disputed territories or accepted national boundaries.
 
 ## Supplementary Note 16. Missing-Data Diagnostics
 
@@ -361,8 +361,6 @@ The pathway and readiness screens classify 65 countries/economies as missing or 
 | Upper-middle income (2019 classification) | 1 | 1 | 0 | 0.0% |
 
 Missingness is therefore unevenly distributed and highest in low-income countries and Sub-Saharan Africa. This pattern supports the readiness interpretation: data capacity, collection systems and treatment reporting are themselves part of implementation readiness. The results should not be interpreted as evidence that missing countries have low mitigation potential; rather, they identify where improved waste characterization and treatment reporting would be especially valuable.
-
-## Supplementary Note 17. Limitations
 
 ## Supplementary Note 17. Readiness Threshold Robustness
 
