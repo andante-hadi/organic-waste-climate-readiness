@@ -1,0 +1,7 @@
+variable_group,countries_with_any_data,countries_missing_all_group_fields,coverage_pct
+MSW generation,217,0,100.0
+Food/green composition,179,38,82.5
+Disposal/treatment shares,174,43,80.2
+Collection coverage,138,79,63.6
+WDI development covariates,216,1,99.5
+Electricity carbon intensity,202,15,93.1

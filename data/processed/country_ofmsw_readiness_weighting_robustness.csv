@@ -1,0 +1,1086 @@
+iso3,country,best_four_pathway_screen,scenario,mitigation_potential_score,readiness_score,opportunity_readiness_class,central_opportunity_readiness_class
+ASM,American Samoa,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+AUS,Australia,AD-bio-CNG,Central equal weights,0.9451936824048736,0.8604882467787214,Immediate priority,Immediate priority
+BRN,Brunei Darussalam,AD-electricity,Central equal weights,0.3946121553771129,0.4399253853785555,Longer-term / local fit,Longer-term / local fit
+KHM,Cambodia,Prevention,Central equal weights,0.7891204840453387,0.5489925848340752,Strategic build-out,Strategic build-out
+CHN,China,Prevention,Central equal weights,1.0,0.6728360774799244,Immediate priority,Immediate priority
+FJI,Fiji,Prevention,Central equal weights,0.3430324819031734,0.6491724312855406,No-regret / complementary,No-regret / complementary
+PYF,French Polynesia,Prevention,Central equal weights,0.208906926979552,0.8337696240865767,No-regret / complementary,No-regret / complementary
+GUM,Guam,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+HKG,"Hong Kong SAR, China",AD-bio-CNG,Central equal weights,0.6965509574755353,0.8584060228785901,Immediate priority,Immediate priority
+IDN,Indonesia,Prevention,Central equal weights,1.0,0.7001696778348313,Immediate priority,Immediate priority
+JPN,Japan,Prevention,Central equal weights,0.4192427209499342,0.9343472022162654,No-regret / complementary,No-regret / complementary
+KIR,Kiribati,Prevention,Central equal weights,0.1042019922815948,0.6152655753798866,No-regret / complementary,No-regret / complementary
+KOR,"Korea, Rep.",Prevention,Central equal weights,0.637981576646601,0.875040474025349,No-regret / complementary,No-regret / complementary
+LAO,Lao PDR,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+MAC,"Macao SAR, China",,Central equal weights,,,Missing/insufficient,Missing/insufficient
+MYS,Malaysia,Prevention,Central equal weights,0.9182241651254056,0.7350914047044855,Immediate priority,Immediate priority
+MHL,Marshall Islands,Prevention,Central equal weights,0.0,0.6863273014088697,No-regret / complementary,No-regret / complementary
+FSM,"Micronesia, Fed. Sts.",Prevention,Central equal weights,0.0153479024780708,0.4774581565943721,Longer-term / local fit,Longer-term / local fit
+MNG,Mongolia,Prevention,Central equal weights,0.5771760550574917,0.6088652194326101,No-regret / complementary,No-regret / complementary
+MMR,Myanmar,AD-bio-CNG,Central equal weights,0.8398357970490514,0.419567583359457,Strategic build-out,Strategic build-out
+NRU,Nauru,Prevention,Central equal weights,0.0,0.9230098109739883,No-regret / complementary,No-regret / complementary
+NCL,New Caledonia,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+NZL,New Zealand,AD-bio-CNG,Central equal weights,0.5737778870953206,0.7529279844610105,No-regret / complementary,No-regret / complementary
+MNP,Northern Mariana Islands,Prevention,Central equal weights,0.0158560664590792,0.7655052361568967,No-regret / complementary,No-regret / complementary
+PLW,Palau,Prevention,Central equal weights,0.0401310503180615,0.8044433509773317,No-regret / complementary,No-regret / complementary
+PNG,Papua New Guinea,Prevention,Central equal weights,0.6178051524036267,0.5072728899498168,Longer-term / local fit,Longer-term / local fit
+PHL,Philippines,Prevention,Central equal weights,0.9467666060743666,0.5685726497081879,Strategic build-out,Strategic build-out
+WSM,Samoa,Prevention,Central equal weights,0.0906264633694502,0.6691330308109454,No-regret / complementary,No-regret / complementary
+SGP,Singapore,AD-bio-CNG,Central equal weights,0.1486560822700873,0.975,No-regret / complementary,No-regret / complementary
+SLB,Solomon Islands,Prevention,Central equal weights,0.442599888067506,0.5081041736655534,Longer-term / local fit,Longer-term / local fit
+TWN,"Taiwan, China",AD-bio-CNG,Central equal weights,0.3330537932584356,0.75,No-regret / complementary,No-regret / complementary
+THA,Thailand,Prevention,Central equal weights,0.9711303440645884,0.7641480423590766,Immediate priority,Immediate priority
+TLS,Timor-Leste,Prevention,Central equal weights,0.4176073680851568,0.47619974278069693,Longer-term / local fit,Longer-term / local fit
+TON,Tonga,Prevention,Central equal weights,0.0,0.7251461684838003,No-regret / complementary,No-regret / complementary
+TUV,Tuvalu,Prevention,Central equal weights,0.0,0.6982053306161081,No-regret / complementary,No-regret / complementary
+VUT,Vanuatu,Prevention,Central equal weights,0.1454864317852141,0.5602545559593524,Longer-term / local fit,Longer-term / local fit
+VNM,Viet Nam,Prevention,Central equal weights,0.943892840906651,0.5688510624662174,Strategic build-out,Strategic build-out
+ALB,Albania,Prevention,Central equal weights,0.5502963545493029,0.7254308682796701,No-regret / complementary,No-regret / complementary
+AND,Andorra,Prevention,Central equal weights,0.0,0.8346592060377572,No-regret / complementary,No-regret / complementary
+ARM,Armenia,Prevention,Central equal weights,0.4991917823053633,0.784609422990891,No-regret / complementary,No-regret / complementary
+AUT,Austria,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+AZE,Azerbaijan,Prevention,Central equal weights,0.7280045269487914,0.7597664261309792,Immediate priority,Immediate priority
+BLR,Belarus,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+BEL,Belgium,Prevention,Central equal weights,0.2676760273225788,0.8784433580957979,No-regret / complementary,No-regret / complementary
+BIH,Bosnia and Herzegovina,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+BGR,Bulgaria,AD-bio-CNG,Central equal weights,0.5827102394175456,0.7470669689449334,No-regret / complementary,No-regret / complementary
+CHI,Channel Islands,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+HRV,Croatia,AD-bio-CNG,Central equal weights,0.5963525116418177,0.7211709997262787,No-regret / complementary,No-regret / complementary
+CYP,Cyprus,Prevention,Central equal weights,0.4897734963044797,0.7956237224883346,No-regret / complementary,No-regret / complementary
+CZE,Czech Republic,Prevention,Central equal weights,0.7063583482092564,0.7994055962740355,Immediate priority,Immediate priority
+DNK,Denmark,AD-bio-CNG,Central equal weights,0.2637711030629047,0.9483394891231114,No-regret / complementary,No-regret / complementary
+EST,Estonia,Prevention,Central equal weights,0.2189354478088819,0.7969899218237063,No-regret / complementary,No-regret / complementary
+FRO,Faroe Islands,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+FIN,Finland,AD-bio-CNG,Central equal weights,0.0104421278576868,0.839177949592313,No-regret / complementary,No-regret / complementary
+FRA,France,AD-bio-CNG,Central equal weights,0.8164016709562202,0.8293007262299144,Immediate priority,Immediate priority
+GEO,Georgia,Prevention,Central equal weights,0.6185394928825085,0.775084036173121,No-regret / complementary,No-regret / complementary
+DEU,Germany,Prevention,Central equal weights,0.5339167422446018,0.8199885244360767,No-regret / complementary,No-regret / complementary
+GIB,Gibraltar,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+GRC,Greece,Prevention,Central equal weights,0.754132829386763,0.8626768905296504,Immediate priority,Immediate priority
+GRL,Greenland,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+HUN,Hungary,AD-bio-CNG,Central equal weights,0.5838826511987801,0.6491974771942333,No-regret / complementary,No-regret / complementary
+ISL,Iceland,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+IRL,Ireland,AD-bio-CNG,Central equal weights,0.4980585979119231,0.8338067500716864,No-regret / complementary,No-regret / complementary
+IMN,Isle of Man,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+ITA,Italy,Prevention,Central equal weights,0.7964835346737906,0.8000231678682442,Immediate priority,Immediate priority
+KAZ,Kazakhstan,Prevention,Central equal weights,0.6894868867931253,0.7291965945235863,Immediate priority,Immediate priority
+XKX,Kosovo,Prevention,Central equal weights,0.4856336017855869,0.6372729946985164,No-regret / complementary,No-regret / complementary
+KGZ,Kyrgyz Republic,Prevention,Central equal weights,0.6169047546972349,0.535087848465842,Longer-term / local fit,Longer-term / local fit
+LVA,Latvia,AD-bio-CNG,Central equal weights,0.4753571553535252,0.6549726789408221,No-regret / complementary,No-regret / complementary
+LIE,Liechtenstein,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+LTU,Lithuania,Prevention,Central equal weights,0.3236412496057487,0.9082031925373925,No-regret / complementary,No-regret / complementary
+LUX,Luxembourg,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+MDA,Moldova,AD-bio-CNG,Central equal weights,0.5213101080162478,0.39245983450883515,Longer-term / local fit,Longer-term / local fit
+MCO,Monaco,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+MNE,Montenegro,Prevention,Central equal weights,0.4030876376706442,0.784772543813403,No-regret / complementary,No-regret / complementary
+NLD,Netherlands,AD-bio-CNG,Central equal weights,0.3143569147589138,0.9187548122013427,No-regret / complementary,No-regret / complementary
+MKD,North Macedonia,Prevention,Central equal weights,0.5613959011182842,0.7206481591177921,No-regret / complementary,No-regret / complementary
+NOR,Norway,AD-bio-CNG,Central equal weights,0.346039470076882,0.897354553938678,No-regret / complementary,No-regret / complementary
+POL,Poland,AD-electricity,Central equal weights,0.7818484620385867,0.730675433523874,Immediate priority,Immediate priority
+PRT,Portugal,AD-bio-CNG,Central equal weights,0.7381099519503324,0.6375442506931085,Immediate priority,Immediate priority
+ROU,Romania,Prevention,Central equal weights,0.7973008670746271,0.8344050317434958,Immediate priority,Immediate priority
+RUS,Russian Federation,AD-bio-CNG,Central equal weights,1.0,0.5671756543474713,Strategic build-out,Strategic build-out
+SMR,San Marino,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+SRB,Serbia,Prevention,Central equal weights,0.6739880995643427,0.7319285722866203,Immediate priority,Immediate priority
+SVK,Slovak Republic,Prevention,Central equal weights,0.615425720452251,0.7726212184840765,No-regret / complementary,No-regret / complementary
+SVN,Slovenia,AD-bio-CNG,Central equal weights,0.3135854722265407,0.8145232559545285,No-regret / complementary,No-regret / complementary
+ESP,Spain,AD-bio-CNG,Central equal weights,0.9162042117085974,0.782174220364908,Immediate priority,Immediate priority
+SWE,Sweden,Prevention,Central equal weights,0.2267739785944709,0.8880623535055316,No-regret / complementary,No-regret / complementary
+CHE,Switzerland,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+TJK,Tajikistan,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+TKM,Turkmenistan,Prevention,Central equal weights,0.4212738369990971,0.6855823143682701,No-regret / complementary,No-regret / complementary
+TUR,Türkiye,Prevention,Central equal weights,1.0,0.7648577383801993,Immediate priority,Immediate priority
+UKR,Ukraine,Prevention,Central equal weights,0.8799563135861703,0.5993650329127089,Strategic build-out,Strategic build-out
+GBR,United Kingdom,AD-bio-CNG,Central equal weights,0.6772335707540755,0.8666743244321808,Immediate priority,Immediate priority
+UZB,Uzbekistan,AD-electricity,Central equal weights,0.7825844356431367,0.4135910771767895,Strategic build-out,Strategic build-out
+ATG,Antigua and Barbuda,Prevention,Central equal weights,0.0928201577206545,0.8160910360980599,No-regret / complementary,No-regret / complementary
+ARG,Argentina,AD-bio-CNG,Central equal weights,0.946518227649086,0.685723349846134,Immediate priority,Immediate priority
+ABW,Aruba,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+BHS,"Bahamas, The",,Central equal weights,,,Missing/insufficient,Missing/insufficient
+BRB,Barbados,Prevention,Central equal weights,0.4344271524599532,0.8438543741444754,No-regret / complementary,No-regret / complementary
+BLZ,Belize,Prevention,Central equal weights,0.2847988276354339,0.6991532054904965,No-regret / complementary,No-regret / complementary
+BOL,Bolivia,Prevention,Central equal weights,0.7598000137893943,0.646510180895098,Immediate priority,Immediate priority
+BRA,Brazil,Prevention,Central equal weights,1.0,0.8053680471703467,Immediate priority,Immediate priority
+VGB,British Virgin Islands,Prevention,Central equal weights,0.0,0.7967454574361644,No-regret / complementary,No-regret / complementary
+CYM,Cayman Islands,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+CHL,Chile,Prevention,Central equal weights,0.898697058909988,0.9175765407137009,Immediate priority,Immediate priority
+COL,Colombia,Prevention,Central equal weights,0.9465198742433693,0.7854764149254675,Immediate priority,Immediate priority
+CRI,Costa Rica,Prevention,Central equal weights,0.6480993632847455,0.8026687204135176,No-regret / complementary,No-regret / complementary
+CUB,Cuba,Prevention,Central equal weights,0.7975813786761158,0.7006173400878907,Immediate priority,Immediate priority
+CUW,Curaçao,Prevention,Central equal weights,0.2893420181796118,0.7618919972374987,No-regret / complementary,No-regret / complementary
+DMA,Dominica,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+DOM,Dominican Republic,Prevention,Central equal weights,0.7876778392219946,0.7424462026079087,Immediate priority,Immediate priority
+ECU,Ecuador,AD-bio-CNG,Central equal weights,0.7592807075460002,0.5414616880153087,Strategic build-out,Strategic build-out
+SLV,El Salvador,Prevention,Central equal weights,0.6166381269606427,0.7768335283684825,No-regret / complementary,No-regret / complementary
+GRD,Grenada,Prevention,Central equal weights,0.1162492926359981,0.6369090415879191,No-regret / complementary,No-regret / complementary
+GTM,Guatemala,Prevention,Central equal weights,0.8421506656727251,0.7330316791631867,Immediate priority,Immediate priority
+GUY,Guyana,Prevention,Central equal weights,0.4231809166348365,0.7868148084970429,No-regret / complementary,No-regret / complementary
+HTI,Haiti,Prevention,Central equal weights,0.7303682941091787,0.5496181092758292,Strategic build-out,Strategic build-out
+HND,Honduras,Prevention,Central equal weights,0.7561185627674006,0.6752829258515254,Immediate priority,Immediate priority
+JAM,Jamaica,Prevention,Central equal weights,0.6210819254046938,0.6996626808643912,No-regret / complementary,No-regret / complementary
+MEX,Mexico,AD-bio-CNG,Central equal weights,1.0,0.6975139855039358,Immediate priority,Immediate priority
+NIC,Nicaragua,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+PAN,Panama,Prevention,Central equal weights,0.627790578397945,0.827503022171553,No-regret / complementary,No-regret / complementary
+PRY,Paraguay,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+PER,Peru,Prevention,Central equal weights,0.8686519904077512,0.8015233945250659,Immediate priority,Immediate priority
+PRI,Puerto Rico,AD-bio-CNG,Central equal weights,0.590955585695927,0.6962846080944353,No-regret / complementary,No-regret / complementary
+SXM,Sint Maarten (Dutch),Prevention,Central equal weights,0.0,0.8294276873786209,No-regret / complementary,No-regret / complementary
+KNA,St. Kitts and Nevis,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+LCA,St. Lucia,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+MAF,St. Martin (French),,Central equal weights,,,Missing/insufficient,Missing/insufficient
+VCT,St. Vincent and the Grenadines,Prevention,Central equal weights,0.1109287436239665,0.647980491221907,No-regret / complementary,No-regret / complementary
+SUR,Suriname,Prevention,Central equal weights,0.3476518968644992,0.7362600806203806,No-regret / complementary,No-regret / complementary
+TTO,Trinidad and Tobago,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+TCA,Turks and Caicos Islands,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+URY,Uruguay,Prevention,Central equal weights,0.619041244809349,0.928585152038278,No-regret / complementary,No-regret / complementary
+VEN,"Venezuela, RB",Prevention,Central equal weights,0.8528996678767579,0.7682196094514623,Immediate priority,Immediate priority
+VIR,Virgin Islands (US),,Central equal weights,,,Missing/insufficient,Missing/insufficient
+DZA,Algeria,Prevention,Central equal weights,0.9171427097360412,0.6106667975929209,Immediate priority,Immediate priority
+BHR,Bahrain,Prevention,Central equal weights,0.5842545571762999,0.8854274078012985,No-regret / complementary,No-regret / complementary
+DJI,Djibouti,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+EGY,"Egypt, Arab Rep.",Prevention,Central equal weights,0.9776113379481404,0.6119995662486959,Immediate priority,Immediate priority
+IRN,"Iran, Islamic Rep.",Prevention,Central equal weights,0.9896561617484902,0.5419177591141824,Strategic build-out,Strategic build-out
+IRQ,Iraq,Prevention,Central equal weights,0.9841999711844832,0.8187902945316362,Immediate priority,Immediate priority
+ISR,Israel,Prevention,Central equal weights,0.7673908948849708,0.8323029851980351,Immediate priority,Immediate priority
+JOR,Jordan,Prevention,Central equal weights,0.7456060955080249,0.6743757693049036,Immediate priority,Immediate priority
+KWT,Kuwait,Prevention,Central equal weights,0.7435934767697168,0.8893563318381399,Immediate priority,Immediate priority
+LBN,Lebanon,Prevention,Central equal weights,0.7211903045987212,0.6304271631853163,Immediate priority,Immediate priority
+LBY,Libya,Prevention,Central equal weights,0.801717019329384,0.6840044455681525,Immediate priority,Immediate priority
+MLT,Malta,Prevention,Central equal weights,0.3905169035703643,0.8804500207819025,No-regret / complementary,No-regret / complementary
+MAR,Morocco,Prevention,Central equal weights,0.878053133864097,0.6024325675044535,Immediate priority,Immediate priority
+OMN,Oman,Prevention,Central equal weights,0.6264502355441236,0.9181766022671137,No-regret / complementary,No-regret / complementary
+QAT,Qatar,Prevention,Central equal weights,0.6462946226760945,0.9500000000000001,No-regret / complementary,No-regret / complementary
+SAU,Saudi Arabia,Prevention,Central equal weights,0.9663949349641404,0.879156165703806,Immediate priority,Immediate priority
+SYR,Syrian Arab Republic,Prevention,Central equal weights,0.7720631290436955,0.49850799800876827,Strategic build-out,Strategic build-out
+TUN,Tunisia,Prevention,Central equal weights,0.742717135066421,0.5991469972737369,Strategic build-out,Strategic build-out
+ARE,United Arab Emirates,Prevention,Central equal weights,0.6985978286262401,0.8843102196453495,Immediate priority,Immediate priority
+PSE,West Bank and Gaza,Prevention,Central equal weights,0.6425957067011554,0.6743956061206481,No-regret / complementary,No-regret / complementary
+YEM,"Yemen, Rep.",Prevention,Central equal weights,0.8312501332770891,0.397469590034255,Strategic build-out,Strategic build-out
+BMU,Bermuda,Prevention,Central equal weights,0.0,0.9,No-regret / complementary,No-regret / complementary
+CAN,Canada,Prevention,Central equal weights,0.8876511771333476,0.8746470099233076,Immediate priority,Immediate priority
+USA,United States,AD-bio-CNG,Central equal weights,1.0,0.8507307029350961,Immediate priority,Immediate priority
+AFG,Afghanistan,Prevention,Central equal weights,0.6824331593964805,0.494261266718303,Strategic build-out,Strategic build-out
+BGD,Bangladesh,Prevention,Central equal weights,0.8673050069749466,0.6588489107297351,Immediate priority,Immediate priority
+BTN,Bhutan,Prevention,Central equal weights,0.1938297859131287,0.6150380801232654,No-regret / complementary,No-regret / complementary
+IND,India,Prevention,Central equal weights,1.0,0.5717633194699608,Strategic build-out,Strategic build-out
+MDV,Maldives,Prevention,Central equal weights,0.4142990952635595,0.7597473610179847,No-regret / complementary,No-regret / complementary
+NPL,Nepal,Prevention,Central equal weights,0.6862687510723511,0.570087560059359,Strategic build-out,Strategic build-out
+PAK,Pakistan,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+LKA,Sri Lanka,Prevention,Central equal weights,0.7043027714971855,0.5316987360075538,Strategic build-out,Strategic build-out
+AGO,Angola,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+BEN,Benin,Prevention,Central equal weights,0.6146299650082516,0.4899389088202,Longer-term / local fit,Longer-term / local fit
+BWA,Botswana,Prevention,Central equal weights,0.2610730465966596,0.7574146320321912,No-regret / complementary,No-regret / complementary
+BFA,Burkina Faso,Prevention,Central equal weights,0.4065474638332826,0.4125370106437966,Longer-term / local fit,Longer-term / local fit
+BDI,Burundi,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+CPV,Cabo Verde,Prevention,Central equal weights,0.2408610714130485,0.6075049229999263,No-regret / complementary,No-regret / complementary
+CMR,Cameroon,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+CAF,Central African Republic,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+TCD,Chad,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+COM,Comoros,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+COD,"Congo, Dem. Rep.",,Central equal weights,,,Missing/insufficient,Missing/insufficient
+COG,"Congo, Rep.",,Central equal weights,,,Missing/insufficient,Missing/insufficient
+CIV,Côte d’Ivoire,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+GNQ,Equatorial Guinea,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+ERI,Eritrea,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+SWZ,Eswatini,Prevention,Central equal weights,0.3966503327115631,0.5378044727304038,Longer-term / local fit,Longer-term / local fit
+ETH,Ethiopia,Prevention,Central equal weights,0.8170888839471673,0.4315175428161997,Strategic build-out,Strategic build-out
+GAB,Gabon,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+GMB,"Gambia, The",,Central equal weights,,,Missing/insufficient,Missing/insufficient
+GHA,Ghana,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+GIN,Guinea,Prevention,Central equal weights,0.6629725749981942,0.5095057907408274,Longer-term / local fit,Longer-term / local fit
+GNB,Guinea-Bissau,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+KEN,Kenya,Prevention,Central equal weights,0.7685843886382454,0.5491289261599468,Strategic build-out,Strategic build-out
+LSO,Lesotho,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+LBR,Liberia,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+MDG,Madagascar,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+MWI,Malawi,Prevention,Central equal weights,0.7641352445087537,0.3645833333333333,Strategic build-out,Strategic build-out
+MLI,Mali,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+MRT,Mauritania,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+MUS,Mauritius,AD-bio-CNG,Central equal weights,0.4823959358810789,0.5479977198261063,Longer-term / local fit,Longer-term / local fit
+MOZ,Mozambique,Prevention,Central equal weights,0.7715419881928725,0.43004770115981733,Strategic build-out,Strategic build-out
+NAM,Namibia,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+NER,Niger,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+NGA,Nigeria,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+RWA,Rwanda,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+SEN,Senegal,Prevention,Central equal weights,0.5473940916163427,0.583234312199805,Longer-term / local fit,Longer-term / local fit
+SYC,Seychelles,Prevention,Central equal weights,0.2058994176029729,0.825657898069671,No-regret / complementary,No-regret / complementary
+SLE,Sierra Leone,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+SOM,"Somalia, Fed. Rep.",,Central equal weights,,,Missing/insufficient,Missing/insufficient
+ZAF,South Africa,Prevention,Central equal weights,0.771813175989036,0.756672140090268,Immediate priority,Immediate priority
+SSD,South Sudan,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+SDN,Sudan,Prevention,Central equal weights,0.798090691502634,0.43841844378838607,Strategic build-out,Strategic build-out
+STP,São Tomé and Príncipe,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+TZA,Tanzania,Prevention,Central equal weights,0.8708483039272807,0.47114536910722116,Strategic build-out,Strategic build-out
+TGO,Togo,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+UGA,Uganda,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+ZMB,Zambia,Prevention,Central equal weights,0.7716406678116028,0.5732233429868508,Strategic build-out,Strategic build-out
+ZWE,Zimbabwe,,Central equal weights,,,Missing/insufficient,Missing/insufficient
+ASM,American Samoa,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+AUS,Australia,AD-bio-CNG,Collection-heavy,0.9451936824048736,0.8804068723156012,Immediate priority,Immediate priority
+BRN,Brunei Darussalam,AD-electricity,Collection-heavy,0.3946121553771129,0.4399253853785555,Longer-term / local fit,Longer-term / local fit
+KHM,Cambodia,Prevention,Collection-heavy,0.7891204840453387,0.5489925848340752,Strategic build-out,Strategic build-out
+CHN,China,Prevention,Collection-heavy,1.0,0.6728360774799244,Immediate priority,Immediate priority
+FJI,Fiji,Prevention,Collection-heavy,0.3430324819031734,0.6491724312855406,No-regret / complementary,No-regret / complementary
+PYF,French Polynesia,Prevention,Collection-heavy,0.208906926979552,0.8337696240865767,No-regret / complementary,No-regret / complementary
+GUM,Guam,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+HKG,"Hong Kong SAR, China",AD-bio-CNG,Collection-heavy,0.6965509574755353,0.8820050190654918,Immediate priority,Immediate priority
+IDN,Indonesia,Prevention,Collection-heavy,1.0,0.7001696778348313,Immediate priority,Immediate priority
+JPN,Japan,Prevention,Collection-heavy,0.4192427209499342,0.9343472022162654,No-regret / complementary,No-regret / complementary
+KIR,Kiribati,Prevention,Collection-heavy,0.1042019922815948,0.6152655753798866,No-regret / complementary,No-regret / complementary
+KOR,"Korea, Rep.",Prevention,Collection-heavy,0.637981576646601,0.875040474025349,No-regret / complementary,No-regret / complementary
+LAO,Lao PDR,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+MAC,"Macao SAR, China",,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+MYS,Malaysia,Prevention,Collection-heavy,0.9182241651254056,0.7350914047044855,Immediate priority,Immediate priority
+MHL,Marshall Islands,Prevention,Collection-heavy,0.0,0.6863273014088697,No-regret / complementary,No-regret / complementary
+FSM,"Micronesia, Fed. Sts.",Prevention,Collection-heavy,0.0153479024780708,0.4774581565943721,Longer-term / local fit,Longer-term / local fit
+MNG,Mongolia,Prevention,Collection-heavy,0.5771760550574917,0.6088652194326101,No-regret / complementary,No-regret / complementary
+MMR,Myanmar,AD-bio-CNG,Collection-heavy,0.8398357970490514,0.4879729861328808,Strategic build-out,Strategic build-out
+NRU,Nauru,Prevention,Collection-heavy,0.0,0.9230098109739883,No-regret / complementary,No-regret / complementary
+NCL,New Caledonia,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+NZL,New Zealand,AD-bio-CNG,Collection-heavy,0.5737778870953206,0.7941066537175088,No-regret / complementary,No-regret / complementary
+MNP,Northern Mariana Islands,Prevention,Collection-heavy,0.0158560664590792,0.7655052361568967,No-regret / complementary,No-regret / complementary
+PLW,Palau,Prevention,Collection-heavy,0.0401310503180615,0.8044433509773317,No-regret / complementary,No-regret / complementary
+PNG,Papua New Guinea,Prevention,Collection-heavy,0.6178051524036267,0.5072728899498168,Longer-term / local fit,Longer-term / local fit
+PHL,Philippines,Prevention,Collection-heavy,0.9467666060743666,0.5685726497081879,Strategic build-out,Strategic build-out
+WSM,Samoa,Prevention,Collection-heavy,0.0906264633694502,0.6691330308109454,No-regret / complementary,No-regret / complementary
+SGP,Singapore,AD-bio-CNG,Collection-heavy,0.1486560822700873,0.9791666666666666,No-regret / complementary,No-regret / complementary
+SLB,Solomon Islands,Prevention,Collection-heavy,0.442599888067506,0.5081041736655534,Longer-term / local fit,Longer-term / local fit
+TWN,"Taiwan, China",AD-bio-CNG,Collection-heavy,0.3330537932584356,0.75,No-regret / complementary,No-regret / complementary
+THA,Thailand,Prevention,Collection-heavy,0.9711303440645884,0.7641480423590766,Immediate priority,Immediate priority
+TLS,Timor-Leste,Prevention,Collection-heavy,0.4176073680851568,0.47619974278069693,Longer-term / local fit,Longer-term / local fit
+TON,Tonga,Prevention,Collection-heavy,0.0,0.7251461684838003,No-regret / complementary,No-regret / complementary
+TUV,Tuvalu,Prevention,Collection-heavy,0.0,0.6982053306161081,No-regret / complementary,No-regret / complementary
+VUT,Vanuatu,Prevention,Collection-heavy,0.1454864317852141,0.5602545559593524,Longer-term / local fit,Longer-term / local fit
+VNM,Viet Nam,Prevention,Collection-heavy,0.943892840906651,0.5688510624662174,Strategic build-out,Strategic build-out
+ALB,Albania,Prevention,Collection-heavy,0.5502963545493029,0.7254308682796701,No-regret / complementary,No-regret / complementary
+AND,Andorra,Prevention,Collection-heavy,0.0,0.8346592060377572,No-regret / complementary,No-regret / complementary
+ARM,Armenia,Prevention,Collection-heavy,0.4991917823053633,0.784609422990891,No-regret / complementary,No-regret / complementary
+AUT,Austria,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+AZE,Azerbaijan,Prevention,Collection-heavy,0.7280045269487914,0.7597664261309792,Immediate priority,Immediate priority
+BLR,Belarus,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+BEL,Belgium,Prevention,Collection-heavy,0.2676760273225788,0.8784433580957979,No-regret / complementary,No-regret / complementary
+BIH,Bosnia and Herzegovina,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+BGR,Bulgaria,AD-bio-CNG,Collection-heavy,0.5827102394175456,0.7888891407874445,No-regret / complementary,No-regret / complementary
+CHI,Channel Islands,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+HRV,Croatia,AD-bio-CNG,Collection-heavy,0.5963525116418177,0.7668091664385658,No-regret / complementary,No-regret / complementary
+CYP,Cyprus,Prevention,Collection-heavy,0.4897734963044797,0.7956237224883346,No-regret / complementary,No-regret / complementary
+CZE,Czech Republic,Prevention,Collection-heavy,0.7063583482092564,0.7994055962740355,Immediate priority,Immediate priority
+DNK,Denmark,AD-bio-CNG,Collection-heavy,0.2637711030629047,0.9569495742692595,No-regret / complementary,No-regret / complementary
+EST,Estonia,Prevention,Collection-heavy,0.2189354478088819,0.7969899218237063,No-regret / complementary,No-regret / complementary
+FRO,Faroe Islands,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+FIN,Finland,AD-bio-CNG,Collection-heavy,0.0104421278576868,0.839177949592313,No-regret / complementary,No-regret / complementary
+FRA,France,AD-bio-CNG,Collection-heavy,0.8164016709562202,0.8293007262299144,Immediate priority,Immediate priority
+GEO,Georgia,Prevention,Collection-heavy,0.6185394928825085,0.775084036173121,No-regret / complementary,No-regret / complementary
+DEU,Germany,Prevention,Collection-heavy,0.5339167422446018,0.8199885244360767,No-regret / complementary,No-regret / complementary
+GIB,Gibraltar,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+GRC,Greece,Prevention,Collection-heavy,0.754132829386763,0.8626768905296504,Immediate priority,Immediate priority
+GRL,Greenland,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+HUN,Hungary,AD-bio-CNG,Collection-heavy,0.5838826511987801,0.6491974771942333,No-regret / complementary,No-regret / complementary
+ISL,Iceland,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+IRL,Ireland,AD-bio-CNG,Collection-heavy,0.4980585979119231,0.8338067500716864,No-regret / complementary,No-regret / complementary
+IMN,Isle of Man,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+ITA,Italy,Prevention,Collection-heavy,0.7964835346737906,0.8000231678682442,Immediate priority,Immediate priority
+KAZ,Kazakhstan,Prevention,Collection-heavy,0.6894868867931253,0.7291965945235863,Immediate priority,Immediate priority
+XKX,Kosovo,Prevention,Collection-heavy,0.4856336017855869,0.6372729946985164,No-regret / complementary,No-regret / complementary
+KGZ,Kyrgyz Republic,Prevention,Collection-heavy,0.6169047546972349,0.535087848465842,Longer-term / local fit,Longer-term / local fit
+LVA,Latvia,AD-bio-CNG,Collection-heavy,0.4753571553535252,0.6549726789408221,No-regret / complementary,No-regret / complementary
+LIE,Liechtenstein,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+LTU,Lithuania,Prevention,Collection-heavy,0.3236412496057487,0.9082031925373925,No-regret / complementary,No-regret / complementary
+LUX,Luxembourg,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+MDA,Moldova,AD-bio-CNG,Collection-heavy,0.5213101080162478,0.39245983450883515,Longer-term / local fit,Longer-term / local fit
+MCO,Monaco,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+MNE,Montenegro,Prevention,Collection-heavy,0.4030876376706442,0.784772543813403,No-regret / complementary,No-regret / complementary
+NLD,Netherlands,AD-bio-CNG,Collection-heavy,0.3143569147589138,0.9187548122013427,No-regret / complementary,No-regret / complementary
+MKD,North Macedonia,Prevention,Collection-heavy,0.5613959011182842,0.7206481591177921,No-regret / complementary,No-regret / complementary
+NOR,Norway,AD-bio-CNG,Collection-heavy,0.346039470076882,0.897354553938678,No-regret / complementary,No-regret / complementary
+POL,Poland,AD-electricity,Collection-heavy,0.7818484620385867,0.730675433523874,Immediate priority,Immediate priority
+PRT,Portugal,AD-bio-CNG,Collection-heavy,0.7381099519503324,0.6375442506931085,Immediate priority,Immediate priority
+ROU,Romania,Prevention,Collection-heavy,0.7973008670746271,0.8344050317434958,Immediate priority,Immediate priority
+RUS,Russian Federation,AD-bio-CNG,Collection-heavy,1.0,0.5671756543474713,Strategic build-out,Strategic build-out
+SMR,San Marino,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+SRB,Serbia,Prevention,Collection-heavy,0.6739880995643427,0.7319285722866203,Immediate priority,Immediate priority
+SVK,Slovak Republic,Prevention,Collection-heavy,0.615425720452251,0.7726212184840765,No-regret / complementary,No-regret / complementary
+SVN,Slovenia,AD-bio-CNG,Collection-heavy,0.3135854722265407,0.8424860466287737,No-regret / complementary,No-regret / complementary
+ESP,Spain,AD-bio-CNG,Collection-heavy,0.9162042117085974,0.782174220364908,Immediate priority,Immediate priority
+SWE,Sweden,Prevention,Collection-heavy,0.2267739785944709,0.8880623535055316,No-regret / complementary,No-regret / complementary
+CHE,Switzerland,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+TJK,Tajikistan,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+TKM,Turkmenistan,Prevention,Collection-heavy,0.4212738369990971,0.6855823143682701,No-regret / complementary,No-regret / complementary
+TUR,Türkiye,Prevention,Collection-heavy,1.0,0.7648577383801993,Immediate priority,Immediate priority
+UKR,Ukraine,Prevention,Collection-heavy,0.8799563135861703,0.5993650329127089,Strategic build-out,Strategic build-out
+GBR,United Kingdom,AD-bio-CNG,Collection-heavy,0.6772335707540755,0.8666743244321808,Immediate priority,Immediate priority
+UZB,Uzbekistan,AD-electricity,Collection-heavy,0.7825844356431367,0.4880925643139913,Strategic build-out,Strategic build-out
+ATG,Antigua and Barbuda,Prevention,Collection-heavy,0.0928201577206545,0.8160910360980599,No-regret / complementary,No-regret / complementary
+ARG,Argentina,AD-bio-CNG,Collection-heavy,0.946518227649086,0.7347694582051117,Immediate priority,Immediate priority
+ABW,Aruba,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+BHS,"Bahamas, The",,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+BRB,Barbados,Prevention,Collection-heavy,0.4344271524599532,0.8438543741444754,No-regret / complementary,No-regret / complementary
+BLZ,Belize,Prevention,Collection-heavy,0.2847988276354339,0.6991532054904965,No-regret / complementary,No-regret / complementary
+BOL,Bolivia,Prevention,Collection-heavy,0.7598000137893943,0.646510180895098,Immediate priority,Immediate priority
+BRA,Brazil,Prevention,Collection-heavy,1.0,0.8053680471703467,Immediate priority,Immediate priority
+VGB,British Virgin Islands,Prevention,Collection-heavy,0.0,0.7967454574361644,No-regret / complementary,No-regret / complementary
+CYM,Cayman Islands,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+CHL,Chile,Prevention,Collection-heavy,0.898697058909988,0.9175765407137009,Immediate priority,Immediate priority
+COL,Colombia,Prevention,Collection-heavy,0.9465198742433693,0.7854764149254675,Immediate priority,Immediate priority
+CRI,Costa Rica,Prevention,Collection-heavy,0.6480993632847455,0.8026687204135176,No-regret / complementary,No-regret / complementary
+CUB,Cuba,Prevention,Collection-heavy,0.7975813786761158,0.7006173400878907,Immediate priority,Immediate priority
+CUW,Curaçao,Prevention,Collection-heavy,0.2893420181796118,0.7618919972374987,No-regret / complementary,No-regret / complementary
+DMA,Dominica,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+DOM,Dominican Republic,Prevention,Collection-heavy,0.7876778392219946,0.7424462026079087,Immediate priority,Immediate priority
+ECU,Ecuador,AD-bio-CNG,Collection-heavy,0.7592807075460002,0.5860514066794239,Strategic build-out,Strategic build-out
+SLV,El Salvador,Prevention,Collection-heavy,0.6166381269606427,0.7768335283684825,No-regret / complementary,No-regret / complementary
+GRD,Grenada,Prevention,Collection-heavy,0.1162492926359981,0.6369090415879191,No-regret / complementary,No-regret / complementary
+GTM,Guatemala,Prevention,Collection-heavy,0.8421506656727251,0.7330316791631867,Immediate priority,Immediate priority
+GUY,Guyana,Prevention,Collection-heavy,0.4231809166348365,0.7868148084970429,No-regret / complementary,No-regret / complementary
+HTI,Haiti,Prevention,Collection-heavy,0.7303682941091787,0.5496181092758292,Strategic build-out,Strategic build-out
+HND,Honduras,Prevention,Collection-heavy,0.7561185627674006,0.6752829258515254,Immediate priority,Immediate priority
+JAM,Jamaica,Prevention,Collection-heavy,0.6210819254046938,0.6996626808643912,No-regret / complementary,No-regret / complementary
+MEX,Mexico,AD-bio-CNG,Collection-heavy,1.0,0.7470949879199466,Immediate priority,Immediate priority
+NIC,Nicaragua,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+PAN,Panama,Prevention,Collection-heavy,0.627790578397945,0.827503022171553,No-regret / complementary,No-regret / complementary
+PRY,Paraguay,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+PER,Peru,Prevention,Collection-heavy,0.8686519904077512,0.8015233945250659,Immediate priority,Immediate priority
+PRI,Puerto Rico,AD-bio-CNG,Collection-heavy,0.590955585695927,0.6962846080944353,No-regret / complementary,No-regret / complementary
+SXM,Sint Maarten (Dutch),Prevention,Collection-heavy,0.0,0.8294276873786209,No-regret / complementary,No-regret / complementary
+KNA,St. Kitts and Nevis,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+LCA,St. Lucia,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+MAF,St. Martin (French),,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+VCT,St. Vincent and the Grenadines,Prevention,Collection-heavy,0.1109287436239665,0.647980491221907,No-regret / complementary,No-regret / complementary
+SUR,Suriname,Prevention,Collection-heavy,0.3476518968644992,0.7362600806203806,No-regret / complementary,No-regret / complementary
+TTO,Trinidad and Tobago,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+TCA,Turks and Caicos Islands,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+URY,Uruguay,Prevention,Collection-heavy,0.619041244809349,0.928585152038278,No-regret / complementary,No-regret / complementary
+VEN,"Venezuela, RB",Prevention,Collection-heavy,0.8528996678767579,0.7682196094514623,Immediate priority,Immediate priority
+VIR,Virgin Islands (US),,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+DZA,Algeria,Prevention,Collection-heavy,0.9171427097360412,0.6106667975929209,Immediate priority,Immediate priority
+BHR,Bahrain,Prevention,Collection-heavy,0.5842545571762999,0.8854274078012985,No-regret / complementary,No-regret / complementary
+DJI,Djibouti,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+EGY,"Egypt, Arab Rep.",Prevention,Collection-heavy,0.9776113379481404,0.6119995662486959,Immediate priority,Immediate priority
+IRN,"Iran, Islamic Rep.",Prevention,Collection-heavy,0.9896561617484902,0.5419177591141824,Strategic build-out,Strategic build-out
+IRQ,Iraq,Prevention,Collection-heavy,0.9841999711844832,0.8187902945316362,Immediate priority,Immediate priority
+ISR,Israel,Prevention,Collection-heavy,0.7673908948849708,0.8323029851980351,Immediate priority,Immediate priority
+JOR,Jordan,Prevention,Collection-heavy,0.7456060955080249,0.6743757693049036,Immediate priority,Immediate priority
+KWT,Kuwait,Prevention,Collection-heavy,0.7435934767697168,0.8893563318381399,Immediate priority,Immediate priority
+LBN,Lebanon,Prevention,Collection-heavy,0.7211903045987212,0.6304271631853163,Immediate priority,Immediate priority
+LBY,Libya,Prevention,Collection-heavy,0.801717019329384,0.6840044455681525,Immediate priority,Immediate priority
+MLT,Malta,Prevention,Collection-heavy,0.3905169035703643,0.8804500207819025,No-regret / complementary,No-regret / complementary
+MAR,Morocco,Prevention,Collection-heavy,0.878053133864097,0.6024325675044535,Immediate priority,Immediate priority
+OMN,Oman,Prevention,Collection-heavy,0.6264502355441236,0.9181766022671137,No-regret / complementary,No-regret / complementary
+QAT,Qatar,Prevention,Collection-heavy,0.6462946226760945,0.9500000000000001,No-regret / complementary,No-regret / complementary
+SAU,Saudi Arabia,Prevention,Collection-heavy,0.9663949349641404,0.879156165703806,Immediate priority,Immediate priority
+SYR,Syrian Arab Republic,Prevention,Collection-heavy,0.7720631290436955,0.49850799800876827,Strategic build-out,Strategic build-out
+TUN,Tunisia,Prevention,Collection-heavy,0.742717135066421,0.5991469972737369,Strategic build-out,Strategic build-out
+ARE,United Arab Emirates,Prevention,Collection-heavy,0.6985978286262401,0.8843102196453495,Immediate priority,Immediate priority
+PSE,West Bank and Gaza,Prevention,Collection-heavy,0.6425957067011554,0.6743956061206481,No-regret / complementary,No-regret / complementary
+YEM,"Yemen, Rep.",Prevention,Collection-heavy,0.8312501332770891,0.397469590034255,Strategic build-out,Strategic build-out
+BMU,Bermuda,Prevention,Collection-heavy,0.0,0.9,No-regret / complementary,No-regret / complementary
+CAN,Canada,Prevention,Collection-heavy,0.8876511771333476,0.8746470099233076,Immediate priority,Immediate priority
+USA,United States,AD-bio-CNG,Collection-heavy,1.0,0.8756089191125801,Immediate priority,Immediate priority
+AFG,Afghanistan,Prevention,Collection-heavy,0.6824331593964805,0.494261266718303,Strategic build-out,Strategic build-out
+BGD,Bangladesh,Prevention,Collection-heavy,0.8673050069749466,0.6588489107297351,Immediate priority,Immediate priority
+BTN,Bhutan,Prevention,Collection-heavy,0.1938297859131287,0.6150380801232654,No-regret / complementary,No-regret / complementary
+IND,India,Prevention,Collection-heavy,1.0,0.5717633194699608,Strategic build-out,Strategic build-out
+MDV,Maldives,Prevention,Collection-heavy,0.4142990952635595,0.7597473610179847,No-regret / complementary,No-regret / complementary
+NPL,Nepal,Prevention,Collection-heavy,0.6862687510723511,0.570087560059359,Strategic build-out,Strategic build-out
+PAK,Pakistan,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+LKA,Sri Lanka,Prevention,Collection-heavy,0.7043027714971855,0.5316987360075538,Strategic build-out,Strategic build-out
+AGO,Angola,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+BEN,Benin,Prevention,Collection-heavy,0.6146299650082516,0.4899389088202,Longer-term / local fit,Longer-term / local fit
+BWA,Botswana,Prevention,Collection-heavy,0.2610730465966596,0.7574146320321912,No-regret / complementary,No-regret / complementary
+BFA,Burkina Faso,Prevention,Collection-heavy,0.4065474638332826,0.4125370106437966,Longer-term / local fit,Longer-term / local fit
+BDI,Burundi,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+CPV,Cabo Verde,Prevention,Collection-heavy,0.2408610714130485,0.6075049229999263,No-regret / complementary,No-regret / complementary
+CMR,Cameroon,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+CAF,Central African Republic,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+TCD,Chad,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+COM,Comoros,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+COD,"Congo, Dem. Rep.",,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+COG,"Congo, Rep.",,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+CIV,Côte d’Ivoire,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+GNQ,Equatorial Guinea,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+ERI,Eritrea,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+SWZ,Eswatini,Prevention,Collection-heavy,0.3966503327115631,0.5378044727304038,Longer-term / local fit,Longer-term / local fit
+ETH,Ethiopia,Prevention,Collection-heavy,0.8170888839471673,0.4315175428161997,Strategic build-out,Strategic build-out
+GAB,Gabon,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+GMB,"Gambia, The",,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+GHA,Ghana,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+GIN,Guinea,Prevention,Collection-heavy,0.6629725749981942,0.5095057907408274,Longer-term / local fit,Longer-term / local fit
+GNB,Guinea-Bissau,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+KEN,Kenya,Prevention,Collection-heavy,0.7685843886382454,0.5491289261599468,Strategic build-out,Strategic build-out
+LSO,Lesotho,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+LBR,Liberia,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+MDG,Madagascar,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+MWI,Malawi,Prevention,Collection-heavy,0.7641352445087537,0.3645833333333333,Strategic build-out,Strategic build-out
+MLI,Mali,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+MRT,Mauritania,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+MUS,Mauritius,AD-bio-CNG,Collection-heavy,0.4823959358810789,0.6233314331884219,No-regret / complementary,Longer-term / local fit
+MOZ,Mozambique,Prevention,Collection-heavy,0.7715419881928725,0.43004770115981733,Strategic build-out,Strategic build-out
+NAM,Namibia,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+NER,Niger,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+NGA,Nigeria,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+RWA,Rwanda,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+SEN,Senegal,Prevention,Collection-heavy,0.5473940916163427,0.583234312199805,Longer-term / local fit,Longer-term / local fit
+SYC,Seychelles,Prevention,Collection-heavy,0.2058994176029729,0.825657898069671,No-regret / complementary,No-regret / complementary
+SLE,Sierra Leone,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+SOM,"Somalia, Fed. Rep.",,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+ZAF,South Africa,Prevention,Collection-heavy,0.771813175989036,0.756672140090268,Immediate priority,Immediate priority
+SSD,South Sudan,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+SDN,Sudan,Prevention,Collection-heavy,0.798090691502634,0.43841844378838607,Strategic build-out,Strategic build-out
+STP,São Tomé and Príncipe,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+TZA,Tanzania,Prevention,Collection-heavy,0.8708483039272807,0.47114536910722116,Strategic build-out,Strategic build-out
+TGO,Togo,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+UGA,Uganda,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+ZMB,Zambia,Prevention,Collection-heavy,0.7716406678116028,0.5732233429868508,Strategic build-out,Strategic build-out
+ZWE,Zimbabwe,,Collection-heavy,,,Missing/insufficient,Missing/insufficient
+ASM,American Samoa,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+AUS,Australia,AD-bio-CNG,Economic-capacity-heavy,0.9451936824048736,0.8747957671576688,Immediate priority,Immediate priority
+BRN,Brunei Darussalam,AD-electricity,Economic-capacity-heavy,0.3946121553771129,0.5162139499390221,Longer-term / local fit,Longer-term / local fit
+KHM,Cambodia,Prevention,Economic-capacity-heavy,0.7891204840453387,0.5242444386255565,Strategic build-out,Strategic build-out
+CHN,China,Prevention,Economic-capacity-heavy,1.0,0.6921270581099432,Immediate priority,Immediate priority
+FJI,Fiji,Prevention,Economic-capacity-heavy,0.3430324819031734,0.6743793234641554,No-regret / complementary,No-regret / complementary
+PYF,French Polynesia,Prevention,Economic-capacity-heavy,0.208906926979552,0.8753272180649325,No-regret / complementary,No-regret / complementary
+GUM,Guam,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+HKG,"Hong Kong SAR, China",AD-bio-CNG,Economic-capacity-heavy,0.6965509574755353,0.8626211492420945,Immediate priority,Immediate priority
+IDN,Indonesia,Prevention,Economic-capacity-heavy,1.0,0.7126272583761235,Immediate priority,Immediate priority
+JPN,Japan,Prevention,Economic-capacity-heavy,0.4192427209499342,0.9507604016621991,No-regret / complementary,No-regret / complementary
+KIR,Kiribati,Prevention,Economic-capacity-heavy,0.1042019922815948,0.5739491815349149,Longer-term / local fit,No-regret / complementary
+KOR,"Korea, Rep.",Prevention,Economic-capacity-heavy,0.637981576646601,0.9062803555190118,No-regret / complementary,No-regret / complementary
+LAO,Lao PDR,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+MAC,"Macao SAR, China",,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+MYS,Malaysia,Prevention,Economic-capacity-heavy,0.9182241651254056,0.7388185535283641,Immediate priority,Immediate priority
+MHL,Marshall Islands,Prevention,Economic-capacity-heavy,0.0,0.7022454760566522,No-regret / complementary,No-regret / complementary
+FSM,"Micronesia, Fed. Sts.",Prevention,Economic-capacity-heavy,0.0153479024780708,0.47059361744577904,Longer-term / local fit,Longer-term / local fit
+MNG,Mongolia,Prevention,Economic-capacity-heavy,0.5771760550574917,0.5691489145744576,Longer-term / local fit,No-regret / complementary
+MMR,Myanmar,AD-bio-CNG,Economic-capacity-heavy,0.8398357970490514,0.3616435372481217,Strategic build-out,Strategic build-out
+NRU,Nauru,Prevention,Economic-capacity-heavy,0.0,0.9422573582304912,No-regret / complementary,No-regret / complementary
+NCL,New Caledonia,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+NZL,New Zealand,AD-bio-CNG,Economic-capacity-heavy,0.5737778870953206,0.7749250174310593,No-regret / complementary,No-regret / complementary
+MNP,Northern Mariana Islands,Prevention,Economic-capacity-heavy,0.0158560664590792,0.8241289271176725,No-regret / complementary,No-regret / complementary
+PLW,Palau,Prevention,Economic-capacity-heavy,0.0401310503180615,0.7908325132329987,No-regret / complementary,No-regret / complementary
+PNG,Papua New Guinea,Prevention,Economic-capacity-heavy,0.6178051524036267,0.4929546674623626,Longer-term / local fit,Longer-term / local fit
+PHL,Philippines,Prevention,Economic-capacity-heavy,0.9467666060743666,0.538929487281141,Strategic build-out,Strategic build-out
+WSM,Samoa,Prevention,Economic-capacity-heavy,0.0906264633694502,0.6143497731082092,No-regret / complementary,No-regret / complementary
+SGP,Singapore,AD-bio-CNG,Economic-capacity-heavy,0.1486560822700873,0.9791666666666666,No-regret / complementary,No-regret / complementary
+SLB,Solomon Islands,Prevention,Economic-capacity-heavy,0.442599888067506,0.4935781302491651,Longer-term / local fit,Longer-term / local fit
+TWN,"Taiwan, China",AD-bio-CNG,Economic-capacity-heavy,0.3330537932584356,0.75,No-regret / complementary,No-regret / complementary
+THA,Thailand,Prevention,Economic-capacity-heavy,0.9711303440645884,0.7606110317693074,Immediate priority,Immediate priority
+TLS,Timor-Leste,Prevention,Economic-capacity-heavy,0.4176073680851568,0.4696498070855227,Longer-term / local fit,Longer-term / local fit
+TON,Tonga,Prevention,Economic-capacity-heavy,0.0,0.7313596263628502,No-regret / complementary,No-regret / complementary
+TUV,Tuvalu,Prevention,Economic-capacity-heavy,0.0,0.7111539979620811,No-regret / complementary,No-regret / complementary
+VUT,Vanuatu,Prevention,Economic-capacity-heavy,0.1454864317852141,0.5326909169695143,Longer-term / local fit,Longer-term / local fit
+VNM,Viet Nam,Prevention,Economic-capacity-heavy,0.943892840906651,0.5391382968496631,Strategic build-out,Strategic build-out
+ALB,Albania,Prevention,Economic-capacity-heavy,0.5502963545493029,0.7315731512097525,No-regret / complementary,No-regret / complementary
+AND,Andorra,Prevention,Economic-capacity-heavy,0.0,0.8759944045283179,No-regret / complementary,No-regret / complementary
+ARM,Armenia,Prevention,Economic-capacity-heavy,0.4991917823053633,0.7759570672431683,No-regret / complementary,No-regret / complementary
+AUT,Austria,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+AZE,Azerbaijan,Prevention,Economic-capacity-heavy,0.7280045269487914,0.7573248195982344,Immediate priority,Immediate priority
+BLR,Belarus,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+BEL,Belgium,Prevention,Economic-capacity-heavy,0.2676760273225788,0.9088325185718484,No-regret / complementary,No-regret / complementary
+BIH,Bosnia and Herzegovina,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+BGR,Bulgaria,AD-bio-CNG,Economic-capacity-heavy,0.5827102394175456,0.7246702159458005,No-regret / complementary,No-regret / complementary
+CHI,Channel Islands,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+HRV,Croatia,AD-bio-CNG,Economic-capacity-heavy,0.5963525116418177,0.7131021070062266,No-regret / complementary,No-regret / complementary
+CYP,Cyprus,Prevention,Economic-capacity-heavy,0.4897734963044797,0.846717791866251,No-regret / complementary,No-regret / complementary
+CZE,Czech Republic,Prevention,Economic-capacity-heavy,0.7063583482092564,0.8495541972055266,Immediate priority,Immediate priority
+DNK,Denmark,AD-bio-CNG,Economic-capacity-heavy,0.2637711030629047,0.9494257619079183,No-regret / complementary,No-regret / complementary
+EST,Estonia,Prevention,Economic-capacity-heavy,0.2189354478088819,0.8477424413677798,No-regret / complementary,No-regret / complementary
+FRO,Faroe Islands,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+FIN,Finland,AD-bio-CNG,Economic-capacity-heavy,0.0104421278576868,0.849493359924781,No-regret / complementary,No-regret / complementary
+FRA,France,AD-bio-CNG,Economic-capacity-heavy,0.8164016709562202,0.8325886790259659,Immediate priority,Immediate priority
+GEO,Georgia,Prevention,Economic-capacity-heavy,0.6185394928825085,0.7688130271298408,No-regret / complementary,No-regret / complementary
+DEU,Germany,Prevention,Economic-capacity-heavy,0.5339167422446018,0.8649913933270575,No-regret / complementary,No-regret / complementary
+GIB,Gibraltar,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+GRC,Greece,Prevention,Economic-capacity-heavy,0.754132829386763,0.8970076678972377,Immediate priority,Immediate priority
+GRL,Greenland,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+HUN,Hungary,AD-bio-CNG,Economic-capacity-heavy,0.5838826511987801,0.6538212797125211,No-regret / complementary,No-regret / complementary
+ISL,Iceland,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+IRL,Ireland,AD-bio-CNG,Economic-capacity-heavy,0.4980585979119231,0.8670454000573491,No-regret / complementary,No-regret / complementary
+IMN,Isle of Man,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+ITA,Italy,Prevention,Economic-capacity-heavy,0.7964835346737906,0.8500173759011832,Immediate priority,Immediate priority
+KAZ,Kazakhstan,Prevention,Economic-capacity-heavy,0.6894868867931253,0.7343974458926897,Immediate priority,Immediate priority
+XKX,Kosovo,Prevention,Economic-capacity-heavy,0.4856336017855869,0.6654547460238873,No-regret / complementary,No-regret / complementary
+KGZ,Kyrgyz Republic,Prevention,Economic-capacity-heavy,0.6169047546972349,0.5138158863493816,Longer-term / local fit,Longer-term / local fit
+LVA,Latvia,AD-bio-CNG,Economic-capacity-heavy,0.4753571553535252,0.6624701285260481,No-regret / complementary,No-regret / complementary
+LIE,Liechtenstein,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+LTU,Lithuania,Prevention,Economic-capacity-heavy,0.3236412496057487,0.9311523944030443,No-regret / complementary,No-regret / complementary
+LUX,Luxembourg,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+MDA,Moldova,AD-bio-CNG,Economic-capacity-heavy,0.5213101080162478,0.39785604364512583,Longer-term / local fit,Longer-term / local fit
+MCO,Monaco,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+MNE,Montenegro,Prevention,Economic-capacity-heavy,0.4030876376706442,0.7760794078600523,No-regret / complementary,No-regret / complementary
+NLD,Netherlands,AD-bio-CNG,Economic-capacity-heavy,0.3143569147589138,0.9200460521263787,No-regret / complementary,No-regret / complementary
+MKD,North Macedonia,Prevention,Economic-capacity-heavy,0.5613959011182842,0.7279861193383441,No-regret / complementary,No-regret / complementary
+NOR,Norway,AD-bio-CNG,Economic-capacity-heavy,0.346039470076882,0.9178836431509424,No-regret / complementary,No-regret / complementary
+POL,Poland,AD-electricity,Economic-capacity-heavy,0.7818484620385867,0.7200806936381984,Immediate priority,Immediate priority
+PRT,Portugal,AD-bio-CNG,Economic-capacity-heavy,0.7381099519503324,0.6570683329028982,Immediate priority,Immediate priority
+ROU,Romania,Prevention,Economic-capacity-heavy,0.7973008670746271,0.8758037738076219,Immediate priority,Immediate priority
+RUS,Russian Federation,AD-bio-CNG,Economic-capacity-heavy,1.0,0.581029925948551,Strategic build-out,Strategic build-out
+SMR,San Marino,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+SRB,Serbia,Prevention,Economic-capacity-heavy,0.6739880995643427,0.7364464292149653,Immediate priority,Immediate priority
+SVK,Slovak Republic,Prevention,Economic-capacity-heavy,0.615425720452251,0.8294659138630573,No-regret / complementary,No-regret / complementary
+SVN,Slovenia,AD-bio-CNG,Economic-capacity-heavy,0.3135854722265407,0.8064096670856037,No-regret / complementary,No-regret / complementary
+ESP,Spain,AD-bio-CNG,Economic-capacity-heavy,0.9162042117085974,0.7818060212603524,Immediate priority,Immediate priority
+SWE,Sweden,Prevention,Economic-capacity-heavy,0.2267739785944709,0.9160467651291487,No-regret / complementary,No-regret / complementary
+CHE,Switzerland,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+TJK,Tajikistan,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+TKM,Turkmenistan,Prevention,Economic-capacity-heavy,0.4212738369990971,0.7016867357762026,No-regret / complementary,No-regret / complementary
+TUR,Türkiye,Prevention,Economic-capacity-heavy,1.0,0.7611433037851495,Immediate priority,Immediate priority
+UKR,Ukraine,Prevention,Economic-capacity-heavy,0.8799563135861703,0.5620237746845317,Strategic build-out,Strategic build-out
+GBR,United Kingdom,AD-bio-CNG,Economic-capacity-heavy,0.6772335707540755,0.8684778569588213,Immediate priority,Immediate priority
+UZB,Uzbekistan,AD-electricity,Economic-capacity-heavy,0.7825844356431367,0.38560735085020476,Strategic build-out,Strategic build-out
+ATG,Antigua and Barbuda,Prevention,Economic-capacity-heavy,0.0928201577206545,0.8620682770735449,No-regret / complementary,No-regret / complementary
+ARG,Argentina,AD-bio-CNG,Economic-capacity-heavy,0.946518227649086,0.6734548315521657,Immediate priority,Immediate priority
+ABW,Aruba,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+BHS,"Bahamas, The",,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+BRB,Barbados,Prevention,Economic-capacity-heavy,0.4344271524599532,0.8828907806083566,No-regret / complementary,No-regret / complementary
+BLZ,Belize,Prevention,Economic-capacity-heavy,0.2847988276354339,0.7118649041178724,No-regret / complementary,No-regret / complementary
+BOL,Bolivia,Prevention,Economic-capacity-heavy,0.7598000137893943,0.5973826356713235,Strategic build-out,Immediate priority
+BRA,Brazil,Prevention,Economic-capacity-heavy,1.0,0.79152603537776,Immediate priority,Immediate priority
+VGB,British Virgin Islands,Prevention,Economic-capacity-heavy,0.0,0.8475590930771233,No-regret / complementary,No-regret / complementary
+CYM,Cayman Islands,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+CHL,Chile,Prevention,Economic-capacity-heavy,0.898697058909988,0.9381824055352757,Immediate priority,Immediate priority
+COL,Colombia,Prevention,Economic-capacity-heavy,0.9465198742433693,0.7766073111941006,Immediate priority,Immediate priority
+CRI,Costa Rica,Prevention,Economic-capacity-heavy,0.6480993632847455,0.7895015403101382,No-regret / complementary,No-regret / complementary
+CUB,Cuba,Prevention,Economic-capacity-heavy,0.7975813786761158,0.712963005065918,Immediate priority,Immediate priority
+CUW,Curaçao,Prevention,Economic-capacity-heavy,0.2893420181796118,0.821418997928124,No-regret / complementary,No-regret / complementary
+DMA,Dominica,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+DOM,Dominican Republic,Prevention,Economic-capacity-heavy,0.7876778392219946,0.7443346519559315,Immediate priority,Immediate priority
+ECU,Ecuador,AD-bio-CNG,Economic-capacity-heavy,0.7592807075460002,0.5256801831516776,Strategic build-out,Strategic build-out
+SLV,El Salvador,Prevention,Economic-capacity-heavy,0.6166381269606427,0.7701251462763619,No-regret / complementary,No-regret / complementary
+GRD,Grenada,Prevention,Economic-capacity-heavy,0.1162492926359981,0.6651817811909393,No-regret / complementary,No-regret / complementary
+GTM,Guatemala,Prevention,Economic-capacity-heavy,0.8421506656727251,0.73727375937239,Immediate priority,Immediate priority
+GUY,Guyana,Prevention,Economic-capacity-heavy,0.4231809166348365,0.8401111063727822,No-regret / complementary,No-regret / complementary
+HTI,Haiti,Prevention,Economic-capacity-heavy,0.7303682941091787,0.5247135819568719,Strategic build-out,Strategic build-out
+HND,Honduras,Prevention,Economic-capacity-heavy,0.7561185627674006,0.6189621943886441,Immediate priority,Immediate priority
+JAM,Jamaica,Prevention,Economic-capacity-heavy,0.6210819254046938,0.7122470106482934,No-regret / complementary,No-regret / complementary
+MEX,Mexico,AD-bio-CNG,Economic-capacity-heavy,1.0,0.6759684575825798,Immediate priority,Immediate priority
+NIC,Nicaragua,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+PAN,Panama,Prevention,Economic-capacity-heavy,0.627790578397945,0.8706272666286647,No-regret / complementary,No-regret / complementary
+PRY,Paraguay,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+PER,Peru,Prevention,Economic-capacity-heavy,0.8686519904077512,0.7886425458937995,Immediate priority,Immediate priority
+PRI,Puerto Rico,AD-bio-CNG,Economic-capacity-heavy,0.590955585695927,0.7197591268031133,No-regret / complementary,No-regret / complementary
+SXM,Sint Maarten (Dutch),Prevention,Economic-capacity-heavy,0.0,0.8720707655339657,No-regret / complementary,No-regret / complementary
+KNA,St. Kitts and Nevis,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+LCA,St. Lucia,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+MAF,St. Martin (French),,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+VCT,St. Vincent and the Grenadines,Prevention,Economic-capacity-heavy,0.1109287436239665,0.6734853684164303,No-regret / complementary,No-regret / complementary
+SUR,Suriname,Prevention,Economic-capacity-heavy,0.3476518968644992,0.7396950604652854,No-regret / complementary,No-regret / complementary
+TTO,Trinidad and Tobago,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+TCA,Turks and Caicos Islands,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+URY,Uruguay,Prevention,Economic-capacity-heavy,0.619041244809349,0.9464388640287085,No-regret / complementary,No-regret / complementary
+VEN,"Venezuela, RB",Prevention,Economic-capacity-heavy,0.8528996678767579,0.7636647070885967,Immediate priority,Immediate priority
+VIR,Virgin Islands (US),,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+DZA,Algeria,Prevention,Economic-capacity-heavy,0.9171427097360412,0.5705000981946906,Strategic build-out,Immediate priority
+BHR,Bahrain,Prevention,Economic-capacity-heavy,0.5842545571762999,0.9140705558509739,No-regret / complementary,No-regret / complementary
+DJI,Djibouti,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+EGY,"Egypt, Arab Rep.",Prevention,Economic-capacity-heavy,0.9776113379481404,0.571499674686522,Strategic build-out,Immediate priority
+IRN,"Iran, Islamic Rep.",Prevention,Economic-capacity-heavy,0.9896561617484902,0.5189383193356367,Strategic build-out,Strategic build-out
+IRQ,Iraq,Prevention,Economic-capacity-heavy,0.9841999711844832,0.8015927208987271,Immediate priority,Immediate priority
+ISR,Israel,Prevention,Economic-capacity-heavy,0.7673908948849708,0.8742272388985264,Immediate priority,Immediate priority
+JOR,Jordan,Prevention,Economic-capacity-heavy,0.7456060955080249,0.6182818269786777,Immediate priority,Immediate priority
+KWT,Kuwait,Prevention,Economic-capacity-heavy,0.7435934767697168,0.9170172488786049,Immediate priority,Immediate priority
+LBN,Lebanon,Prevention,Economic-capacity-heavy,0.7211903045987212,0.5853203723889873,Strategic build-out,Immediate priority
+LBY,Libya,Prevention,Economic-capacity-heavy,0.801717019329384,0.7005033341761144,Immediate priority,Immediate priority
+MLT,Malta,Prevention,Economic-capacity-heavy,0.3905169035703643,0.9103375155864268,No-regret / complementary,No-regret / complementary
+MAR,Morocco,Prevention,Economic-capacity-heavy,0.878053133864097,0.5643244256283402,Strategic build-out,Immediate priority
+OMN,Oman,Prevention,Economic-capacity-heavy,0.6264502355441236,0.9386324517003353,No-regret / complementary,No-regret / complementary
+QAT,Qatar,Prevention,Economic-capacity-heavy,0.6462946226760945,0.9625,No-regret / complementary,No-regret / complementary
+SAU,Saudi Arabia,Prevention,Economic-capacity-heavy,0.9663949349641404,0.9093671242778545,Immediate priority,Immediate priority
+SYR,Syrian Arab Republic,Prevention,Economic-capacity-heavy,0.7720631290436955,0.4363809985065762,Strategic build-out,Strategic build-out
+TUN,Tunisia,Prevention,Economic-capacity-heavy,0.742717135066421,0.5618602479553026,Strategic build-out,Strategic build-out
+ARE,United Arab Emirates,Prevention,Economic-capacity-heavy,0.6985978286262401,0.9132326647340121,Immediate priority,Immediate priority
+PSE,West Bank and Gaza,Prevention,Economic-capacity-heavy,0.6425957067011554,0.6932967045904861,No-regret / complementary,No-regret / complementary
+YEM,"Yemen, Rep.",Prevention,Economic-capacity-heavy,0.8312501332770891,0.36060219252569126,Strategic build-out,Strategic build-out
+BMU,Bermuda,Prevention,Economic-capacity-heavy,0.0,0.925,No-regret / complementary,No-regret / complementary
+CAN,Canada,Prevention,Economic-capacity-heavy,0.8876511771333476,0.9059852574424807,Immediate priority,Immediate priority
+USA,United States,AD-bio-CNG,Economic-capacity-heavy,1.0,0.8725345097274476,Immediate priority,Immediate priority
+AFG,Afghanistan,Prevention,Economic-capacity-heavy,0.6824331593964805,0.43319595003872724,Strategic build-out,Strategic build-out
+BGD,Bangladesh,Prevention,Economic-capacity-heavy,0.8673050069749466,0.6066366830473013,Immediate priority,Immediate priority
+BTN,Bhutan,Prevention,Economic-capacity-heavy,0.1938297859131287,0.5737785600924491,Longer-term / local fit,No-regret / complementary
+IND,India,Prevention,Economic-capacity-heavy,1.0,0.5413224896024706,Strategic build-out,Strategic build-out
+MDV,Maldives,Prevention,Economic-capacity-heavy,0.4142990952635595,0.7573105207634885,No-regret / complementary,No-regret / complementary
+NPL,Nepal,Prevention,Economic-capacity-heavy,0.6862687510723511,0.5400656700445193,Strategic build-out,Strategic build-out
+PAK,Pakistan,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+LKA,Sri Lanka,Prevention,Economic-capacity-heavy,0.7043027714971855,0.5112740520056653,Strategic build-out,Strategic build-out
+AGO,Angola,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+BEN,Benin,Prevention,Economic-capacity-heavy,0.6146299650082516,0.47995418161515,Longer-term / local fit,Longer-term / local fit
+BWA,Botswana,Prevention,Economic-capacity-heavy,0.2610730465966596,0.7555609740241434,No-regret / complementary,No-regret / complementary
+BFA,Burkina Faso,Prevention,Economic-capacity-heavy,0.4065474638332826,0.37190275798284744,Longer-term / local fit,Longer-term / local fit
+BDI,Burundi,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+CPV,Cabo Verde,Prevention,Economic-capacity-heavy,0.2408610714130485,0.5681286922499448,Longer-term / local fit,No-regret / complementary
+CMR,Cameroon,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+CAF,Central African Republic,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+TCD,Chad,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+COM,Comoros,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+COD,"Congo, Dem. Rep.",,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+COG,"Congo, Rep.",,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+CIV,Côte d’Ivoire,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+GNQ,Equatorial Guinea,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+ERI,Eritrea,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+SWZ,Eswatini,Prevention,Economic-capacity-heavy,0.3966503327115631,0.5158533545478028,Longer-term / local fit,Longer-term / local fit
+ETH,Ethiopia,Prevention,Economic-capacity-heavy,0.8170888839471673,0.38613815711214977,Strategic build-out,Strategic build-out
+GAB,Gabon,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+GMB,"Gambia, The",,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+GHA,Ghana,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+GIN,Guinea,Prevention,Economic-capacity-heavy,0.6629725749981942,0.49462934305562056,Longer-term / local fit,Longer-term / local fit
+GNB,Guinea-Bissau,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+KEN,Kenya,Prevention,Economic-capacity-heavy,0.7685843886382454,0.5243466946199601,Strategic build-out,Strategic build-out
+LSO,Lesotho,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+LBR,Liberia,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+MDG,Madagascar,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+MWI,Malawi,Prevention,Economic-capacity-heavy,0.7641352445087537,0.3359375,Strategic build-out,Strategic build-out
+MLI,Mali,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+MRT,Mauritania,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+MUS,Mauritius,AD-bio-CNG,Economic-capacity-heavy,0.4823959358810789,0.5474961717355585,Longer-term / local fit,Longer-term / local fit
+MOZ,Mozambique,Prevention,Economic-capacity-heavy,0.7715419881928725,0.385035775869863,Strategic build-out,Strategic build-out
+NAM,Namibia,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+NER,Niger,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+NGA,Nigeria,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+RWA,Rwanda,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+SEN,Senegal,Prevention,Economic-capacity-heavy,0.5473940916163427,0.5499257341498538,Longer-term / local fit,Longer-term / local fit
+SYC,Seychelles,Prevention,Economic-capacity-heavy,0.2058994176029729,0.8692434235522533,No-regret / complementary,No-regret / complementary
+SLE,Sierra Leone,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+SOM,"Somalia, Fed. Rep.",,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+ZAF,South Africa,Prevention,Economic-capacity-heavy,0.771813175989036,0.755004105067701,Immediate priority,Immediate priority
+SSD,South Sudan,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+SDN,Sudan,Prevention,Economic-capacity-heavy,0.798090691502634,0.39131383284128957,Strategic build-out,Strategic build-out
+STP,São Tomé and Príncipe,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+TZA,Tanzania,Prevention,Economic-capacity-heavy,0.8708483039272807,0.4658590268304159,Strategic build-out,Strategic build-out
+TGO,Togo,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+UGA,Uganda,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+ZMB,Zambia,Prevention,Economic-capacity-heavy,0.7716406678116028,0.542417507240138,Strategic build-out,Strategic build-out
+ZWE,Zimbabwe,,Economic-capacity-heavy,,,Missing/insufficient,Missing/insufficient
+ASM,American Samoa,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+AUS,Australia,AD-bio-CNG,Infrastructure-heavy,0.9451936824048736,0.8176263457327316,Immediate priority,Immediate priority
+BRN,Brunei Darussalam,AD-electricity,Infrastructure-heavy,0.3946121553771129,0.32467247914125924,Longer-term / local fit,Longer-term / local fit
+KHM,Cambodia,Prevention,Infrastructure-heavy,0.7891204840453387,0.5489925848340752,Strategic build-out,Strategic build-out
+CHN,China,Prevention,Infrastructure-heavy,1.0,0.6728360774799244,Immediate priority,Immediate priority
+FJI,Fiji,Prevention,Infrastructure-heavy,0.3430324819031734,0.6491724312855406,No-regret / complementary,No-regret / complementary
+PYF,French Polynesia,Prevention,Infrastructure-heavy,0.208906926979552,0.8337696240865767,No-regret / complementary,No-regret / complementary
+GUM,Guam,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+HKG,"Hong Kong SAR, China",AD-bio-CNG,Infrastructure-heavy,0.6965509574755353,0.804227241287714,Immediate priority,Immediate priority
+IDN,Indonesia,Prevention,Infrastructure-heavy,1.0,0.7001696778348313,Immediate priority,Immediate priority
+JPN,Japan,Prevention,Infrastructure-heavy,0.4192427209499342,0.9343472022162654,No-regret / complementary,No-regret / complementary
+KIR,Kiribati,Prevention,Infrastructure-heavy,0.1042019922815948,0.6152655753798866,No-regret / complementary,No-regret / complementary
+KOR,"Korea, Rep.",Prevention,Infrastructure-heavy,0.637981576646601,0.875040474025349,No-regret / complementary,No-regret / complementary
+LAO,Lao PDR,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+MAC,"Macao SAR, China",,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+MYS,Malaysia,Prevention,Infrastructure-heavy,0.9182241651254056,0.7350914047044855,Immediate priority,Immediate priority
+MHL,Marshall Islands,Prevention,Infrastructure-heavy,0.0,0.6863273014088697,No-regret / complementary,No-regret / complementary
+FSM,"Micronesia, Fed. Sts.",Prevention,Infrastructure-heavy,0.0153479024780708,0.4774581565943721,Longer-term / local fit,Longer-term / local fit
+MNG,Mongolia,Prevention,Infrastructure-heavy,0.5771760550574917,0.6088652194326101,No-regret / complementary,No-regret / complementary
+MMR,Myanmar,AD-bio-CNG,Infrastructure-heavy,0.8398357970490514,0.380195208355103,Strategic build-out,Strategic build-out
+NRU,Nauru,Prevention,Infrastructure-heavy,0.0,0.9230098109739883,No-regret / complementary,No-regret / complementary
+NCL,New Caledonia,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+NZL,New Zealand,AD-bio-CNG,Infrastructure-heavy,0.5737778870953206,0.6529955426063977,No-regret / complementary,No-regret / complementary
+MNP,Northern Mariana Islands,Prevention,Infrastructure-heavy,0.0158560664590792,0.7655052361568967,No-regret / complementary,No-regret / complementary
+PLW,Palau,Prevention,Infrastructure-heavy,0.0401310503180615,0.8044433509773317,No-regret / complementary,No-regret / complementary
+PNG,Papua New Guinea,Prevention,Infrastructure-heavy,0.6178051524036267,0.5072728899498168,Longer-term / local fit,Longer-term / local fit
+PHL,Philippines,Prevention,Infrastructure-heavy,0.9467666060743666,0.5685726497081879,Strategic build-out,Strategic build-out
+WSM,Samoa,Prevention,Infrastructure-heavy,0.0906264633694502,0.6691330308109454,No-regret / complementary,No-regret / complementary
+SGP,Singapore,AD-bio-CNG,Infrastructure-heavy,0.1486560822700873,0.9791666666666666,No-regret / complementary,No-regret / complementary
+SLB,Solomon Islands,Prevention,Infrastructure-heavy,0.442599888067506,0.5081041736655534,Longer-term / local fit,Longer-term / local fit
+TWN,"Taiwan, China",AD-bio-CNG,Infrastructure-heavy,0.3330537932584356,0.8333333333333334,No-regret / complementary,No-regret / complementary
+THA,Thailand,Prevention,Infrastructure-heavy,0.9711303440645884,0.7641480423590766,Immediate priority,Immediate priority
+TLS,Timor-Leste,Prevention,Infrastructure-heavy,0.4176073680851568,0.47619974278069693,Longer-term / local fit,Longer-term / local fit
+TON,Tonga,Prevention,Infrastructure-heavy,0.0,0.7251461684838003,No-regret / complementary,No-regret / complementary
+TUV,Tuvalu,Prevention,Infrastructure-heavy,0.0,0.6982053306161081,No-regret / complementary,No-regret / complementary
+VUT,Vanuatu,Prevention,Infrastructure-heavy,0.1454864317852141,0.5602545559593524,Longer-term / local fit,Longer-term / local fit
+VNM,Viet Nam,Prevention,Infrastructure-heavy,0.943892840906651,0.5688510624662174,Strategic build-out,Strategic build-out
+ALB,Albania,Prevention,Infrastructure-heavy,0.5502963545493029,0.7254308682796701,No-regret / complementary,No-regret / complementary
+AND,Andorra,Prevention,Infrastructure-heavy,0.0,0.8346592060377572,No-regret / complementary,No-regret / complementary
+ARM,Armenia,Prevention,Infrastructure-heavy,0.4991917823053633,0.784609422990891,No-regret / complementary,No-regret / complementary
+AUT,Austria,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+AZE,Azerbaijan,Prevention,Infrastructure-heavy,0.7280045269487914,0.7597664261309792,Immediate priority,Immediate priority
+BLR,Belarus,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+BEL,Belgium,Prevention,Infrastructure-heavy,0.2676760273225788,0.8784433580957979,No-regret / complementary,No-regret / complementary
+BIH,Bosnia and Herzegovina,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+BGR,Bulgaria,AD-bio-CNG,Infrastructure-heavy,0.5827102394175456,0.711986281082039,No-regret / complementary,No-regret / complementary
+CHI,Channel Islands,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+HRV,Croatia,AD-bio-CNG,Infrastructure-heavy,0.5963525116418177,0.6959414874797804,No-regret / complementary,No-regret / complementary
+CYP,Cyprus,Prevention,Infrastructure-heavy,0.4897734963044797,0.7956237224883346,No-regret / complementary,No-regret / complementary
+CZE,Czech Republic,Prevention,Infrastructure-heavy,0.7063583482092564,0.7994055962740355,Immediate priority,Immediate priority
+DNK,Denmark,AD-bio-CNG,Infrastructure-heavy,0.2637711030629047,0.9569495742692595,No-regret / complementary,No-regret / complementary
+EST,Estonia,Prevention,Infrastructure-heavy,0.2189354478088819,0.7969899218237063,No-regret / complementary,No-regret / complementary
+FRO,Faroe Islands,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+FIN,Finland,AD-bio-CNG,Infrastructure-heavy,0.0104421278576868,0.8713423596738504,No-regret / complementary,No-regret / complementary
+FRA,France,AD-bio-CNG,Infrastructure-heavy,0.8164016709562202,0.8510418849596002,Immediate priority,Immediate priority
+GEO,Georgia,Prevention,Infrastructure-heavy,0.6185394928825085,0.775084036173121,No-regret / complementary,No-regret / complementary
+DEU,Germany,Prevention,Infrastructure-heavy,0.5339167422446018,0.8199885244360767,No-regret / complementary,No-regret / complementary
+GIB,Gibraltar,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+GRC,Greece,Prevention,Infrastructure-heavy,0.754132829386763,0.8626768905296504,Immediate priority,Immediate priority
+GRL,Greenland,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+HUN,Hungary,AD-bio-CNG,Infrastructure-heavy,0.5838826511987801,0.6454966484220532,No-regret / complementary,No-regret / complementary
+ISL,Iceland,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+IRL,Ireland,AD-bio-CNG,Infrastructure-heavy,0.4980585979119231,0.8670454000573491,No-regret / complementary,No-regret / complementary
+IMN,Isle of Man,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+ITA,Italy,Prevention,Infrastructure-heavy,0.7964835346737906,0.8000231678682442,Immediate priority,Immediate priority
+KAZ,Kazakhstan,Prevention,Infrastructure-heavy,0.6894868867931253,0.7291965945235863,Immediate priority,Immediate priority
+XKX,Kosovo,Prevention,Infrastructure-heavy,0.4856336017855869,0.6372729946985164,No-regret / complementary,No-regret / complementary
+KGZ,Kyrgyz Republic,Prevention,Infrastructure-heavy,0.6169047546972349,0.535087848465842,Longer-term / local fit,Longer-term / local fit
+LVA,Latvia,AD-bio-CNG,Infrastructure-heavy,0.4753571553535252,0.6557789094361827,No-regret / complementary,No-regret / complementary
+LIE,Liechtenstein,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+LTU,Lithuania,Prevention,Infrastructure-heavy,0.3236412496057487,0.9082031925373925,No-regret / complementary,No-regret / complementary
+LUX,Luxembourg,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+MDA,Moldova,AD-bio-CNG,Infrastructure-heavy,0.5213101080162478,0.33430120094040144,Longer-term / local fit,Longer-term / local fit
+MCO,Monaco,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+MNE,Montenegro,Prevention,Infrastructure-heavy,0.4030876376706442,0.784772543813403,No-regret / complementary,No-regret / complementary
+NLD,Netherlands,AD-bio-CNG,Infrastructure-heavy,0.3143569147589138,0.9350038497610742,No-regret / complementary,No-regret / complementary
+MKD,North Macedonia,Prevention,Infrastructure-heavy,0.5613959011182842,0.7206481591177921,No-regret / complementary,No-regret / complementary
+NOR,Norway,AD-bio-CNG,Infrastructure-heavy,0.346039470076882,0.9178836431509424,No-regret / complementary,No-regret / complementary
+POL,Poland,AD-electricity,Infrastructure-heavy,0.7818484620385867,0.7362836223492494,Immediate priority,Immediate priority
+PRT,Portugal,AD-bio-CNG,Infrastructure-heavy,0.7381099519503324,0.6133687338878201,Immediate priority,Immediate priority
+ROU,Romania,Prevention,Infrastructure-heavy,0.7973008670746271,0.8344050317434958,Immediate priority,Immediate priority
+RUS,Russian Federation,AD-bio-CNG,Infrastructure-heavy,1.0,0.4839130061853756,Strategic build-out,Strategic build-out
+SMR,San Marino,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+SRB,Serbia,Prevention,Infrastructure-heavy,0.6739880995643427,0.7319285722866203,Immediate priority,Immediate priority
+SVK,Slovak Republic,Prevention,Infrastructure-heavy,0.615425720452251,0.7726212184840765,No-regret / complementary,No-regret / complementary
+SVN,Slovenia,AD-bio-CNG,Infrastructure-heavy,0.3135854722265407,0.8418200688288145,No-regret / complementary,No-regret / complementary
+ESP,Spain,AD-bio-CNG,Infrastructure-heavy,0.9162042117085974,0.7855324290640098,Immediate priority,Immediate priority
+SWE,Sweden,Prevention,Infrastructure-heavy,0.2267739785944709,0.8880623535055316,No-regret / complementary,No-regret / complementary
+CHE,Switzerland,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+TJK,Tajikistan,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+TKM,Turkmenistan,Prevention,Infrastructure-heavy,0.4212738369990971,0.6855823143682701,No-regret / complementary,No-regret / complementary
+TUR,Türkiye,Prevention,Infrastructure-heavy,1.0,0.7648577383801993,Immediate priority,Immediate priority
+UKR,Ukraine,Prevention,Infrastructure-heavy,0.8799563135861703,0.5993650329127089,Strategic build-out,Strategic build-out
+GBR,United Kingdom,AD-bio-CNG,Infrastructure-heavy,0.6772335707540755,0.8933394595457447,Immediate priority,Immediate priority
+UZB,Uzbekistan,AD-electricity,Infrastructure-heavy,0.7825844356431367,0.3078031503643735,Strategic build-out,Strategic build-out
+ATG,Antigua and Barbuda,Prevention,Infrastructure-heavy,0.0928201577206545,0.8160910360980599,No-regret / complementary,No-regret / complementary
+ARG,Argentina,AD-bio-CNG,Infrastructure-heavy,0.946518227649086,0.5714361248717784,Strategic build-out,Immediate priority
+ABW,Aruba,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+BHS,"Bahamas, The",,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+BRB,Barbados,Prevention,Infrastructure-heavy,0.4344271524599532,0.8438543741444754,No-regret / complementary,No-regret / complementary
+BLZ,Belize,Prevention,Infrastructure-heavy,0.2847988276354339,0.6991532054904965,No-regret / complementary,No-regret / complementary
+BOL,Bolivia,Prevention,Infrastructure-heavy,0.7598000137893943,0.646510180895098,Immediate priority,Immediate priority
+BRA,Brazil,Prevention,Infrastructure-heavy,1.0,0.8053680471703467,Immediate priority,Immediate priority
+VGB,British Virgin Islands,Prevention,Infrastructure-heavy,0.0,0.7967454574361644,No-regret / complementary,No-regret / complementary
+CYM,Cayman Islands,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+CHL,Chile,Prevention,Infrastructure-heavy,0.898697058909988,0.9175765407137009,Immediate priority,Immediate priority
+COL,Colombia,Prevention,Infrastructure-heavy,0.9465198742433693,0.7854764149254675,Immediate priority,Immediate priority
+CRI,Costa Rica,Prevention,Infrastructure-heavy,0.6480993632847455,0.8026687204135176,No-regret / complementary,No-regret / complementary
+CUB,Cuba,Prevention,Infrastructure-heavy,0.7975813786761158,0.7006173400878907,Immediate priority,Immediate priority
+CUW,Curaçao,Prevention,Infrastructure-heavy,0.2893420181796118,0.7618919972374987,No-regret / complementary,No-regret / complementary
+DMA,Dominica,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+DOM,Dominican Republic,Prevention,Infrastructure-heavy,0.7876778392219946,0.7424462026079087,Immediate priority,Immediate priority
+ECU,Ecuador,AD-bio-CNG,Infrastructure-heavy,0.7592807075460002,0.45155140667942395,Strategic build-out,Strategic build-out
+SLV,El Salvador,Prevention,Infrastructure-heavy,0.6166381269606427,0.7768335283684825,No-regret / complementary,No-regret / complementary
+GRD,Grenada,Prevention,Infrastructure-heavy,0.1162492926359981,0.6369090415879191,No-regret / complementary,No-regret / complementary
+GTM,Guatemala,Prevention,Infrastructure-heavy,0.8421506656727251,0.7330316791631867,Immediate priority,Immediate priority
+GUY,Guyana,Prevention,Infrastructure-heavy,0.4231809166348365,0.7868148084970429,No-regret / complementary,No-regret / complementary
+HTI,Haiti,Prevention,Infrastructure-heavy,0.7303682941091787,0.5496181092758292,Strategic build-out,Strategic build-out
+HND,Honduras,Prevention,Infrastructure-heavy,0.7561185627674006,0.6752829258515254,Immediate priority,Immediate priority
+JAM,Jamaica,Prevention,Infrastructure-heavy,0.6210819254046938,0.6996626808643912,No-regret / complementary,No-regret / complementary
+MEX,Mexico,AD-bio-CNG,Infrastructure-heavy,1.0,0.6037616545866132,Immediate priority,Immediate priority
+NIC,Nicaragua,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+PAN,Panama,Prevention,Infrastructure-heavy,0.627790578397945,0.827503022171553,No-regret / complementary,No-regret / complementary
+PRY,Paraguay,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+PER,Peru,Prevention,Infrastructure-heavy,0.8686519904077512,0.8015233945250659,Immediate priority,Immediate priority
+PRI,Puerto Rico,AD-bio-CNG,Infrastructure-heavy,0.590955585695927,0.6036943531422149,No-regret / complementary,No-regret / complementary
+SXM,Sint Maarten (Dutch),Prevention,Infrastructure-heavy,0.0,0.8294276873786209,No-regret / complementary,No-regret / complementary
+KNA,St. Kitts and Nevis,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+LCA,St. Lucia,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+MAF,St. Martin (French),,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+VCT,St. Vincent and the Grenadines,Prevention,Infrastructure-heavy,0.1109287436239665,0.647980491221907,No-regret / complementary,No-regret / complementary
+SUR,Suriname,Prevention,Infrastructure-heavy,0.3476518968644992,0.7362600806203806,No-regret / complementary,No-regret / complementary
+TTO,Trinidad and Tobago,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+TCA,Turks and Caicos Islands,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+URY,Uruguay,Prevention,Infrastructure-heavy,0.619041244809349,0.928585152038278,No-regret / complementary,No-regret / complementary
+VEN,"Venezuela, RB",Prevention,Infrastructure-heavy,0.8528996678767579,0.7682196094514623,Immediate priority,Immediate priority
+VIR,Virgin Islands (US),,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+DZA,Algeria,Prevention,Infrastructure-heavy,0.9171427097360412,0.6106667975929209,Immediate priority,Immediate priority
+BHR,Bahrain,Prevention,Infrastructure-heavy,0.5842545571762999,0.8854274078012985,No-regret / complementary,No-regret / complementary
+DJI,Djibouti,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+EGY,"Egypt, Arab Rep.",Prevention,Infrastructure-heavy,0.9776113379481404,0.6119995662486959,Immediate priority,Immediate priority
+IRN,"Iran, Islamic Rep.",Prevention,Infrastructure-heavy,0.9896561617484902,0.5419177591141824,Strategic build-out,Strategic build-out
+IRQ,Iraq,Prevention,Infrastructure-heavy,0.9841999711844832,0.8187902945316362,Immediate priority,Immediate priority
+ISR,Israel,Prevention,Infrastructure-heavy,0.7673908948849708,0.8323029851980351,Immediate priority,Immediate priority
+JOR,Jordan,Prevention,Infrastructure-heavy,0.7456060955080249,0.6743757693049036,Immediate priority,Immediate priority
+KWT,Kuwait,Prevention,Infrastructure-heavy,0.7435934767697168,0.8893563318381399,Immediate priority,Immediate priority
+LBN,Lebanon,Prevention,Infrastructure-heavy,0.7211903045987212,0.6304271631853163,Immediate priority,Immediate priority
+LBY,Libya,Prevention,Infrastructure-heavy,0.801717019329384,0.6840044455681525,Immediate priority,Immediate priority
+MLT,Malta,Prevention,Infrastructure-heavy,0.3905169035703643,0.8804500207819025,No-regret / complementary,No-regret / complementary
+MAR,Morocco,Prevention,Infrastructure-heavy,0.878053133864097,0.6024325675044535,Immediate priority,Immediate priority
+OMN,Oman,Prevention,Infrastructure-heavy,0.6264502355441236,0.9181766022671137,No-regret / complementary,No-regret / complementary
+QAT,Qatar,Prevention,Infrastructure-heavy,0.6462946226760945,0.9500000000000001,No-regret / complementary,No-regret / complementary
+SAU,Saudi Arabia,Prevention,Infrastructure-heavy,0.9663949349641404,0.879156165703806,Immediate priority,Immediate priority
+SYR,Syrian Arab Republic,Prevention,Infrastructure-heavy,0.7720631290436955,0.49850799800876827,Strategic build-out,Strategic build-out
+TUN,Tunisia,Prevention,Infrastructure-heavy,0.742717135066421,0.5991469972737369,Strategic build-out,Strategic build-out
+ARE,United Arab Emirates,Prevention,Infrastructure-heavy,0.6985978286262401,0.8843102196453495,Immediate priority,Immediate priority
+PSE,West Bank and Gaza,Prevention,Infrastructure-heavy,0.6425957067011554,0.6743956061206481,No-regret / complementary,No-regret / complementary
+YEM,"Yemen, Rep.",Prevention,Infrastructure-heavy,0.8312501332770891,0.397469590034255,Strategic build-out,Strategic build-out
+BMU,Bermuda,Prevention,Infrastructure-heavy,0.0,0.9,No-regret / complementary,No-regret / complementary
+CAN,Canada,Prevention,Infrastructure-heavy,0.8876511771333476,0.8746470099233076,Immediate priority,Immediate priority
+USA,United States,AD-bio-CNG,Infrastructure-heavy,1.0,0.8083866968903579,Immediate priority,Immediate priority
+AFG,Afghanistan,Prevention,Infrastructure-heavy,0.6824331593964805,0.494261266718303,Strategic build-out,Strategic build-out
+BGD,Bangladesh,Prevention,Infrastructure-heavy,0.8673050069749466,0.6588489107297351,Immediate priority,Immediate priority
+BTN,Bhutan,Prevention,Infrastructure-heavy,0.1938297859131287,0.6150380801232654,No-regret / complementary,No-regret / complementary
+IND,India,Prevention,Infrastructure-heavy,1.0,0.5717633194699608,Strategic build-out,Strategic build-out
+MDV,Maldives,Prevention,Infrastructure-heavy,0.4142990952635595,0.7597473610179847,No-regret / complementary,No-regret / complementary
+NPL,Nepal,Prevention,Infrastructure-heavy,0.6862687510723511,0.570087560059359,Strategic build-out,Strategic build-out
+PAK,Pakistan,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+LKA,Sri Lanka,Prevention,Infrastructure-heavy,0.7043027714971855,0.5316987360075538,Strategic build-out,Strategic build-out
+AGO,Angola,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+BEN,Benin,Prevention,Infrastructure-heavy,0.6146299650082516,0.4899389088202,Longer-term / local fit,Longer-term / local fit
+BWA,Botswana,Prevention,Infrastructure-heavy,0.2610730465966596,0.7574146320321912,No-regret / complementary,No-regret / complementary
+BFA,Burkina Faso,Prevention,Infrastructure-heavy,0.4065474638332826,0.4125370106437966,Longer-term / local fit,Longer-term / local fit
+BDI,Burundi,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+CPV,Cabo Verde,Prevention,Infrastructure-heavy,0.2408610714130485,0.6075049229999263,No-regret / complementary,No-regret / complementary
+CMR,Cameroon,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+CAF,Central African Republic,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+TCD,Chad,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+COM,Comoros,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+COD,"Congo, Dem. Rep.",,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+COG,"Congo, Rep.",,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+CIV,Côte d’Ivoire,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+GNQ,Equatorial Guinea,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+ERI,Eritrea,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+SWZ,Eswatini,Prevention,Infrastructure-heavy,0.3966503327115631,0.5378044727304038,Longer-term / local fit,Longer-term / local fit
+ETH,Ethiopia,Prevention,Infrastructure-heavy,0.8170888839471673,0.4315175428161997,Strategic build-out,Strategic build-out
+GAB,Gabon,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+GMB,"Gambia, The",,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+GHA,Ghana,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+GIN,Guinea,Prevention,Infrastructure-heavy,0.6629725749981942,0.5095057907408274,Longer-term / local fit,Longer-term / local fit
+GNB,Guinea-Bissau,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+KEN,Kenya,Prevention,Infrastructure-heavy,0.7685843886382454,0.5491289261599468,Strategic build-out,Strategic build-out
+LSO,Lesotho,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+LBR,Liberia,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+MDG,Madagascar,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+MWI,Malawi,Prevention,Infrastructure-heavy,0.7641352445087537,0.3645833333333333,Strategic build-out,Strategic build-out
+MLI,Mali,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+MRT,Mauritania,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+MUS,Mauritius,AD-bio-CNG,Infrastructure-heavy,0.4823959358810789,0.4677758776328664,Longer-term / local fit,Longer-term / local fit
+MOZ,Mozambique,Prevention,Infrastructure-heavy,0.7715419881928725,0.43004770115981733,Strategic build-out,Strategic build-out
+NAM,Namibia,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+NER,Niger,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+NGA,Nigeria,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+RWA,Rwanda,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+SEN,Senegal,Prevention,Infrastructure-heavy,0.5473940916163427,0.583234312199805,Longer-term / local fit,Longer-term / local fit
+SYC,Seychelles,Prevention,Infrastructure-heavy,0.2058994176029729,0.825657898069671,No-regret / complementary,No-regret / complementary
+SLE,Sierra Leone,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+SOM,"Somalia, Fed. Rep.",,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+ZAF,South Africa,Prevention,Infrastructure-heavy,0.771813175989036,0.756672140090268,Immediate priority,Immediate priority
+SSD,South Sudan,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+SDN,Sudan,Prevention,Infrastructure-heavy,0.798090691502634,0.43841844378838607,Strategic build-out,Strategic build-out
+STP,São Tomé and Príncipe,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+TZA,Tanzania,Prevention,Infrastructure-heavy,0.8708483039272807,0.47114536910722116,Strategic build-out,Strategic build-out
+TGO,Togo,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+UGA,Uganda,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+ZMB,Zambia,Prevention,Infrastructure-heavy,0.7716406678116028,0.5732233429868508,Strategic build-out,Strategic build-out
+ZWE,Zimbabwe,,Infrastructure-heavy,,,Missing/insufficient,Missing/insufficient
+ASM,American Samoa,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+AUS,Australia,AD-bio-CNG,Data-completeness-heavy,0.9451936824048736,0.8629068723156011,Immediate priority,Immediate priority
+BRN,Brunei Darussalam,AD-electricity,Data-completeness-heavy,0.3946121553771129,0.5019403083028444,Longer-term / local fit,Longer-term / local fit
+KHM,Cambodia,Prevention,Data-completeness-heavy,0.7891204840453387,0.5992444386255564,Strategic build-out,Strategic build-out
+CHN,China,Prevention,Data-completeness-heavy,1.0,0.6608770581099432,Immediate priority,Immediate priority
+FJI,Fiji,Prevention,Data-completeness-heavy,0.3430324819031734,0.6431293234641554,No-regret / complementary,No-regret / complementary
+PYF,French Polynesia,Prevention,Data-completeness-heavy,0.208906926979552,0.8128272180649325,No-regret / complementary,No-regret / complementary
+GUM,Guam,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+HKG,"Hong Kong SAR, China",AD-bio-CNG,Data-completeness-heavy,0.6965509574755353,0.8611716857321584,Immediate priority,Immediate priority
+IDN,Indonesia,Prevention,Data-completeness-heavy,1.0,0.7126272583761235,Immediate priority,Immediate priority
+JPN,Japan,Prevention,Data-completeness-heavy,0.4192427209499342,0.9195104016621991,No-regret / complementary,No-regret / complementary
+KIR,Kiribati,Prevention,Data-completeness-heavy,0.1042019922815948,0.6801991815349149,No-regret / complementary,No-regret / complementary
+KOR,"Korea, Rep.",Prevention,Data-completeness-heavy,0.637981576646601,0.8437803555190118,No-regret / complementary,No-regret / complementary
+LAO,Lao PDR,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+MAC,"Macao SAR, China",,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+MYS,Malaysia,Prevention,Data-completeness-heavy,0.9182241651254056,0.7388185535283641,Immediate priority,Immediate priority
+MHL,Marshall Islands,Prevention,Data-completeness-heavy,0.0,0.6709954760566522,No-regret / complementary,No-regret / complementary
+FSM,"Micronesia, Fed. Sts.",Prevention,Data-completeness-heavy,0.0153479024780708,0.514343617445779,Longer-term / local fit,Longer-term / local fit
+MNG,Mongolia,Prevention,Data-completeness-heavy,0.5771760550574917,0.6441489145744576,No-regret / complementary,No-regret / complementary
+MMR,Myanmar,AD-bio-CNG,Data-completeness-heavy,0.8398357970490514,0.4954729861328808,Strategic build-out,Strategic build-out
+NRU,Nauru,Prevention,Data-completeness-heavy,0.0,0.9110073582304912,No-regret / complementary,No-regret / complementary
+NCL,New Caledonia,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+NZL,New Zealand,AD-bio-CNG,Data-completeness-heavy,0.5737778870953206,0.7732733203841754,No-regret / complementary,No-regret / complementary
+MNP,Northern Mariana Islands,Prevention,Data-completeness-heavy,0.0158560664590792,0.6991289271176725,No-regret / complementary,No-regret / complementary
+PLW,Palau,Prevention,Data-completeness-heavy,0.0401310503180615,0.8220825132329987,No-regret / complementary,No-regret / complementary
+PNG,Papua New Guinea,Prevention,Data-completeness-heavy,0.6178051524036267,0.5679546674623626,Longer-term / local fit,Longer-term / local fit
+PHL,Philippines,Prevention,Data-completeness-heavy,0.9467666060743666,0.6139294872811409,Immediate priority,Strategic build-out
+WSM,Samoa,Prevention,Data-completeness-heavy,0.0906264633694502,0.7518497731082091,No-regret / complementary,No-regret / complementary
+SGP,Singapore,AD-bio-CNG,Data-completeness-heavy,0.1486560822700873,0.9583333333333334,No-regret / complementary,No-regret / complementary
+SLB,Solomon Islands,Prevention,Data-completeness-heavy,0.442599888067506,0.568578130249165,Longer-term / local fit,Longer-term / local fit
+TWN,"Taiwan, China",AD-bio-CNG,Data-completeness-heavy,0.3330537932584356,0.6666666666666666,No-regret / complementary,No-regret / complementary
+THA,Thailand,Prevention,Data-completeness-heavy,0.9711303440645884,0.7918610317693074,Immediate priority,Immediate priority
+TLS,Timor-Leste,Prevention,Data-completeness-heavy,0.4176073680851568,0.5133998070855227,Longer-term / local fit,Longer-term / local fit
+TON,Tonga,Prevention,Data-completeness-heavy,0.0,0.7626096263628502,No-regret / complementary,No-regret / complementary
+TUV,Tuvalu,Prevention,Data-completeness-heavy,0.0,0.7111539979620811,No-regret / complementary,No-regret / complementary
+VUT,Vanuatu,Prevention,Data-completeness-heavy,0.1454864317852141,0.6389409169695143,No-regret / complementary,Longer-term / local fit
+VNM,Viet Nam,Prevention,Data-completeness-heavy,0.943892840906651,0.614138296849663,Immediate priority,Strategic build-out
+ALB,Albania,Prevention,Data-completeness-heavy,0.5502963545493029,0.7315731512097525,No-regret / complementary,No-regret / complementary
+AND,Andorra,Prevention,Data-completeness-heavy,0.0,0.7822444045283179,No-regret / complementary,No-regret / complementary
+ARM,Armenia,Prevention,Data-completeness-heavy,0.4991917823053633,0.8072070672431683,No-regret / complementary,No-regret / complementary
+AUT,Austria,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+AZE,Azerbaijan,Prevention,Data-completeness-heavy,0.7280045269487914,0.7885748195982344,Immediate priority,Immediate priority
+BLR,Belarus,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+BEL,Belgium,Prevention,Data-completeness-heavy,0.2676760273225788,0.8463325185718484,No-regret / complementary,No-regret / complementary
+BIH,Bosnia and Herzegovina,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+BGR,Bulgaria,AD-bio-CNG,Data-completeness-heavy,0.5827102394175456,0.7683891407874445,No-regret / complementary,No-regret / complementary
+CHI,Channel Islands,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+HRV,Croatia,AD-bio-CNG,Data-completeness-heavy,0.5963525116418177,0.7468091664385655,No-regret / complementary,No-regret / complementary
+CYP,Cyprus,Prevention,Data-completeness-heavy,0.4897734963044797,0.752967791866251,No-regret / complementary,No-regret / complementary
+CZE,Czech Republic,Prevention,Data-completeness-heavy,0.7063583482092564,0.7558041972055266,Immediate priority,Immediate priority
+DNK,Denmark,AD-bio-CNG,Data-completeness-heavy,0.2637711030629047,0.9361162409359262,No-regret / complementary,No-regret / complementary
+EST,Estonia,Prevention,Data-completeness-heavy,0.2189354478088819,0.7539924413677798,No-regret / complementary,No-regret / complementary
+FRO,Faroe Islands,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+FIN,Finland,AD-bio-CNG,Data-completeness-heavy,0.0104421278576868,0.8213423596738505,No-regret / complementary,No-regret / complementary
+FRA,France,AD-bio-CNG,Data-completeness-heavy,0.8164016709562202,0.8134405809839315,Immediate priority,Immediate priority
+GEO,Georgia,Prevention,Data-completeness-heavy,0.6185394928825085,0.8000630271298408,No-regret / complementary,No-regret / complementary
+DEU,Germany,Prevention,Data-completeness-heavy,0.5339167422446018,0.7712413933270575,No-regret / complementary,No-regret / complementary
+GIB,Gibraltar,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+GRC,Greece,Prevention,Data-completeness-heavy,0.754132829386763,0.8345076678972377,Immediate priority,Immediate priority
+GRL,Greenland,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+HUN,Hungary,AD-bio-CNG,Data-completeness-heavy,0.5838826511987801,0.6443579817553866,No-regret / complementary,No-regret / complementary
+ISL,Iceland,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+IRL,Ireland,AD-bio-CNG,Data-completeness-heavy,0.4980585979119231,0.817045400057349,No-regret / complementary,No-regret / complementary
+IMN,Isle of Man,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+ITA,Italy,Prevention,Data-completeness-heavy,0.7964835346737906,0.7562673759011832,Immediate priority,Immediate priority
+KAZ,Kazakhstan,Prevention,Data-completeness-heavy,0.6894868867931253,0.7343974458926897,Immediate priority,Immediate priority
+XKX,Kosovo,Prevention,Data-completeness-heavy,0.4856336017855869,0.6342047460238873,No-regret / complementary,No-regret / complementary
+KGZ,Kyrgyz Republic,Prevention,Data-completeness-heavy,0.6169047546972349,0.5888158863493815,Longer-term / local fit,Longer-term / local fit
+LVA,Latvia,AD-bio-CNG,Data-completeness-heavy,0.4753571553535252,0.6489781431526577,No-regret / complementary,No-regret / complementary
+LIE,Liechtenstein,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+LTU,Lithuania,Prevention,Data-completeness-heavy,0.3236412496057487,0.8999023944030443,No-regret / complementary,No-regret / complementary
+LUX,Luxembourg,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+MDA,Moldova,AD-bio-CNG,Data-completeness-heavy,0.5213101080162478,0.4639678676070681,Longer-term / local fit,Longer-term / local fit
+MCO,Monaco,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+MNE,Montenegro,Prevention,Data-completeness-heavy,0.4030876376706442,0.8073294078600523,No-regret / complementary,No-regret / complementary
+NLD,Netherlands,AD-bio-CNG,Data-completeness-heavy,0.3143569147589138,0.8850038497610742,No-regret / complementary,No-regret / complementary
+MKD,North Macedonia,Prevention,Data-completeness-heavy,0.5613959011182842,0.7279861193383441,No-regret / complementary,No-regret / complementary
+NOR,Norway,AD-bio-CNG,Data-completeness-heavy,0.346039470076882,0.8678836431509425,No-regret / complementary,No-regret / complementary
+POL,Poland,AD-electricity,Data-completeness-heavy,0.7818484620385867,0.7345403468190992,Immediate priority,Immediate priority
+PRT,Portugal,AD-bio-CNG,Data-completeness-heavy,0.7381099519503324,0.6600354005544868,Immediate priority,Immediate priority
+ROU,Romania,Prevention,Data-completeness-heavy,0.7973008670746271,0.8133037738076219,Immediate priority,Immediate priority
+RUS,Russian Federation,AD-bio-CNG,Data-completeness-heavy,1.0,0.603740523477977,Immediate priority,Strategic build-out
+SMR,San Marino,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+SRB,Serbia,Prevention,Data-completeness-heavy,0.6739880995643427,0.7364464292149653,Immediate priority,Immediate priority
+SVK,Slovak Republic,Prevention,Data-completeness-heavy,0.615425720452251,0.7357159138630573,No-regret / complementary,No-regret / complementary
+SVN,Slovenia,AD-bio-CNG,Data-completeness-heavy,0.3135854722265407,0.8246027132954404,No-regret / complementary,No-regret / complementary
+ESP,Spain,AD-bio-CNG,Data-completeness-heavy,0.9162042117085974,0.7757393762919265,Immediate priority,Immediate priority
+SWE,Sweden,Prevention,Data-completeness-heavy,0.2267739785944709,0.8535467651291487,No-regret / complementary,No-regret / complementary
+CHE,Switzerland,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+TJK,Tajikistan,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+TKM,Turkmenistan,Prevention,Data-completeness-heavy,0.4212738369990971,0.7016867357762026,No-regret / complementary,No-regret / complementary
+TUR,Türkiye,Prevention,Data-completeness-heavy,1.0,0.7611433037851495,Immediate priority,Immediate priority
+UKR,Ukraine,Prevention,Data-completeness-heavy,0.8799563135861703,0.6370237746845318,Immediate priority,Strategic build-out
+GBR,United Kingdom,AD-bio-CNG,Data-completeness-heavy,0.6772335707540755,0.8433394595457446,Immediate priority,Immediate priority
+UZB,Uzbekistan,AD-electricity,Data-completeness-heavy,0.7825844356431367,0.49049256431399124,Strategic build-out,Strategic build-out
+ATG,Antigua and Barbuda,Prevention,Data-completeness-heavy,0.0928201577206545,0.7995682770735449,No-regret / complementary,No-regret / complementary
+ARG,Argentina,AD-bio-CNG,Data-completeness-heavy,0.946518227649086,0.7172694582051117,Immediate priority,Immediate priority
+ABW,Aruba,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+BHS,"Bahamas, The",,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+BRB,Barbados,Prevention,Data-completeness-heavy,0.4344271524599532,0.8203907806083566,No-regret / complementary,No-regret / complementary
+BLZ,Belize,Prevention,Data-completeness-heavy,0.2847988276354339,0.7118649041178724,No-regret / complementary,No-regret / complementary
+BOL,Bolivia,Prevention,Data-completeness-heavy,0.7598000137893943,0.7036326356713235,Immediate priority,Immediate priority
+BRA,Brazil,Prevention,Data-completeness-heavy,1.0,0.82277603537776,Immediate priority,Immediate priority
+VGB,British Virgin Islands,Prevention,Data-completeness-heavy,0.0,0.7538090930771233,No-regret / complementary,No-regret / complementary
+CYM,Cayman Islands,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+CHL,Chile,Prevention,Data-completeness-heavy,0.898697058909988,0.9069324055352757,Immediate priority,Immediate priority
+COL,Colombia,Prevention,Data-completeness-heavy,0.9465198742433693,0.8078573111941006,Immediate priority,Immediate priority
+CRI,Costa Rica,Prevention,Data-completeness-heavy,0.6480993632847455,0.8207515403101382,No-regret / complementary,No-regret / complementary
+CUB,Cuba,Prevention,Data-completeness-heavy,0.7975813786761158,0.681713005065918,Immediate priority,Immediate priority
+CUW,Curaçao,Prevention,Data-completeness-heavy,0.2893420181796118,0.696418997928124,No-regret / complementary,No-regret / complementary
+DMA,Dominica,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+DOM,Dominican Republic,Prevention,Data-completeness-heavy,0.7876778392219946,0.7443346519559315,Immediate priority,Immediate priority
+ECU,Ecuador,AD-bio-CNG,Data-completeness-heavy,0.7592807075460002,0.5970514066794239,Strategic build-out,Strategic build-out
+SLV,El Salvador,Prevention,Data-completeness-heavy,0.6166381269606427,0.8013751462763619,No-regret / complementary,No-regret / complementary
+GRD,Grenada,Prevention,Data-completeness-heavy,0.1162492926359981,0.6339317811909393,No-regret / complementary,No-regret / complementary
+GTM,Guatemala,Prevention,Data-completeness-heavy,0.8421506656727251,0.76852375937239,Immediate priority,Immediate priority
+GUY,Guyana,Prevention,Data-completeness-heavy,0.4231809166348365,0.7776111063727822,No-regret / complementary,No-regret / complementary
+HTI,Haiti,Prevention,Data-completeness-heavy,0.7303682941091787,0.599713581956872,Strategic build-out,Strategic build-out
+HND,Honduras,Prevention,Data-completeness-heavy,0.7561185627674006,0.756462194388644,Immediate priority,Immediate priority
+JAM,Jamaica,Prevention,Data-completeness-heavy,0.6210819254046938,0.7122470106482934,No-regret / complementary,No-regret / complementary
+MEX,Mexico,AD-bio-CNG,Data-completeness-heavy,1.0,0.7479283212532799,Immediate priority,Immediate priority
+NIC,Nicaragua,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+PAN,Panama,Prevention,Data-completeness-heavy,0.627790578397945,0.8081272666286647,No-regret / complementary,No-regret / complementary
+PRY,Paraguay,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+PER,Peru,Prevention,Data-completeness-heavy,0.8686519904077512,0.8198925458937995,Immediate priority,Immediate priority
+PRI,Puerto Rico,AD-bio-CNG,Data-completeness-heavy,0.590955585695927,0.7070276864755483,No-regret / complementary,No-regret / complementary
+SXM,Sint Maarten (Dutch),Prevention,Data-completeness-heavy,0.0,0.7783207655339657,No-regret / complementary,No-regret / complementary
+KNA,St. Kitts and Nevis,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+LCA,St. Lucia,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+MAF,St. Martin (French),,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+VCT,St. Vincent and the Grenadines,Prevention,Data-completeness-heavy,0.1109287436239665,0.6422353684164303,No-regret / complementary,No-regret / complementary
+SUR,Suriname,Prevention,Data-completeness-heavy,0.3476518968644992,0.7396950604652854,No-regret / complementary,No-regret / complementary
+TTO,Trinidad and Tobago,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+TCA,Turks and Caicos Islands,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+URY,Uruguay,Prevention,Data-completeness-heavy,0.619041244809349,0.9151888640287085,No-regret / complementary,No-regret / complementary
+VEN,"Venezuela, RB",Prevention,Data-completeness-heavy,0.8528996678767579,0.7949147070885967,Immediate priority,Immediate priority
+VIR,Virgin Islands (US),,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+DZA,Algeria,Prevention,Data-completeness-heavy,0.9171427097360412,0.6455000981946906,Immediate priority,Immediate priority
+BHR,Bahrain,Prevention,Data-completeness-heavy,0.5842545571762999,0.8515705558509739,No-regret / complementary,No-regret / complementary
+DJI,Djibouti,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+EGY,"Egypt, Arab Rep.",Prevention,Data-completeness-heavy,0.9776113379481404,0.6777496746865219,Immediate priority,Immediate priority
+IRN,"Iran, Islamic Rep.",Prevention,Data-completeness-heavy,0.9896561617484902,0.5626883193356368,Strategic build-out,Strategic build-out
+IRQ,Iraq,Prevention,Data-completeness-heavy,0.9841999711844832,0.8640927208987271,Immediate priority,Immediate priority
+ISR,Israel,Prevention,Data-completeness-heavy,0.7673908948849708,0.7804772388985264,Immediate priority,Immediate priority
+JOR,Jordan,Prevention,Data-completeness-heavy,0.7456060955080249,0.7245318269786777,Immediate priority,Immediate priority
+KWT,Kuwait,Prevention,Data-completeness-heavy,0.7435934767697168,0.8545172488786049,Immediate priority,Immediate priority
+LBN,Lebanon,Prevention,Data-completeness-heavy,0.7211903045987212,0.6603203723889872,Immediate priority,Immediate priority
+LBY,Libya,Prevention,Data-completeness-heavy,0.801717019329384,0.6692533341761144,Immediate priority,Immediate priority
+MLT,Malta,Prevention,Data-completeness-heavy,0.3905169035703643,0.8478375155864268,No-regret / complementary,No-regret / complementary
+MAR,Morocco,Prevention,Data-completeness-heavy,0.878053133864097,0.6393244256283401,Immediate priority,Immediate priority
+OMN,Oman,Prevention,Data-completeness-heavy,0.6264502355441236,0.9073824517003353,No-regret / complementary,No-regret / complementary
+QAT,Qatar,Prevention,Data-completeness-heavy,0.6462946226760945,0.93125,No-regret / complementary,No-regret / complementary
+SAU,Saudi Arabia,Prevention,Data-completeness-heavy,0.9663949349641404,0.8468671242778545,Immediate priority,Immediate priority
+SYR,Syrian Arab Republic,Prevention,Data-completeness-heavy,0.7720631290436955,0.5613809985065762,Strategic build-out,Strategic build-out
+TUN,Tunisia,Prevention,Data-completeness-heavy,0.742717135066421,0.6368602479553027,Immediate priority,Strategic build-out
+ARE,United Arab Emirates,Prevention,Data-completeness-heavy,0.6985978286262401,0.8507326647340121,Immediate priority,Immediate priority
+PSE,West Bank and Gaza,Prevention,Data-completeness-heavy,0.6425957067011554,0.6620467045904861,No-regret / complementary,No-regret / complementary
+YEM,"Yemen, Rep.",Prevention,Data-completeness-heavy,0.8312501332770891,0.45435219252569126,Strategic build-out,Strategic build-out
+BMU,Bermuda,Prevention,Data-completeness-heavy,0.0,0.8625,No-regret / complementary,No-regret / complementary
+CAN,Canada,Prevention,Data-completeness-heavy,0.8876511771333476,0.8434852574424807,Immediate priority,Immediate priority
+USA,United States,AD-bio-CNG,Data-completeness-heavy,1.0,0.8547755857792468,Immediate priority,Immediate priority
+AFG,Afghanistan,Prevention,Data-completeness-heavy,0.6824331593964805,0.5894459500387272,Strategic build-out,Strategic build-out
+BGD,Bangladesh,Prevention,Data-completeness-heavy,0.8673050069749466,0.7441366830473013,Immediate priority,Immediate priority
+BTN,Bhutan,Prevention,Data-completeness-heavy,0.1938297859131287,0.6800285600924492,No-regret / complementary,No-regret / complementary
+IND,India,Prevention,Data-completeness-heavy,1.0,0.6163224896024706,Immediate priority,Strategic build-out
+MDV,Maldives,Prevention,Data-completeness-heavy,0.4142990952635595,0.7885605207634885,No-regret / complementary,No-regret / complementary
+NPL,Nepal,Prevention,Data-completeness-heavy,0.6862687510723511,0.6150656700445193,Immediate priority,Strategic build-out
+PAK,Pakistan,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+LKA,Sri Lanka,Prevention,Data-completeness-heavy,0.7043027714971855,0.5862740520056653,Strategic build-out,Strategic build-out
+AGO,Angola,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+BEN,Benin,Prevention,Data-completeness-heavy,0.6146299650082516,0.52370418161515,Longer-term / local fit,Longer-term / local fit
+BWA,Botswana,Prevention,Data-completeness-heavy,0.2610730465966596,0.7868109740241434,No-regret / complementary,No-regret / complementary
+BFA,Burkina Faso,Prevention,Data-completeness-heavy,0.4065474638332826,0.49690275798284744,Longer-term / local fit,Longer-term / local fit
+BDI,Burundi,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+CPV,Cabo Verde,Prevention,Data-completeness-heavy,0.2408610714130485,0.6431286922499447,No-regret / complementary,No-regret / complementary
+CMR,Cameroon,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+CAF,Central African Republic,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+TCD,Chad,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+COM,Comoros,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+COD,"Congo, Dem. Rep.",,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+COG,"Congo, Rep.",,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+CIV,Côte d’Ivoire,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+GNQ,Equatorial Guinea,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+ERI,Eritrea,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+SWZ,Eswatini,Prevention,Data-completeness-heavy,0.3966503327115631,0.5908533545478027,Longer-term / local fit,Longer-term / local fit
+ETH,Ethiopia,Prevention,Data-completeness-heavy,0.8170888839471673,0.5111381571121498,Strategic build-out,Strategic build-out
+GAB,Gabon,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+GMB,"Gambia, The",,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+GHA,Ghana,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+GIN,Guinea,Prevention,Data-completeness-heavy,0.6629725749981942,0.5696293430556205,Longer-term / local fit,Longer-term / local fit
+GNB,Guinea-Bissau,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+KEN,Kenya,Prevention,Data-completeness-heavy,0.7685843886382454,0.5993466946199602,Strategic build-out,Strategic build-out
+LSO,Lesotho,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+LBR,Liberia,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+MDG,Madagascar,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+MWI,Malawi,Prevention,Data-completeness-heavy,0.7641352445087537,0.4296875,Strategic build-out,Strategic build-out
+MLI,Mali,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+MRT,Mauritania,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+MUS,Mauritius,AD-bio-CNG,Data-completeness-heavy,0.4823959358810789,0.6024980998550886,No-regret / complementary,Longer-term / local fit
+MOZ,Mozambique,Prevention,Data-completeness-heavy,0.7715419881928725,0.510035775869863,Strategic build-out,Strategic build-out
+NAM,Namibia,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+NER,Niger,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+NGA,Nigeria,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+RWA,Rwanda,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+SEN,Senegal,Prevention,Data-completeness-heavy,0.5473940916163427,0.6561757341498538,No-regret / complementary,Longer-term / local fit
+SYC,Seychelles,Prevention,Data-completeness-heavy,0.2058994176029729,0.8067434235522533,No-regret / complementary,No-regret / complementary
+SLE,Sierra Leone,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+SOM,"Somalia, Fed. Rep.",,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+ZAF,South Africa,Prevention,Data-completeness-heavy,0.771813175989036,0.786254105067701,Immediate priority,Immediate priority
+SSD,South Sudan,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+SDN,Sudan,Prevention,Data-completeness-heavy,0.798090691502634,0.5163138328412895,Strategic build-out,Strategic build-out
+STP,São Tomé and Príncipe,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+TZA,Tanzania,Prevention,Data-completeness-heavy,0.8708483039272807,0.5096090268304159,Strategic build-out,Strategic build-out
+TGO,Togo,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+UGA,Uganda,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient
+ZMB,Zambia,Prevention,Data-completeness-heavy,0.7716406678116028,0.6486675072401381,Immediate priority,Strategic build-out
+ZWE,Zimbabwe,,Data-completeness-heavy,,,Missing/insufficient,Missing/insufficient

@@ -1,0 +1,10 @@
+Mitigation threshold,Readiness threshold,Mitigation change,Readiness change,Immediate priority,Strategic build-out,No-regret / complementary,Longer-term / local fit,Missing/insufficient
+0.57,0.51,-15%,-15%,79,13,54,6,65
+0.57,0.6,-15%,central,64,28,50,10,65
+0.57,0.69,-15%,+15%,49,43,39,21,65
+0.67,0.51,central,-15%,60,10,73,9,65
+0.67,0.6,central,central,46,24,68,14,65
+0.67,0.69,central,+15%,34,36,54,28,65
+0.77,0.51,+15%,-15%,39,8,94,11,65
+0.77,0.6,+15%,central,31,16,83,22,65
+0.77,0.69,+15%,+15%,24,23,64,41,65

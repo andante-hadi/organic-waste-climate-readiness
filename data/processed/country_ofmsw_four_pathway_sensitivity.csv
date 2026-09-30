@@ -1,0 +1,218 @@
+iso3,country,region,income_2022,win_probability_AD-electricity,win_probability_AD-bio-CNG,win_probability_Composting,win_probability_Prevention,robust_winning_pathway,max_win_probability
+ASM,American Samoa,E. Asia & Pacific,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+AUS,Australia,E. Asia & Pacific,HIC,0.399,0.601,0.0,0.0,AD-bio-CNG,0.601
+BRN,Brunei Darussalam,E. Asia & Pacific,HIC,0.559,0.005,0.0,0.436,AD-electricity,0.559
+KHM,Cambodia,E. Asia & Pacific,LMIC,0.0,0.152,0.0,0.848,Prevention,0.848
+CHN,China,E. Asia & Pacific,UMIC,0.182,0.268,0.0,0.55,Prevention,0.55
+FJI,Fiji,E. Asia & Pacific,UMIC,0.0,0.239,0.0,0.761,Prevention,0.761
+PYF,French Polynesia,E. Asia & Pacific,HIC,0.0,0.079,0.0,0.921,Prevention,0.921
+GUM,Guam,E. Asia & Pacific,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+HKG,"Hong Kong SAR, China",E. Asia & Pacific,HIC,0.349,0.124,0.0,0.527,Prevention,0.527
+IDN,Indonesia,E. Asia & Pacific,UMIC,0.158,0.074,0.0,0.768,Prevention,0.768
+JPN,Japan,E. Asia & Pacific,HIC,0.1,0.349,0.0,0.551,Prevention,0.551
+KIR,Kiribati,E. Asia & Pacific,LMIC,0.016,0.133,0.0,0.851,Prevention,0.851
+KOR,"Korea, Rep.",E. Asia & Pacific,HIC,0.009,0.446,0.0,0.545,Prevention,0.545
+LAO,Lao PDR,E. Asia & Pacific,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+MAC,"Macao SAR, China",E. Asia & Pacific,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+MYS,Malaysia,E. Asia & Pacific,UMIC,0.159,0.207,0.0,0.634,Prevention,0.634
+MHL,Marshall Islands,E. Asia & Pacific,UMIC,0.0,0.0,0.081,0.919,Prevention,0.919
+FSM,"Micronesia, Fed. Sts.",E. Asia & Pacific,LMIC,0.0,0.0,0.048,0.952,Prevention,0.952
+MNG,Mongolia,E. Asia & Pacific,LMIC,0.211,0.011,0.0,0.778,Prevention,0.778
+MMR,Myanmar,E. Asia & Pacific,LMIC,0.35,0.65,0.0,0.0,AD-bio-CNG,0.65
+NRU,Nauru,E. Asia & Pacific,HIC,0.195,0.029,0.0,0.776,Prevention,0.776
+NCL,New Caledonia,E. Asia & Pacific,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+NZL,New Zealand,E. Asia & Pacific,HIC,0.0,0.768,0.0,0.232,AD-bio-CNG,0.768
+MNP,Northern Mariana Islands,E. Asia & Pacific,HIC,0.0,0.0,0.12,0.88,Prevention,0.88
+PLW,Palau,E. Asia & Pacific,UMIC,0.0,0.0,0.136,0.864,Prevention,0.864
+PNG,Papua New Guinea,E. Asia & Pacific,LMIC,0.02,0.072,0.0,0.908,Prevention,0.908
+PHL,Philippines,E. Asia & Pacific,LMIC,0.067,0.089,0.0,0.844,Prevention,0.844
+WSM,Samoa,E. Asia & Pacific,LMIC,0.0,0.377,0.0,0.623,Prevention,0.623
+SGP,Singapore,E. Asia & Pacific,HIC,0.107,0.502,0.0,0.391,AD-bio-CNG,0.502
+SLB,Solomon Islands,E. Asia & Pacific,LMIC,0.129,0.119,0.0,0.752,Prevention,0.752
+TWN,"Taiwan, China",E. Asia & Pacific,HIC,0.368,0.229,0.0,0.403,No robust winner,0.403
+THA,Thailand,E. Asia & Pacific,UMIC,0.047,0.125,0.0,0.828,Prevention,0.828
+TLS,Timor-Leste,E. Asia & Pacific,LMIC,0.156,0.084,0.0,0.76,Prevention,0.76
+TON,Tonga,E. Asia & Pacific,UMIC,0.16,0.153,0.0,0.687,Prevention,0.687
+TUV,Tuvalu,E. Asia & Pacific,UMIC,0.0,0.0,0.072,0.928,Prevention,0.928
+VUT,Vanuatu,E. Asia & Pacific,LMIC,0.009,0.066,0.0,0.925,Prevention,0.925
+VNM,Viet Nam,E. Asia & Pacific,LMIC,0.002,0.237,0.0,0.761,Prevention,0.761
+ALB,Albania,Eur. & Cent. Asia,UMIC,0.0,0.234,0.0,0.766,Prevention,0.766
+AND,Andorra,Eur. & Cent. Asia,HIC,0.0,0.0,0.12,0.88,Prevention,0.88
+ARM,Armenia,Eur. & Cent. Asia,UMIC,0.0,0.296,0.0,0.704,Prevention,0.704
+AUT,Austria,Eur. & Cent. Asia,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+AZE,Azerbaijan,Eur. & Cent. Asia,UMIC,0.116,0.057,0.0,0.827,Prevention,0.827
+BLR,Belarus,Eur. & Cent. Asia,UMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+BEL,Belgium,Eur. & Cent. Asia,HIC,0.0,0.349,0.0,0.651,Prevention,0.651
+BIH,Bosnia and Herzegovina,Eur. & Cent. Asia,UMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+BGR,Bulgaria,Eur. & Cent. Asia,UMIC,0.1,0.886,0.001,0.013,AD-bio-CNG,0.886
+CHI,Channel Islands,Eur. & Cent. Asia,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+HRV,Croatia,Eur. & Cent. Asia,HIC,0.0,0.609,0.001,0.39,AD-bio-CNG,0.609
+CYP,Cyprus,Eur. & Cent. Asia,HIC,0.057,0.177,0.0,0.766,Prevention,0.766
+CZE,Czech Republic,Eur. & Cent. Asia,HIC,0.06,0.394,0.0,0.546,Prevention,0.546
+DNK,Denmark,Eur. & Cent. Asia,HIC,0.0,1.0,0.0,0.0,AD-bio-CNG,1.0
+EST,Estonia,Eur. & Cent. Asia,HIC,0.022,0.212,0.0,0.766,Prevention,0.766
+FRO,Faroe Islands,Eur. & Cent. Asia,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+FIN,Finland,Eur. & Cent. Asia,HIC,0.0,0.53,0.0,0.47,AD-bio-CNG,0.53
+FRA,France,Eur. & Cent. Asia,HIC,0.0,0.633,0.0,0.367,AD-bio-CNG,0.633
+GEO,Georgia,Eur. & Cent. Asia,UMIC,0.0,0.345,0.0,0.655,Prevention,0.655
+DEU,Germany,Eur. & Cent. Asia,HIC,0.007,0.448,0.0,0.545,Prevention,0.545
+GIB,Gibraltar,Eur. & Cent. Asia,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+GRC,Greece,Eur. & Cent. Asia,HIC,0.0,0.235,0.0,0.765,Prevention,0.765
+GRL,Greenland,Eur. & Cent. Asia,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+HUN,Hungary,Eur. & Cent. Asia,HIC,0.0,0.459,0.0,0.541,Prevention,0.541
+ISL,Iceland,Eur. & Cent. Asia,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+IRL,Ireland,Eur. & Cent. Asia,HIC,0.0,0.999,0.001,0.0,AD-bio-CNG,0.999
+IMN,Isle of Man,Eur. & Cent. Asia,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+ITA,Italy,Eur. & Cent. Asia,HIC,0.0,0.387,0.0,0.613,Prevention,0.613
+KAZ,Kazakhstan,Eur. & Cent. Asia,UMIC,0.246,0.011,0.0,0.743,Prevention,0.743
+XKX,Kosovo,Eur. & Cent. Asia,UMIC,0.283,0.0,0.0,0.717,Prevention,0.717
+KGZ,Kyrgyz Republic,Eur. & Cent. Asia,LMIC,0.0,0.159,0.0,0.841,Prevention,0.841
+LVA,Latvia,Eur. & Cent. Asia,HIC,0.0,0.463,0.0,0.537,Prevention,0.537
+LIE,Liechtenstein,Eur. & Cent. Asia,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+LTU,Lithuania,Eur. & Cent. Asia,HIC,0.0,0.371,0.0,0.629,Prevention,0.629
+LUX,Luxembourg,Eur. & Cent. Asia,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+MDA,Moldova,Eur. & Cent. Asia,UMIC,0.336,0.192,0.0,0.472,No robust winner,0.472
+MCO,Monaco,Eur. & Cent. Asia,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+MNE,Montenegro,Eur. & Cent. Asia,UMIC,0.041,0.324,0.0,0.635,Prevention,0.635
+NLD,Netherlands,Eur. & Cent. Asia,HIC,0.0,0.567,0.0,0.433,AD-bio-CNG,0.567
+MKD,North Macedonia,Eur. & Cent. Asia,UMIC,0.088,0.088,0.0,0.824,Prevention,0.824
+NOR,Norway,Eur. & Cent. Asia,HIC,0.0,0.882,0.0,0.118,AD-bio-CNG,0.882
+POL,Poland,Eur. & Cent. Asia,HIC,0.555,0.104,0.0,0.341,AD-electricity,0.555
+PRT,Portugal,Eur. & Cent. Asia,HIC,0.0,0.517,0.0,0.483,AD-bio-CNG,0.517
+ROU,Romania,Eur. & Cent. Asia,HIC,0.0,0.236,0.0,0.764,Prevention,0.764
+RUS,Russian Federation,Eur. & Cent. Asia,UMIC,0.01,0.478,0.0,0.512,Prevention,0.512
+SMR,San Marino,Eur. & Cent. Asia,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+SRB,Serbia,Eur. & Cent. Asia,UMIC,0.189,0.054,0.0,0.757,Prevention,0.757
+SVK,Slovak Republic,Eur. & Cent. Asia,HIC,0.0,0.242,0.0,0.758,Prevention,0.758
+SVN,Slovenia,Eur. & Cent. Asia,HIC,0.0,0.643,0.001,0.356,AD-bio-CNG,0.643
+ESP,Spain,Eur. & Cent. Asia,HIC,0.0,1.0,0.0,0.0,AD-bio-CNG,1.0
+SWE,Sweden,Eur. & Cent. Asia,HIC,0.0,0.244,0.0,0.756,Prevention,0.756
+CHE,Switzerland,Eur. & Cent. Asia,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+TJK,Tajikistan,Eur. & Cent. Asia,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+TKM,Turkmenistan,Eur. & Cent. Asia,UMIC,0.205,0.0,0.0,0.795,Prevention,0.795
+TUR,Türkiye,Eur. & Cent. Asia,UMIC,0.022,0.212,0.0,0.766,Prevention,0.766
+UKR,Ukraine,Eur. & Cent. Asia,LMIC,0.0,0.355,0.0,0.645,Prevention,0.645
+GBR,United Kingdom,Eur. & Cent. Asia,HIC,0.0,0.881,0.001,0.118,AD-bio-CNG,0.881
+UZB,Uzbekistan,Eur. & Cent. Asia,LMIC,0.688,0.0,0.0,0.312,AD-electricity,0.688
+ATG,Antigua and Barbuda,L. Amer. & the Caribbean,HIC,0.099,0.136,0.0,0.765,Prevention,0.765
+ARG,Argentina,L. Amer. & the Caribbean,UMIC,0.001,0.526,0.0,0.473,AD-bio-CNG,0.526
+ABW,Aruba,L. Amer. & the Caribbean,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+BHS,"Bahamas, The",L. Amer. & the Caribbean,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+BRB,Barbados,L. Amer. & the Caribbean,HIC,0.143,0.196,0.0,0.661,Prevention,0.661
+BLZ,Belize,L. Amer. & the Caribbean,UMIC,0.0,0.091,0.0,0.909,Prevention,0.909
+BOL,Bolivia,L. Amer. & the Caribbean,LMIC,0.036,0.295,0.0,0.669,Prevention,0.669
+BRA,Brazil,L. Amer. & the Caribbean,UMIC,0.0,0.408,0.0,0.592,Prevention,0.592
+VGB,British Virgin Islands,L. Amer. & the Caribbean,HIC,0.043,0.036,0.0,0.921,Prevention,0.921
+CYM,Cayman Islands,L. Amer. & the Caribbean,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+CHL,Chile,L. Amer. & the Caribbean,HIC,0.0,0.437,0.0,0.563,Prevention,0.563
+COL,Colombia,L. Amer. & the Caribbean,UMIC,0.0,0.418,0.0,0.582,Prevention,0.582
+CRI,Costa Rica,L. Amer. & the Caribbean,UMIC,0.0,0.231,0.0,0.769,Prevention,0.769
+CUB,Cuba,L. Amer. & the Caribbean,UMIC,0.039,0.039,0.0,0.922,Prevention,0.922
+CUW,Curaçao,L. Amer. & the Caribbean,HIC,0.0,0.0,0.255,0.745,Prevention,0.745
+DMA,Dominica,L. Amer. & the Caribbean,UMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+DOM,Dominican Republic,L. Amer. & the Caribbean,UMIC,0.056,0.108,0.0,0.836,Prevention,0.836
+ECU,Ecuador,L. Amer. & the Caribbean,UMIC,0.0,0.78,0.0,0.22,AD-bio-CNG,0.78
+SLV,El Salvador,L. Amer. & the Caribbean,UMIC,0.0,0.202,0.0,0.798,Prevention,0.798
+GRD,Grenada,L. Amer. & the Caribbean,UMIC,0.251,0.117,0.0,0.632,Prevention,0.632
+GTM,Guatemala,L. Amer. & the Caribbean,UMIC,0.0,0.218,0.0,0.782,Prevention,0.782
+GUY,Guyana,L. Amer. & the Caribbean,HIC,0.094,0.066,0.0,0.84,Prevention,0.84
+HTI,Haiti,L. Amer. & the Caribbean,LMIC,0.016,0.061,0.0,0.923,Prevention,0.923
+HND,Honduras,L. Amer. & the Caribbean,LMIC,0.0,0.176,0.0,0.824,Prevention,0.824
+JAM,Jamaica,L. Amer. & the Caribbean,UMIC,0.022,0.057,0.0,0.921,Prevention,0.921
+MEX,Mexico,L. Amer. & the Caribbean,UMIC,0.043,0.593,0.001,0.363,AD-bio-CNG,0.593
+NIC,Nicaragua,L. Amer. & the Caribbean,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+PAN,Panama,L. Amer. & the Caribbean,HIC,0.0,0.191,0.0,0.809,Prevention,0.809
+PRY,Paraguay,L. Amer. & the Caribbean,UMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+PER,Peru,L. Amer. & the Caribbean,UMIC,0.0,0.417,0.0,0.583,Prevention,0.583
+PRI,Puerto Rico,L. Amer. & the Caribbean,HIC,0.65,0.311,0.0,0.039,AD-electricity,0.65
+SXM,Sint Maarten (Dutch),L. Amer. & the Caribbean,HIC,0.0,0.0,0.427,0.573,Prevention,0.573
+KNA,St. Kitts and Nevis,L. Amer. & the Caribbean,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+LCA,St. Lucia,L. Amer. & the Caribbean,UMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+MAF,St. Martin (French),L. Amer. & the Caribbean,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+VCT,St. Vincent and the Grenadines,L. Amer. & the Caribbean,UMIC,0.091,0.145,0.0,0.764,Prevention,0.764
+SUR,Suriname,L. Amer. & the Caribbean,UMIC,0.0,0.08,0.0,0.92,Prevention,0.92
+TTO,Trinidad and Tobago,L. Amer. & the Caribbean,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+TCA,Turks and Caicos Islands,L. Amer. & the Caribbean,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+URY,Uruguay,L. Amer. & the Caribbean,HIC,0.0,0.43,0.0,0.57,Prevention,0.57
+VEN,"Venezuela, RB",L. Amer. & the Caribbean,UMC (2019),0.0,0.206,0.0,0.794,Prevention,0.794
+VIR,Virgin Islands (US),L. Amer. & the Caribbean,HIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+DZA,Algeria,Mid. East & N. Africa,LMIC,0.095,0.085,0.0,0.82,Prevention,0.82
+BHR,Bahrain,Mid. East & N. Africa,HIC,0.269,0.002,0.0,0.729,Prevention,0.729
+DJI,Djibouti,Mid. East & N. Africa,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+EGY,"Egypt, Arab Rep.",Mid. East & N. Africa,LMIC,0.033,0.078,0.0,0.889,Prevention,0.889
+IRN,"Iran, Islamic Rep.",Mid. East & N. Africa,LMIC,0.093,0.062,0.0,0.845,Prevention,0.845
+IRQ,Iraq,Mid. East & N. Africa,UMIC,0.13,0.051,0.0,0.819,Prevention,0.819
+ISR,Israel,Mid. East & N. Africa,HIC,0.08,0.154,0.0,0.766,Prevention,0.766
+JOR,Jordan,Mid. East & N. Africa,LMIC,0.038,0.128,0.0,0.834,Prevention,0.834
+KWT,Kuwait,Mid. East & N. Africa,HIC,0.123,0.113,0.0,0.764,Prevention,0.764
+LBN,Lebanon,Mid. East & N. Africa,LMIC,0.001,0.165,0.0,0.834,Prevention,0.834
+LBY,Libya,Mid. East & N. Africa,UMIC,0.148,0.007,0.0,0.845,Prevention,0.845
+MLT,Malta,Mid. East & N. Africa,HIC,0.033,0.219,0.0,0.748,Prevention,0.748
+MAR,Morocco,Mid. East & N. Africa,LMIC,0.163,0.096,0.0,0.741,Prevention,0.741
+OMN,Oman,Mid. East & N. Africa,HIC,0.124,0.318,0.0,0.558,Prevention,0.558
+QAT,Qatar,Mid. East & N. Africa,HIC,0.089,0.147,0.0,0.764,Prevention,0.764
+SAU,Saudi Arabia,Mid. East & N. Africa,HIC,0.348,0.1,0.0,0.552,Prevention,0.552
+SYR,Syrian Arab Republic,Mid. East & N. Africa,LIC,0.068,0.036,0.0,0.896,Prevention,0.896
+TUN,Tunisia,Mid. East & N. Africa,LMIC,0.053,0.139,0.0,0.808,Prevention,0.808
+ARE,United Arab Emirates,Mid. East & N. Africa,HIC,0.058,0.175,0.0,0.767,Prevention,0.767
+PSE,West Bank and Gaza,Mid. East & N. Africa,UMIC,0.009,0.16,0.0,0.831,Prevention,0.831
+YEM,"Yemen, Rep.",Mid. East & N. Africa,LIC,0.034,0.065,0.0,0.901,Prevention,0.901
+BMU,Bermuda,N. Amer.,HIC,0.14,0.098,0.0,0.762,Prevention,0.762
+CAN,Canada,N. Amer.,HIC,0.0,0.363,0.0,0.637,Prevention,0.637
+USA,United States,N. Amer.,HIC,0.01,0.941,0.002,0.047,AD-bio-CNG,0.941
+AFG,Afghanistan,S. Asia,LIC,0.0,0.176,0.0,0.824,Prevention,0.824
+BGD,Bangladesh,S. Asia,LMIC,0.277,0.108,0.0,0.615,Prevention,0.615
+BTN,Bhutan,S. Asia,LMIC,0.0,0.197,0.0,0.803,Prevention,0.803
+IND,India,S. Asia,LMIC,0.174,0.053,0.0,0.773,Prevention,0.773
+MDV,Maldives,S. Asia,UMIC,0.059,0.075,0.0,0.866,Prevention,0.866
+NPL,Nepal,S. Asia,LMIC,0.0,0.194,0.0,0.806,Prevention,0.806
+PAK,Pakistan,S. Asia,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+LKA,Sri Lanka,S. Asia,LMIC,0.0,0.08,0.0,0.92,Prevention,0.92
+AGO,Angola,Sub-Saharan Africa,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+BEN,Benin,Sub-Saharan Africa,LMIC,0.089,0.147,0.0,0.764,Prevention,0.764
+BWA,Botswana,Sub-Saharan Africa,UMIC,0.22,0.008,0.0,0.772,Prevention,0.772
+BFA,Burkina Faso,Sub-Saharan Africa,LIC,0.037,0.082,0.0,0.881,Prevention,0.881
+BDI,Burundi,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+CPV,Cabo Verde,Sub-Saharan Africa,LMIC,0.007,0.09,0.0,0.903,Prevention,0.903
+CMR,Cameroon,Sub-Saharan Africa,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+CAF,Central African Republic,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+TCD,Chad,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+COM,Comoros,Sub-Saharan Africa,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+COG,"Congo, Rep.",Sub-Saharan Africa,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+CIV,Côte d’Ivoire,Sub-Saharan Africa,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+GNQ,Equatorial Guinea,Sub-Saharan Africa,UMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+ERI,Eritrea,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+SWZ,Eswatini,Sub-Saharan Africa,LMIC,0.0,0.243,0.0,0.757,Prevention,0.757
+ETH,Ethiopia,Sub-Saharan Africa,LIC,0.0,0.149,0.0,0.851,Prevention,0.851
+GAB,Gabon,Sub-Saharan Africa,UMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+GMB,"Gambia, The",Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+GHA,Ghana,Sub-Saharan Africa,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+GIN,Guinea,Sub-Saharan Africa,LMIC,0.0,0.24,0.0,0.76,Prevention,0.76
+GNB,Guinea-Bissau,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+KEN,Kenya,Sub-Saharan Africa,LMIC,0.0,0.197,0.0,0.803,Prevention,0.803
+LSO,Lesotho,Sub-Saharan Africa,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+LBR,Liberia,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+MDG,Madagascar,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+MWI,Malawi,Sub-Saharan Africa,LIC,0.0,0.244,0.0,0.756,Prevention,0.756
+MLI,Mali,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+MRT,Mauritania,Sub-Saharan Africa,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+MUS,Mauritius,Sub-Saharan Africa,UMIC,0.52,0.48,0.0,0.0,AD-electricity,0.52
+MOZ,Mozambique,Sub-Saharan Africa,LIC,0.0,0.092,0.0,0.908,Prevention,0.908
+NAM,Namibia,Sub-Saharan Africa,UMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+NER,Niger,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+NGA,Nigeria,Sub-Saharan Africa,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+RWA,Rwanda,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+SEN,Senegal,Sub-Saharan Africa,LMIC,0.041,0.122,0.0,0.837,Prevention,0.837
+SYC,Seychelles,Sub-Saharan Africa,HIC,0.091,0.23,0.0,0.679,Prevention,0.679
+SLE,Sierra Leone,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+ZAF,South Africa,Sub-Saharan Africa,UMIC,0.153,0.032,0.0,0.815,Prevention,0.815
+SSD,South Sudan,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+SDN,Sudan,Sub-Saharan Africa,LIC,0.0,0.126,0.0,0.874,Prevention,0.874
+STP,São Tomé and Príncipe,Sub-Saharan Africa,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+TZA,Tanzania,Sub-Saharan Africa,LMIC,0.0,0.08,0.0,0.92,Prevention,0.92
+TGO,Togo,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+UGA,Uganda,Sub-Saharan Africa,LIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0
+ZMB,Zambia,Sub-Saharan Africa,LMIC,0.0,0.243,0.0,0.757,Prevention,0.757
+ZWE,Zimbabwe,Sub-Saharan Africa,LMIC,0.0,0.0,0.0,0.0,Missing/insufficient data,0.0

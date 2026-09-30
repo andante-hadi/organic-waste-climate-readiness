@@ -1,0 +1,9 @@
+metric,value
+cities_total,262.0
+cities_with_msw_tpy,244.0
+cities_with_food_or_green_fraction,201.0
+cities_with_treatment_shares,195.0
+ofmsw_food_green_mt,93.86121326571745
+ofmsw_food_green_to_landfill_dump_uncollected_mt,58.337227251999195
+cities_with_ad_asset_data,8.0
+cities_with_compost_asset_data,62.0

@@ -1,0 +1,17 @@
+country,region,best_four_pathway_screen,best_benefit_mtco2e,mitigation_potential_score,best_pathway_readiness_score,opportunity_readiness_class
+China,E. Asia & Pacific,Prevention,31.83658155139289,1.0,0.6728360774799244,Immediate priority
+United States,N. Amer.,AD-bio-CNG,28.961833058450043,1.0,0.8507307029350961,Immediate priority
+India,S. Asia,Prevention,21.670975425812383,1.0,0.5717633194699608,Strategic build-out
+Brazil,L. Amer. & the Caribbean,Prevention,19.41702135656409,1.0,0.8053680471703467,Immediate priority
+Mexico,L. Amer. & the Caribbean,AD-bio-CNG,9.400086068717005,1.0,0.6975139855039358,Immediate priority
+Indonesia,E. Asia & Pacific,Prevention,8.619671166892678,1.0,0.7001696778348313,Immediate priority
+Russian Federation,Eur. & Cent. Asia,AD-bio-CNG,7.638472118028007,1.0,0.5671756543474713,Strategic build-out
+Türkiye,Eur. & Cent. Asia,Prevention,6.83024761849908,1.0,0.7648577383801993,Immediate priority
+"Iran, Islamic Rep.",Mid. East & N. Africa,Prevention,5.668140058539819,0.9896561617484902,0.5419177591141824,Strategic build-out
+Iraq,Mid. East & N. Africa,Prevention,5.422690600476332,0.9841999711844832,0.8187902945316362,Immediate priority
+"Egypt, Arab Rep.",Mid. East & N. Africa,Prevention,5.140421583702003,0.9776113379481404,0.6119995662486959,Immediate priority
+Thailand,E. Asia & Pacific,Prevention,4.877103086213104,0.9711303440645884,0.7641480423590766,Immediate priority
+Saudi Arabia,Mid. East & N. Africa,Prevention,4.693274707371081,0.9663949349641404,0.879156165703806,Immediate priority
+Philippines,E. Asia & Pacific,Prevention,4.0023260483580625,0.9467666060743666,0.5685726497081879,Strategic build-out
+Colombia,L. Amer. & the Caribbean,Prevention,3.9943219501948186,0.9465198742433693,0.7854764149254675,Immediate priority
+Argentina,L. Amer. & the Caribbean,AD-bio-CNG,3.99426858769639,0.946518227649086,0.685723349846134,Immediate priority
